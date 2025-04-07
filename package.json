@@ -1,1 +1,14 @@
-
+{
+  "name": "nova-data",
+  "version": "1.0.0",
+  "description": "A repository for updating data.json from Google Sheets",
+  "main": "update-data.js",
+  "scripts": {
+    "start": "node update-data.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
