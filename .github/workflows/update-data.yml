@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          persist-credentials: false
+          persist-credentials: false  # Disable automatic GITHUB_TOKEN
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -29,14 +29,19 @@ jobs:
         env:
           PAT: ${{ secrets.PAT }}
         run: |
-          git remote set-url origin https://${PAT}@github.com/Lol-man123/nova-data.git
+          # This sets the remote URL using the PAT
+          git remote set-url origin https://x-access-token:${PAT}@github.com/Lol-man123/nova-data.git
+          # Optional: print the remote URL to verify (the token should be masked in the logs)
+          git remote -v
 
       - name: Commit changes
-        env:
-          PAT: ${{ secrets.PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data.json
           git diff --cached --quiet || git commit -m "Update data.json"
-          git push origin HEAD:main
+
+      - name: Push changes
+        run: git push origin HEAD:main
+        env:
+          PAT: ${{ secrets.PAT }}
