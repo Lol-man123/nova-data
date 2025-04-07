@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -23,6 +25,12 @@ jobs:
       - name: Run update script
         run: node update-data.js
 
+      - name: Set remote URL with PAT
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          git remote set-url origin https://${PAT}@github.com/Lol-man123/nova-data.git
+
       - name: Commit changes
         env:
           PAT: ${{ secrets.PAT }}
@@ -31,4 +39,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add data.json
           git diff --cached --quiet || git commit -m "Update data.json"
-          git push https://${PAT}@github.com/Lol-man123/nova-data.git HEAD:main
+          git push origin HEAD:main
