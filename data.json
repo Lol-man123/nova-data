@@ -42,37 +42,103 @@
           "No"
         ],
         [
-          "Christmas Robot"
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "2,000",
+          "8",
+          "1,200",
+          "3",
+          "Yes"
         ],
         [
-          "Almighty Hexarium"
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "12,000",
+          "10",
+          "80",
+          "7",
+          "Yes"
         ],
         [
-          "Trophy"
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "2,800",
+          "9",
+          "224",
+          "8",
+          "Yes"
         ],
         [
-          "Pot O' Gold"
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "2,200",
+          "9",
+          "300",
+          "8",
+          "Yes"
         ],
         [
-          "Easter Basket"
+          "Easter Basket",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "5,500",
+          "9",
+          "180",
+          "8",
+          "Yes"
         ],
         [
-          "Lord Shock"
+          "Lord Shock",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "4,000",
+          "9",
+          "250",
+          "8",
+          "Yes"
         ],
         [
-          "Love Theif"
+          "Love Theif",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "800",
+          "6",
+          "1400",
+          "5",
+          "Yes"
         ],
         [
-          "Soul Heart"
+          "Soul Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "1,900",
+          "7",
+          "600",
+          "6",
+          "Yes"
         ],
         [
-          "Eternal Heart"
+          "Eternal Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "650",
+          "6",
+          "2,300",
+          "4",
+          "Yes"
         ],
         [
-          "Harmonic Harp"
+          "Harmonic Harp",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "600",
+          "6",
+          "2,000",
+          "3",
+          "Yes"
         ],
         [
-          "New Year Champion"
+          "New Year Champion",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "2,500",
+          "8",
+          "290",
+          "5",
+          "Yes"
         ]
       ]
     },
@@ -110,23 +176,56 @@
         [
           "Shiny Holy Bell",
           "https://i.ibb.co/CBWQ3c7/Shiny-Bell.webp",
-          "1200",
+          "1,200",
           "7",
           "2000",
           "4",
           "Yes"
         ],
         [
-          "Shiny Sinister Lord"
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "180,000",
+          "9",
+          "3",
+          "10",
+          "Yes"
         ],
         [
-          "Shiny Radiance"
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "40,000",
+          "7",
+          "14",
+          "8",
+          "Yes"
         ],
         [
-          "Shiny Luminance"
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "200,000",
+          "10",
+          "2",
+          "10",
+          "Yes"
         ],
         [
-          "Shiny Guardian Skull"
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "8,000",
+          "7",
+          "80",
+          "6",
+          "Yes"
+        ],
+        [
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "3,000",
+          "5",
+          "200",
+          "4",
+          "Yes"
         ]
       ]
     },
@@ -3018,6 +3117,1084 @@
           "Pet Name",
           "<Empty>",
           "Shiny Guardian Skull",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:00:37",
+          "Shiny Mythic ",
+          "No Image",
+          "ShinySecrets",
+          "Row 9, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Mythic ",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:00:46",
+          "Shiny 1B Trophy",
+          "No Image",
+          "ShinySecrets",
+          "Row 9, Column 1",
+          "Pet Name",
+          "Shiny Mythic ",
+          "Shiny 1B Trophy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:01:15",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:01:37",
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "ShinySecrets",
+          "Row 6, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:02:39",
+          "Shiny Godly Gem",
+          "No Image",
+          "ShinySecrets",
+          "Row 7, Column 1",
+          "Pet Name",
+          "Shiny Luminance",
+          "Shiny Godly Gem",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:03:10",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:05:15",
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 8, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:05:42",
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "ShinySecrets",
+          "Row 9, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:05:53",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "180000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:05:56",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 3",
+          "Value",
+          "180000",
+          "180,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:00",
+          "Shiny Holy Bell",
+          "https://i.ibb.co/CBWQ3c7/Shiny-Bell.webp",
+          "ShinySecrets",
+          "Row 4, Column 3",
+          "Value",
+          "1200",
+          "1,200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:04",
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "ShinySecrets",
+          "Row 6, Column 3",
+          "Value",
+          "<Empty>",
+          "40,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:09",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 3",
+          "Value",
+          "<Empty>",
+          "200,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:17",
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 8, Column 3",
+          "Value",
+          "<Empty>",
+          "8,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:22",
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "ShinySecrets",
+          "Row 9, Column 3",
+          "Value",
+          "<Empty>",
+          "3,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:25",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 4",
+          "Demand",
+          "<Empty>",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:30",
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "ShinySecrets",
+          "Row 6, Column 4",
+          "Demand",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:31",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:35",
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 8, Column 4",
+          "Demand",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:38",
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "ShinySecrets",
+          "Row 9, Column 4",
+          "Demand",
+          "<Empty>",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:55",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 5",
+          "Existing",
+          "<Empty>",
+          "3",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:06:58",
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "ShinySecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "<Empty>",
+          "14",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:13",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "<Empty>",
+          "1",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:16",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "1",
+          "2",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:22",
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 8, Column 5",
+          "Existing",
+          "<Empty>",
+          "80",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:25",
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "ShinySecrets",
+          "Row 9, Column 5",
+          "Existing",
+          "<Empty>",
+          "200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:28",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:30",
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "ShinySecrets",
+          "Row 6, Column 6",
+          "Rarity",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:31",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:34",
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 8, Column 6",
+          "Rarity",
+          "<Empty>",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:37",
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "ShinySecrets",
+          "Row 9, Column 6",
+          "Rarity",
+          "<Empty>",
+          "4",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:40",
+          "Shiny Sinister Lord",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d7/ShinySinister.png/revision/latest?cb=20191024030518",
+          "ShinySecrets",
+          "Row 5, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:41",
+          "Shiny Radiance",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/2/28/ShinyRadianceee.png/revision/latest/scale-to-width/360?cb=20200207234159",
+          "ShinySecrets",
+          "Row 6, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:42",
+          "Shiny Godly Gem",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 7, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:44",
+          "Shiny 1B Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/8/8f/Shiny_1B_Trophy.png/revision/latest/scale-to-width/360?cb=20210405131353",
+          "ShinySecrets",
+          "Row 9, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:07:45",
+          "Shiny Guardian Skull",
+          "https://static.wikia.nocookie.net/petcatchers/images/5/52/Shiny_Godly_Gem.png/revision/latest/scale-to-width/360?cb=20240506114417",
+          "ShinySecrets",
+          "Row 8, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:10:05",
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "NormalSecrets",
+          "Row 5, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:10:22",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:10:36",
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "NormalSecrets",
+          "Row 7, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:10:49",
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "NormalSecrets",
+          "Row 8, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:11:00",
+          "Easter Basket",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "NormalSecrets",
+          "Row 9, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:11:11",
+          "Lord Shock",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "NormalSecrets",
+          "Row 10, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:11:22",
+          "Love Theif",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "NormalSecrets",
+          "Row 11, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:11:34",
+          "Soul Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "NormalSecrets",
+          "Row 12, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:11:42",
+          "Eternal Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "NormalSecrets",
+          "Row 13, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:11:55",
+          "Harmonic Harp",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "NormalSecrets",
+          "Row 14, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:06",
+          "New Year Champion",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "NormalSecrets",
+          "Row 15, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:12",
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "NormalSecrets",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "2000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:21",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 3",
+          "Value",
+          "12000",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:20",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 3",
+          "Value",
+          "<Empty>",
+          "12,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:25",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 3",
+          "Value",
+          "<Empty>",
+          "12000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:41",
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "NormalSecrets",
+          "Row 7, Column 3",
+          "Value",
+          "<Empty>",
+          "2200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:43",
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "NormalSecrets",
+          "Row 8, Column 3",
+          "Value",
+          "<Empty>",
+          "3,800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:57",
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "NormalSecrets",
+          "Row 8, Column 3",
+          "Value",
+          "3800",
+          "2200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:12:59",
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "NormalSecrets",
+          "Row 7, Column 3",
+          "Value",
+          "2200",
+          "2800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:06",
+          "Lord Shock",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "NormalSecrets",
+          "Row 10, Column 3",
+          "Value",
+          "<Empty>",
+          "4,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:08",
+          "Love Theif",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "NormalSecrets",
+          "Row 11, Column 3",
+          "Value",
+          "<Empty>",
+          "800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:16",
+          "Soul Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "NormalSecrets",
+          "Row 12, Column 3",
+          "Value",
+          "<Empty>",
+          "1,900",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:22",
+          "Eternal Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "NormalSecrets",
+          "Row 13, Column 3",
+          "Value",
+          "<Empty>",
+          "650",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:25",
+          "Harmonic Harp",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "NormalSecrets",
+          "Row 14, Column 3",
+          "Value",
+          "<Empty>",
+          "600",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:25",
+          "New Year Champion",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "NormalSecrets",
+          "Row 15, Column 3",
+          "Value",
+          "<Empty>",
+          "2,500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:29",
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "NormalSecrets",
+          "Row 5, Column 4",
+          "Demand",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:30",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:34",
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "NormalSecrets",
+          "Row 8, Column 4",
+          "Demand",
+          "<Empty>",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:34",
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "NormalSecrets",
+          "Row 7, Column 4",
+          "Demand",
+          "<Empty>",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:35",
+          "Lord Shock",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "NormalSecrets",
+          "Row 10, Column 4",
+          "Demand",
+          "<Empty>",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:36",
+          "Easter Basket",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "NormalSecrets",
+          "Row 9, Column 4",
+          "Demand",
+          "<Empty>",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:38",
+          "Love Theif",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "NormalSecrets",
+          "Row 11, Column 4",
+          "Demand",
+          "<Empty>",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:39",
+          "Soul Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "NormalSecrets",
+          "Row 12, Column 4",
+          "Demand",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:42",
+          "Eternal Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "NormalSecrets",
+          "Row 13, Column 4",
+          "Demand",
+          "<Empty>",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:44",
+          "Harmonic Harp",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "NormalSecrets",
+          "Row 14, Column 4",
+          "Demand",
+          "<Empty>",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:46",
+          "New Year Champion",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "NormalSecrets",
+          "Row 15, Column 4",
+          "Demand",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:54",
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "NormalSecrets",
+          "Row 5, Column 5",
+          "Existing",
+          "<Empty>",
+          "1,200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:13:58",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "<Empty>",
+          "180",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:03",
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "NormalSecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "<Empty>",
+          "224",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:12",
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "NormalSecrets",
+          "Row 8, Column 5",
+          "Existing",
+          "<Empty>",
+          "300",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:21",
+          "Easter Basket",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "NormalSecrets",
+          "Row 9, Column 5",
+          "Existing",
+          "<Empty>",
+          "180",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:28",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "180",
+          "80",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:30",
+          "Lord Shock",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "NormalSecrets",
+          "Row 10, Column 5",
+          "Existing",
+          "<Empty>",
+          "250",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:34",
+          "Love Theif",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "NormalSecrets",
+          "Row 11, Column 5",
+          "Existing",
+          "<Empty>",
+          "1400",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:40",
+          "Soul Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "NormalSecrets",
+          "Row 12, Column 5",
+          "Existing",
+          "<Empty>",
+          "600",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:46",
+          "Eternal Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "NormalSecrets",
+          "Row 13, Column 5",
+          "Existing",
+          "<Empty>",
+          "2,300",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:49",
+          "Harmonic Harp",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "NormalSecrets",
+          "Row 14, Column 5",
+          "Existing",
+          "<Empty>",
+          "2,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:14:54",
+          "New Year Champion",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "NormalSecrets",
+          "Row 15, Column 5",
+          "Existing",
+          "<Empty>",
+          "290",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:02",
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "NormalSecrets",
+          "Row 5, Column 6",
+          "Rarity",
+          "<Empty>",
+          "3",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:04",
+          "Almighty Hexarium",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/b/b0/Almighty_Hexarium.png/revision/latest?cb=20210307011337",
+          "NormalSecrets",
+          "Row 6, Column 6",
+          "Rarity",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:07",
+          "Trophy",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/c/cd/Trophy.png/revision/latest?cb=20190322160334",
+          "NormalSecrets",
+          "Row 7, Column 6",
+          "Rarity",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:09",
+          "Easter Basket",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "NormalSecrets",
+          "Row 9, Column 6",
+          "Rarity",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:09",
+          "Lord Shock",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/d/d3/Lord_Shock.png/revision/latest?cb=20190525024251",
+          "NormalSecrets",
+          "Row 10, Column 6",
+          "Rarity",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:09",
+          "Pot O' Gold",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS511pWYlj0-UzutVDzPbCzZGcyBX21KUMyLA&s",
+          "NormalSecrets",
+          "Row 8, Column 6",
+          "Rarity",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:11",
+          "Love Theif",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/6/62/Love_Thief.png/revision/latest?cb=20210213002949",
+          "NormalSecrets",
+          "Row 11, Column 6",
+          "Rarity",
+          "<Empty>",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:17",
+          "Soul Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/3/39/Soul_Heart.png/revision/latest?cb=20190215054125",
+          "NormalSecrets",
+          "Row 12, Column 6",
+          "Rarity",
+          "<Empty>",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:18",
+          "Eternal Heart",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/e/ea/Eternal_Heart.png/revision/latest?cb=20200207201011",
+          "NormalSecrets",
+          "Row 13, Column 6",
+          "Rarity",
+          "<Empty>",
+          "4",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:20",
+          "Harmonic Harp",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/1/1b/Harmonic_Harp.png/revision/latest?cb=20210213003039",
+          "NormalSecrets",
+          "Row 14, Column 6",
+          "Rarity",
+          "<Empty>",
+          "3",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:24",
+          "New Year Champion",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/4/4a/New_Year_Champion.png/revision/latest?cb=20210101213239",
+          "NormalSecrets",
+          "Row 15, Column 6",
+          "Rarity",
+          "<Empty>",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:29",
+          "Christmas Robot",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dFSXomf9c_VMgw7iw7llrO5fkJo66MAGsQ&s",
+          "NormalSecrets",
+          "Row 5, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:15:33",
+          "Unknown Pet",
+          "No Image",
+          "NormalSecrets",
+          "Row 1000, Column 7",
+          "Is Limited",
+          "Yes",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/9/2025, 15:17:02",
+          "Easter Basket",
+          "https://static.wikia.nocookie.net/bubble-gum-simulator/images/0/00/Easter_Basket.png/revision/latest?cb=20190506144316",
+          "NormalSecrets",
+          "Row 9, Column 3",
+          "Value",
+          "<Empty>",
+          "5,500",
           "thelolman76@gmail.com"
         ]
       ]
