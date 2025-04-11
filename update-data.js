@@ -9,8 +9,6 @@ const SHEET_NAMES = [
   "ShinyMythicSecrets",
   "Robux",
   "ShinyRobux",
-  "MythicRobux",
-  "ShinyMythicRobux",
   "Legendary",
   "ShinyLegendary",
   "MythicLegendary",
