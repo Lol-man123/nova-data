@@ -1,7 +1,1254 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Unable to parse range: MythicRobux",
-    "status": "INVALID_ARGUMENT"
-  }
+  "spreadsheetId": "17VzE-oCbYz9uovYlqJDR9rjeCP1A9c4PmAZRdVj8CyM",
+  "valueRanges": [
+    {
+      "range": "NormalSecrets!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity",
+          "Is Limited"
+        ],
+        [
+          "The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "0",
+          "10",
+          "1",
+          "8",
+          "No"
+        ],
+        [
+          "King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ]
+      ]
+    },
+    {
+      "range": "ShinySecrets!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity",
+          "Is Limited"
+        ],
+        [
+          "Shiny The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Shiny Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Shiny King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Shiny Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ]
+      ]
+    },
+    {
+      "range": "MythicSecrets!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "Mythic The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Mythic Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Mythic King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Mythic Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ]
+      ]
+    },
+    {
+      "range": "ShinyMythicSecrets!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity",
+          "Is Limited"
+        ],
+        [
+          "Shiny Mythic The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Shiny Mythic Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Shiny Mythic King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ],
+        [
+          "Shiny Mythic Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "0",
+          "10",
+          "0",
+          "10",
+          "No"
+        ]
+      ]
+    },
+    {
+      "range": "Robux!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "Beta TV",
+          "https://tr.rbxcdn.com/180DAY-28f4088b7a7e970aa253bf3aeec5dec7/150/150/Image/Webp/noFilter",
+          "0",
+          "7",
+          "0",
+          "5"
+        ],
+        [
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "0",
+          "8",
+          "436",
+          "5"
+        ]
+      ]
+    },
+    {
+      "range": "ShinyRobux!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "Shiny Beta TV",
+          "https://i.ibb.co/FqnX92xt/no-Filter-3-1.png",
+          "0",
+          "10",
+          "554",
+          "7"
+        ],
+        [
+          "Shiny Dowodle",
+          "https://i.ibb.co/pjPsGhfC/download.png",
+          "0",
+          "10",
+          "326",
+          "8"
+        ]
+      ]
+    },
+    {
+      "range": "Legendary!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ]
+      ]
+    },
+    {
+      "range": "ShinyLegendary!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "Shiny King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Shiny Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ]
+      ]
+    },
+    {
+      "range": "MythicLegendary!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "Mythic King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Mythic Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ]
+      ]
+    },
+    {
+      "range": "ShinyMythicLegendary!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image URL",
+          "Value",
+          "Demand",
+          "Existing",
+          "Rarity"
+        ],
+        [
+          "Shiny Mythic King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Shiny Mythic Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "0",
+          "10",
+          "0",
+          "10"
+        ]
+      ]
+    },
+    {
+      "range": "Owners!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image",
+          "Hatched",
+          "Existing",
+          "Known Owners"
+        ],
+        [
+          "The Overlord",
+          "https://i.ibb.co/DDCYKTx/levi.png",
+          "13",
+          "9",
+          "ZOMG",
+          "Lolman",
+          "AlphaGG",
+          "Skibidi",
+          "Lsp",
+          "Kim",
+          "Jong",
+          "Un",
+          "Xi",
+          "Jin",
+          "Ping"
+        ],
+        [
+          "Avernus",
+          "https://i.ibb.co/9cfzMHr/Mythic-Plasma-Wolflord.webp",
+          "14",
+          "3",
+          "Bossman",
+          "ZOMG",
+          "Lsp"
+        ],
+        [
+          "King Doggy",
+          "https://i.ibb.co/H2Bz1R3/Mythic-Godly-Shamrock.webp",
+          "6",
+          "3",
+          "Joe",
+          "Bob",
+          "Bill"
+        ],
+        [
+          "Man Face God"
+        ]
+      ]
+    },
+    {
+      "range": "Wiki!A1:Z1000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Pet Name",
+          "Pet Image",
+          "Egg",
+          "Chance",
+          "Known Owners",
+          "Category",
+          "Rarity",
+          "Type",
+          "Mythic Image",
+          "Shiny Image",
+          "SM Image",
+          "Bubble",
+          "Coin",
+          "Event",
+          "Event Link",
+          "Available"
+        ],
+        [
+          "Leviathan",
+          "https://i.ibb.co/DDCYKTx/levi.png",
+          "Frosty Egg",
+          "10,000,000",
+          "",
+          "Secret",
+          "Legendary",
+          "Flying",
+          "",
+          "https://i.ibb.co/S7B48qx/shinylevi.png",
+          "",
+          "8250",
+          "9428",
+          "3481",
+          "https://i.ibb.co/FXxLRkC/Candy-Cane-Icon-0.webp",
+          "yes"
+        ],
+        [
+          "Giant Robot",
+          "https://i.ibb.co/r4ZdMfk/gr.png",
+          "Blocky Egg",
+          "100,000,000",
+          "",
+          "Legendary",
+          "Secret",
+          "Walking",
+          "",
+          "",
+          "",
+          "10000",
+          "9840",
+          "",
+          "",
+          "no"
+        ]
+      ]
+    },
+    {
+      "range": "'Change Log'!A1:Z2000",
+      "majorDimension": "ROWS",
+      "values": [
+        [
+          "Timestamp",
+          "Pet Name",
+          "Pet Image URL",
+          "Sheet Name",
+          "Cell Location",
+          "Column Name",
+          "Old Value",
+          "New Value",
+          "Editor Email",
+          "Reason"
+        ],
+        [
+          "4/12/2025, 02:04:16",
+          "Shiny The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinySecrets",
+          "Row 2, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:17",
+          "Shiny King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinySecrets",
+          "Row 4, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:18",
+          "Shiny Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "ShinySecrets",
+          "Row 5, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:19",
+          "Shiny The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinySecrets",
+          "Row 2, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:20",
+          "Shiny King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinySecrets",
+          "Row 4, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:21",
+          "Shint Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinySecrets",
+          "Row 3, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:23",
+          "Shiny The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinySecrets",
+          "Row 2, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:24",
+          "Shiny King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinySecrets",
+          "Row 4, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:24",
+          "Shint Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinySecrets",
+          "Row 3, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:24",
+          "Shiny Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "ShinySecrets",
+          "Row 5, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:26",
+          "Shiny The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinySecrets",
+          "Row 2, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:27",
+          "Shint Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinySecrets",
+          "Row 3, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:29",
+          "Shiny King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinySecrets",
+          "Row 4, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:30",
+          "Shiny Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "ShinySecrets",
+          "Row 5, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:04:41",
+          "Shiny Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinySecrets",
+          "Row 3, Column 1",
+          "Pet Name",
+          "Shint Avernus",
+          "Shiny Avernus",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:04",
+          "Mythic The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "MythicSecrets",
+          "Row 2, Column 1",
+          "Pet Name",
+          "Shiny The Overlord",
+          "Mythic The Overlord",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:07",
+          "Mythic Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "MythicSecrets",
+          "Row 3, Column 1",
+          "Pet Name",
+          "Shiny Avernus",
+          "Mythic Avernus",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:10",
+          "Mythic King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "MythicSecrets",
+          "Row 4, Column 1",
+          "Pet Name",
+          "Shiny King Doggy",
+          "Mythic King Doggy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:12",
+          "Mythic Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "MythicSecrets",
+          "Row 5, Column 1",
+          "Pet Name",
+          "Shiny Man Face God",
+          "Mythic Man Face God",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:38",
+          "Shiny Mythic The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinyMythicSecrets",
+          "Row 2, Column 1",
+          "Pet Name",
+          "Mythic The Overlord",
+          "Shiny Mythic The Overlord",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:41",
+          "Shiny Mythic Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinyMythicSecrets",
+          "Row 3, Column 1",
+          "Pet Name",
+          "Mythic Avernus",
+          "Shiny Mythic Avernus",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:46",
+          "Shiny Mythic Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "ShinyMythicSecrets",
+          "Row 5, Column 1",
+          "Pet Name",
+          "Mythic Man Face God",
+          "Shiny Mythic Man Face God",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:47",
+          "Shiny Mythic King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinyMythicSecrets",
+          "Row 4, Column 1",
+          "Pet Name",
+          "Mythic King Doggy",
+          "Shiny Mythic King Doggy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:58",
+          "Beta TV",
+          "https://tr.rbxcdn.com/180DAY-28f4088b7a7e970aa253bf3aeec5dec7/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 2, Column 3",
+          "Value",
+          "1000",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:05:58",
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 3, Column 3",
+          "Value",
+          "3000",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:04",
+          "Beta TV",
+          "https://tr.rbxcdn.com/180DAY-28f4088b7a7e970aa253bf3aeec5dec7/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 2, Column 4",
+          "Demand",
+          "1",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:06",
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 3, Column 4",
+          "Demand",
+          "7",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:32",
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 3, Column 5",
+          "Existing",
+          "326",
+          "436",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:35",
+          "Beta TV",
+          "https://tr.rbxcdn.com/180DAY-28f4088b7a7e970aa253bf3aeec5dec7/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 2, Column 5",
+          "Existing",
+          "554",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:38",
+          "Beta TV",
+          "https://tr.rbxcdn.com/180DAY-28f4088b7a7e970aa253bf3aeec5dec7/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 2, Column 6",
+          "Rarity",
+          "7",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:39",
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 3, Column 6",
+          "Rarity",
+          "7",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:45",
+          "Shiny Dowodle",
+          "https://i.ibb.co/pjPsGhfC/download.png",
+          "ShinyRobux",
+          "Row 3, Column 3",
+          "Value",
+          "6000",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:45",
+          "Shiny Beta TV",
+          "https://i.ibb.co/FqnX92xt/no-Filter-3-1.png",
+          "ShinyRobux",
+          "Row 2, Column 3",
+          "Value",
+          "2000",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:51",
+          "Shiny Beta TV",
+          "https://i.ibb.co/FqnX92xt/no-Filter-3-1.png",
+          "ShinyRobux",
+          "Row 2, Column 4",
+          "Demand",
+          "4",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:06:51",
+          "Shiny Dowodle",
+          "https://i.ibb.co/pjPsGhfC/download.png",
+          "ShinyRobux",
+          "Row 3, Column 4",
+          "Demand",
+          "7",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:07",
+          "The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "NormalSecrets",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:08",
+          "Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "NormalSecrets",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:09",
+          "King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "NormalSecrets",
+          "Row 4, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:10",
+          "Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "NormalSecrets",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:11",
+          "Shiny The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinySecrets",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:12",
+          "Shiny King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinySecrets",
+          "Row 4, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:13",
+          "Shiny Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinySecrets",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:14",
+          "Shiny Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "ShinySecrets",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:16",
+          "Mythic The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "MythicSecrets",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:17",
+          "Mythic Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "MythicSecrets",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:18",
+          "Mythic King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "MythicSecrets",
+          "Row 4, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:19",
+          "Mythic Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "MythicSecrets",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:21",
+          "Shiny Mythic The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "ShinyMythicSecrets",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:22",
+          "Shiny Mythic Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "ShinyMythicSecrets",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:23",
+          "Shiny Mythic King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "ShinyMythicSecrets",
+          "Row 4, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:24",
+          "Shiny Mythic Man Face God",
+          "https://i.ibb.co/3pnsdgJ/unknown.png",
+          "ShinyMythicSecrets",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:26",
+          "Beta TV",
+          "https://tr.rbxcdn.com/180DAY-28f4088b7a7e970aa253bf3aeec5dec7/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:27",
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "Robux",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:30",
+          "Shiny Beta TV",
+          "https://i.ibb.co/FqnX92xt/no-Filter-3-1.png",
+          "ShinyRobux",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:31",
+          "Shiny Dowodle",
+          "https://i.ibb.co/pjPsGhfC/download.png",
+          "ShinyRobux",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:34",
+          "King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "Legendary",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:35",
+          "Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "Legendary",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:38",
+          "King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "Legendary",
+          "Row 2, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:39",
+          "Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "Legendary",
+          "Row 3, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:40",
+          "King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "Legendary",
+          "Row 2, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:40",
+          "Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "Legendary",
+          "Row 3, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:43",
+          "Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "Legendary",
+          "Row 3, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:10:43",
+          "King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "Legendary",
+          "Row 2, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:11:12",
+          "Mythic King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "MythicLegendary",
+          "Row 2, Column 1",
+          "Pet Name",
+          "Shiny King Soul",
+          "Mythic King Soul",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:11:15",
+          "Mythic Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "MythicLegendary",
+          "Row 3, Column 1",
+          "Pet Name",
+          "Shiny Holy Shock",
+          "Mythic Holy Shock",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:11:26",
+          "Shiny Mythic King Soul",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "ShinyMythicLegendary",
+          "Row 2, Column 1",
+          "Pet Name",
+          "Shiny King Soul",
+          "Shiny Mythic King Soul",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 02:11:29",
+          "Shiny Mythic Holy Shock",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "ShinyMythicLegendary",
+          "Row 3, Column 1",
+          "Pet Name",
+          "Shiny Holy Shock",
+          "Shiny Mythic Holy Shock",
+          "thelolman76@gmail.com"
+        ]
+      ]
+    }
+  ]
 }
