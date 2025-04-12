@@ -248,7 +248,7 @@
         ],
         [
           "Shiny Beta TV",
-          "https://i.postimg.cc/gw2MPtH9/sbet.png",
+          "https://i.postimg.cc/1RY7n9WH/sigma.png",
           "0",
           "10",
           "554",
@@ -308,7 +308,7 @@
         ],
         [
           "Shiny King Soul",
-          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "https://tr.rbxcdn.com/180DAY-b3446e959e84315275d3fea902477a60/420/420/Image/Webp/noFilter",
           "0",
           "10",
           "0",
@@ -316,7 +316,7 @@
         ],
         [
           "Shiny Holy Shock",
-          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "https://tr.rbxcdn.com/180DAY-2086deb4b85929e7aabc415ecc840491/420/420/Image/Png/noFilter",
           "0",
           "10",
           "0",
@@ -335,22 +335,6 @@
           "Demand",
           "Existing",
           "Rarity"
-        ],
-        [
-          "Mythic King Soul",
-          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
-          "0",
-          "10",
-          "0",
-          "10"
-        ],
-        [
-          "Mythic Holy Shock",
-          "https://i.ibb.co/20FMGJHr/holy-shock.png",
-          "0",
-          "10",
-          "0",
-          "10"
         ]
       ]
     },
@@ -365,22 +349,6 @@
           "Demand",
           "Existing",
           "Rarity"
-        ],
-        [
-          "Shiny Mythic King Soul",
-          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
-          "0",
-          "10",
-          "0",
-          "10"
-        ],
-        [
-          "Shiny Mythic Holy Shock",
-          "https://i.ibb.co/20FMGJHr/holy-shock.png",
-          "0",
-          "10",
-          "0",
-          "10"
         ]
       ]
     },
@@ -410,7 +378,9 @@
           "Un",
           "Xi",
           "Jin",
-          "Ping"
+          "Ping",
+          "Vibrant177",
+          "Vibrant177"
         ],
         [
           "Avernus",
@@ -1561,6 +1531,39 @@
           "Pet Image URL",
           "https://i.ibb.co/pjPsGhfC/download.png",
           "https://i.postimg.cc/Mc39Z09n/sdow.png",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 19:52:59",
+          "Shiny Beta TV",
+          "https://i.postimg.cc/1RY7n9WH/sigma.png",
+          "ShinyRobux",
+          "Row 2, Column 2",
+          "Pet Image URL",
+          "https://i.postimg.cc/gw2MPtH9/sbet.png",
+          "https://i.postimg.cc/1RY7n9WH/sigma.png",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 19:59:35",
+          "Shiny King Soul",
+          "https://tr.rbxcdn.com/180DAY-b3446e959e84315275d3fea902477a60/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 2, Column 2",
+          "Pet Image URL",
+          "https://i.ibb.co/4wqmQp8Y/king-soul.png",
+          "https://tr.rbxcdn.com/180DAY-b3446e959e84315275d3fea902477a60/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 20:00:06",
+          "Shiny Holy Shock",
+          "https://tr.rbxcdn.com/180DAY-2086deb4b85929e7aabc415ecc840491/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 3, Column 2",
+          "Pet Image URL",
+          "https://i.ibb.co/20FMGJHr/holy-shock.png",
+          "https://tr.rbxcdn.com/180DAY-2086deb4b85929e7aabc415ecc840491/420/420/Image/Png/noFilter",
           "thelolman76@gmail.com"
         ]
       ]
