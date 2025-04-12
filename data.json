@@ -453,7 +453,7 @@
         [
           "Shiny Seraph",
           "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
-          "0",
+          "30,000",
           "10",
           "0",
           "10"
@@ -461,7 +461,7 @@
         [
           "Shiny King Soul",
           "https://tr.rbxcdn.com/180DAY-b3446e959e84315275d3fea902477a60/420/420/Image/Webp/noFilter",
-          "0",
+          "N/A",
           "10",
           "0",
           "10"
@@ -469,7 +469,7 @@
         [
           "Shiny Hacker Prism",
           "https://tr.rbxcdn.com/180DAY-0b0e8b00085b5f8b54ca556e58f57c34/420/420/Image/Png/noFilter",
-          "0",
+          "6,000",
           "10",
           "0",
           "10"
@@ -4538,6 +4538,39 @@
           "Rarity",
           "<Empty>",
           "1",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:26:03 AM",
+          "Shiny Seraph",
+          "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 2, Column 3",
+          "Value",
+          "0",
+          "30000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:26:06 AM",
+          "Shiny King Soul",
+          "https://tr.rbxcdn.com/180DAY-b3446e959e84315275d3fea902477a60/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 3, Column 3",
+          "Value",
+          "0",
+          "N/A",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:26:16 AM",
+          "Shiny Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-0b0e8b00085b5f8b54ca556e58f57c34/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 3",
+          "Value",
+          "0",
+          "6000",
           "thelolman76@gmail.com"
         ]
       ]
