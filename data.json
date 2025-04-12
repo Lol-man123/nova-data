@@ -627,53 +627,98 @@
         [
           "Mythic Seraph",
           "https://tr.rbxcdn.com/180DAY-1e1276099beb190b485b9ad293714be4/420/420/Image/Png/noFilter",
-          "N/A"
+          "N/A",
+          "",
+          "0",
+          "10"
         ],
         [
           "Mythic Hacker Prism",
           "https://tr.rbxcdn.com/180DAY-7f3d6cf83f67f80be428ef53dd3709d8/420/420/Image/Webp/noFilter",
-          "18,000"
+          "18,000",
+          "",
+          "<10",
+          "10"
         ],
         [
           "Mythic Nullvoid",
           "https://tr.rbxcdn.com/180DAY-527b03940954bc5df2f78e11f9de0450/420/420/Image/Png/noFilter",
-          "10,000"
+          "15,000",
+          "",
+          "<100",
+          "10"
         ],
         [
           "Mythic Trio Cube",
-          "https://tr.rbxcdn.com/180DAY-4ca8e87aa18a08a9ea79c5943fa2a215/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-4ca8e87aa18a08a9ea79c5943fa2a215/420/420/Image/Png/noFilter",
+          "4,000",
+          "",
+          "<10",
+          "10"
         ],
         [
           "Mythic Crescent Empress",
-          "https://tr.rbxcdn.com/180DAY-b37c45dd64237f630ab34c2cd4f369af/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-b37c45dd64237f630ab34c2cd4f369af/420/420/Image/Png/noFilter",
+          "7,500",
+          "",
+          "<100",
+          "9"
         ],
         [
           "Mythic Rainbow Shock",
-          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter"
+          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "6,000",
+          "",
+          "<1,000",
+          "7"
         ],
         [
           "Mythic Ophanim",
-          "https://tr.rbxcdn.com/180DAY-0727eb86e52da12af7e25e701ce23dcd/420/420/Image/Webp/noFilter"
+          "https://tr.rbxcdn.com/180DAY-0727eb86e52da12af7e25e701ce23dcd/420/420/Image/Webp/noFilter",
+          "6,000",
+          "",
+          "<1,000",
+          "8"
         ],
         [
           "Mythic Moonburst",
-          "https://tr.rbxcdn.com/180DAY-93c814f3f56b1c7ef10aa9696f23058d/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-93c814f3f56b1c7ef10aa9696f23058d/420/420/Image/Png/noFilter",
+          "3,750",
+          "",
+          "<1,000",
+          "8"
         ],
         [
           "Mythic Hexarium",
-          "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter"
+          "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
+          "3,000",
+          "",
+          "<1,000",
+          "8"
         ],
         [
           "Mythic Demonic Hydra",
-          "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter"
+          "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
+          "2,500",
+          "",
+          "1,000+",
+          "5"
         ],
         [
           "Mythic Sun Burst",
-          "https://tr.rbxcdn.com/180DAY-bd73794ab40391faa47530968676ce60/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-bd73794ab40391faa47530968676ce60/420/420/Image/Png/noFilter",
+          "2,250",
+          "",
+          "<1,000",
+          "5"
         ],
         [
           "Mythic Virus",
-          "https://tr.rbxcdn.com/180DAY-343b0635f454fa7405532edb62c95949/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-343b0635f454fa7405532edb62c95949/420/420/Image/Png/noFilter",
+          "750",
+          "",
+          "1,000+",
+          "3"
         ]
       ]
     },
@@ -691,11 +736,13 @@
         ],
         [
           "Shiny Mythic Seraph",
-          "https://tr.rbxcdn.com/180DAY-88f1edff318afeb03c85792ea60f38ae/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-88f1edff318afeb03c85792ea60f38ae/420/420/Image/Png/noFilter",
+          "N/A"
         ],
         [
           "Shiny Mythic Hacker Prism",
-          "https://tr.rbxcdn.com/180DAY-a3f631bc7aec3b2b76129fc347d981fb/420/420/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-a3f631bc7aec3b2b76129fc347d981fb/420/420/Image/Png/noFilter",
+          "N/A"
         ],
         [
           "Shiny Mythic Nullvoid",
@@ -5588,6 +5635,215 @@
           "Value",
           "<Empty>",
           "18000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:25 AM",
+          "Mythic Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-7f3d6cf83f67f80be428ef53dd3709d8/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 5",
+          "Existing",
+          "<Empty>",
+          "<10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:26 AM",
+          "Mythic Seraph",
+          "https://tr.rbxcdn.com/180DAY-1e1276099beb190b485b9ad293714be4/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 2, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:27 AM",
+          "Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-527b03940954bc5df2f78e11f9de0450/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 4, Column 5",
+          "Existing",
+          "<Empty>",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:27 AM",
+          "Mythic Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-4ca8e87aa18a08a9ea79c5943fa2a215/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 5, Column 5",
+          "Existing",
+          "<Empty>",
+          "<10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:29 AM",
+          "Mythic Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-b37c45dd64237f630ab34c2cd4f369af/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 6, Column 5",
+          "Existing",
+          "<Empty>",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:29 AM",
+          "Mythic Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 7, Column 5",
+          "Existing",
+          "<Empty>",
+          "<1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:30 AM",
+          "Mythic Ophanim",
+          "https://tr.rbxcdn.com/180DAY-0727eb86e52da12af7e25e701ce23dcd/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 8, Column 5",
+          "Existing",
+          "<Empty>",
+          "<1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:31 AM",
+          "Mythic Moonburst",
+          "https://tr.rbxcdn.com/180DAY-93c814f3f56b1c7ef10aa9696f23058d/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 5",
+          "Existing",
+          "<Empty>",
+          "<1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:31 AM",
+          "Mythic Hexarium",
+          "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 10, Column 5",
+          "Existing",
+          "<Empty>",
+          "<1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:32 AM",
+          "Mythic Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 11, Column 5",
+          "Existing",
+          "<Empty>",
+          "<1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:32 AM",
+          "Mythic Sun Burst",
+          "https://tr.rbxcdn.com/180DAY-bd73794ab40391faa47530968676ce60/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 12, Column 5",
+          "Existing",
+          "<Empty>",
+          "<1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:34 AM",
+          "Mythic Virus",
+          "https://tr.rbxcdn.com/180DAY-343b0635f454fa7405532edb62c95949/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 13, Column 5",
+          "Existing",
+          "<Empty>",
+          "1,000+",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:34 AM",
+          "Mythic Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 11, Column 5",
+          "Existing",
+          "<1,000",
+          "1,000+",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:53:55 AM",
+          "Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-527b03940954bc5df2f78e11f9de0450/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 4, Column 3",
+          "Value",
+          "10000",
+          "15000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:54:06 AM",
+          "Mythic Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-4ca8e87aa18a08a9ea79c5943fa2a215/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "12,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:54:28 AM",
+          "Mythic Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-4ca8e87aa18a08a9ea79c5943fa2a215/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 5, Column 3",
+          "Value",
+          "12000",
+          "4000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:58:50 AM",
+          "Mythic Hexarium",
+          "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 10, Column 3",
+          "Value",
+          "<Empty>",
+          "1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:59:12 AM",
+          "Shiny Mythic Seraph",
+          "https://tr.rbxcdn.com/180DAY-88f1edff318afeb03c85792ea60f38ae/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 2, Column 3",
+          "Value",
+          "<Empty>",
+          "N/A",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 12:59:16 AM",
+          "Shiny Mythic Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-a3f631bc7aec3b2b76129fc347d981fb/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "N/A",
           "thelolman76@gmail.com"
         ]
       ]
