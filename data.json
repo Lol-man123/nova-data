@@ -19,7 +19,7 @@
           "https://i.ibb.co/svCXxBgm/pet.png",
           "0",
           "10",
-          "0",
+          "7",
           "10",
           "No"
         ],
@@ -28,7 +28,7 @@
           "https://i.ibb.co/n8k6k8qn/21.png",
           "0",
           "10",
-          "1",
+          "3",
           "8",
           "No"
         ],
@@ -37,7 +37,7 @@
           "https://i.ibb.co/Mk7GVzZN/12333.png",
           "0",
           "10",
-          "0",
+          "1",
           "10",
           "No"
         ],
@@ -1312,6 +1312,39 @@
           "Pet Image URL",
           "https://i.ibb.co/svCXxBgm/pet.png",
           "https://i.ibb.co/RkfpFWFd/overlord-m.png",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 06:04:41",
+          "The Overlord",
+          "https://i.ibb.co/svCXxBgm/pet.png",
+          "NormalSecrets",
+          "Row 2, Column 5",
+          "Existing",
+          "0",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 06:04:42",
+          "Avernus",
+          "https://i.ibb.co/n8k6k8qn/21.png",
+          "NormalSecrets",
+          "Row 3, Column 5",
+          "Existing",
+          "1",
+          "3",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/12/2025, 06:04:43",
+          "King Doggy",
+          "https://i.ibb.co/Mk7GVzZN/12333.png",
+          "NormalSecrets",
+          "Row 4, Column 5",
+          "Existing",
+          "0",
+          "1",
           "thelolman76@gmail.com"
         ]
       ]
