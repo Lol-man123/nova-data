@@ -19,7 +19,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "25,000",
           "10",
-          "73",
+          "96",
           "10",
           "No"
         ],
@@ -35,9 +35,9 @@
         [
           "King Doggy",
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
-          "175,000",
+          "150,000",
           "10",
-          "11",
+          "20",
           "10",
           "No"
         ],
@@ -405,18 +405,18 @@
           "3"
         ],
         [
-          "Demonic Hydra",
-          "https://tr.rbxcdn.com/180DAY-9b0197e2f6847e9c99b12729e4fc7f2b/420/420/Image/Png/noFilter",
-          "175",
-          "4",
+          "Lunar Deity",
+          "https://tr.rbxcdn.com/180DAY-900ce7364436f2ad2f6f80469d8dccfb/420/420/Image/Webp/noFilter",
+          "200",
+          "6",
           "10,000+",
           "3"
         ],
         [
-          "Lunar Deity",
-          "https://tr.rbxcdn.com/180DAY-900ce7364436f2ad2f6f80469d8dccfb/420/420/Image/Webp/noFilter",
-          "150",
-          "6",
+          "Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-9b0197e2f6847e9c99b12729e4fc7f2b/420/420/Image/Png/noFilter",
+          "175",
+          "4",
           "10,000+",
           "3"
         ],
@@ -579,17 +579,17 @@
           "5"
         ],
         [
-          "Shiny Demonic Hydra",
-          "https://tr.rbxcdn.com/180DAY-ed752592941a4fca8b002e0be16c6843/420/420/Image/Webp/noFilter",
-          "875",
+          "Shiny Lunar Deity",
+          "https://tr.rbxcdn.com/180DAY-401e9585d731ac443ce53443f0cf6f70/420/420/Image/Png/noFilter",
+          "1,000",
           "3",
           "1000+",
           "3"
         ],
         [
-          "Shiny Lunar Deity",
-          "https://tr.rbxcdn.com/180DAY-401e9585d731ac443ce53443f0cf6f70/420/420/Image/Png/noFilter",
-          "750",
+          "Shiny Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-ed752592941a4fca8b002e0be16c6843/420/420/Image/Webp/noFilter",
+          "875",
           "3",
           "1000+",
           "3"
@@ -6642,6 +6642,61 @@
           "Existing",
           "3",
           "100+",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:02:18 AM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 4, Column 3",
+          "Value",
+          "175000",
+          "150000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:02:37 AM",
+          "Lunar Deity",
+          "https://tr.rbxcdn.com/180DAY-900ce7364436f2ad2f6f80469d8dccfb/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 18, Column 3",
+          "Value",
+          "150",
+          "200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:02:47 AM",
+          "Shiny Lunar Deity",
+          "https://tr.rbxcdn.com/180DAY-401e9585d731ac443ce53443f0cf6f70/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 18, Column 3",
+          "Value",
+          "750",
+          "1,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:07:59 AM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 2, Column 5",
+          "Existing",
+          "73",
+          "96",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:08:05 AM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 4, Column 5",
+          "Existing",
+          "11",
+          "20",
           "thelolman76@gmail.com"
         ]
       ]
