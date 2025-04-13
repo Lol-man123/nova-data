@@ -279,7 +279,7 @@
         [
           "Seraph",
           "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
-          "6,000",
+          "7,000",
           "10",
           "<100",
           "10"
@@ -301,20 +301,20 @@
           "8"
         ],
         [
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "1,100",
+          "9",
+          "<1,000",
+          "9"
+        ],
+        [
           "NULLVoid",
           "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
           "1,000",
           "9",
           "1,000+",
           "8"
-        ],
-        [
-          "Trio Cube",
-          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
-          "800",
-          "9",
-          "<1,000",
-          "9"
         ],
         [
           "Kitsune",
@@ -453,7 +453,7 @@
         [
           "Shiny Seraph",
           "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
-          "30,000",
+          "35,000",
           "10",
           "0",
           "10"
@@ -6851,6 +6851,50 @@
           "Existing",
           "42",
           "48",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:47:48 PM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 2, Column 3",
+          "Value",
+          "6000",
+          "7000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:47:57 PM",
+          "Shiny Seraph",
+          "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 2, Column 3",
+          "Value",
+          "30000",
+          "35000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:50:06 PM",
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 5, Column 3",
+          "Value",
+          "800",
+          "1100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 7:50:09 PM",
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 5, Column 3",
+          "Value",
+          "1100",
+          "1,100",
           "thelolman76@gmail.com"
         ]
       ]
