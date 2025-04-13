@@ -265,7 +265,7 @@
       ]
     },
     {
-      "range": "Legendary!A1:Z1005",
+      "range": "Legendary!A1:Z1006",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -290,6 +290,14 @@
           "3,000",
           "10",
           "0",
+          "10"
+        ],
+        [
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "1,600",
+          "10",
+          "<100",
           "10"
         ],
         [
@@ -447,7 +455,7 @@
       ]
     },
     {
-      "range": "ShinyLegendary!A1:Z1001",
+      "range": "ShinyLegendary!A1:Z1002",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -472,6 +480,14 @@
           "N/A",
           "10",
           "0",
+          "10"
+        ],
+        [
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "8,000",
+          "10",
+          "<10",
           "10"
         ],
         [
@@ -629,7 +645,7 @@
       ]
     },
     {
-      "range": "MythicLegendary!A1:Z1001",
+      "range": "MythicLegendary!A1:Z1002",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -644,6 +660,14 @@
           "Mythic Seraph",
           "https://tr.rbxcdn.com/180DAY-1e1276099beb190b485b9ad293714be4/420/420/Image/Png/noFilter",
           "N/A",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "24,000",
           "10",
           "0",
           "10"
@@ -668,6 +692,8 @@
           "Mythic Sigma Serpent",
           "https://tr.rbxcdn.com/180DAY-bd345aad82373740ef6ef23233526f1b/420/420/Image/Png/noFilter",
           "12,000",
+          "10",
+          "",
           "10"
         ],
         [
@@ -745,7 +771,7 @@
       ]
     },
     {
-      "range": "ShinyMythicLegendary!A1:Z1001",
+      "range": "ShinyMythicLegendary!A1:Z1002",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -759,7 +785,15 @@
         [
           "Shiny Mythic Seraph",
           "https://tr.rbxcdn.com/180DAY-88f1edff318afeb03c85792ea60f38ae/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Shiny Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "",
           "10",
           "0",
           "10"
@@ -767,7 +801,7 @@
         [
           "Shiny Mythic Hacker Prism",
           "https://tr.rbxcdn.com/180DAY-a3f631bc7aec3b2b76129fc347d981fb/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -775,7 +809,7 @@
         [
           "Shiny Mythic Nullvoid",
           "https://tr.rbxcdn.com/180DAY-081c011820c23d56f28591f479cc4360/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -783,7 +817,7 @@
         [
           "Shiny Mythic Sigma Serpent",
           "https://tr.rbxcdn.com/180DAY-48b8174dbf1dbbc4cf3629628b8428fa/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -791,7 +825,7 @@
         [
           "Shiny Mythic Trio Cube",
           "https://tr.rbxcdn.com/180DAY-28fa1229b1c0ba6e90bfd04c5eb14ddc/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -799,7 +833,7 @@
         [
           "Shiny Mythic Crescent Empress",
           "https://tr.rbxcdn.com/180DAY-1f7c62eba157b3b5f3ca9e9a76f438a3/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -815,7 +849,7 @@
         [
           "Shiny Mythic Ophanim",
           "https://tr.rbxcdn.com/180DAY-2417e47fb2884703ce344a74a6186db5/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -823,7 +857,7 @@
         [
           "Shiny Mythic Moonburst",
           "https://tr.rbxcdn.com/180DAY-1ec156d8b38726291603b545f569540f/420/420/Image/Png/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -847,7 +881,7 @@
         [
           "Shiny Mythic Sun Burst",
           "https://tr.rbxcdn.com/180DAY-8e6cf51a81f5cda12a6d093b28b57153/420/420/Image/Webp/noFilter",
-          "N/A",
+          "",
           "10",
           "0",
           "10"
@@ -7380,6 +7414,369 @@
           "https://tr.rbxcdn.com/180DAY-48b8174dbf1dbbc4cf3629628b8428fa/420/420/Image/Png/noFilter",
           "ShinyMythicLegendary",
           "Row 5, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:12:10 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 4, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Manarium",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:12:11 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 4, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:12:15 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 4, Column 3",
+          "Value",
+          "<Empty>",
+          "1600",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:12:15 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 4, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:12:18 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 4, Column 5",
+          "Existing",
+          "<Empty>",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:12:18 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 4, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:07 PM",
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Manarium",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:08 PM",
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:19 PM",
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 3",
+          "Value",
+          "<Empty>",
+          "8000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:21 PM",
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:23 PM",
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 5",
+          "Existing",
+          "<Empty>",
+          "<10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:25 PM",
+          "Shiny Manarium",
+          "https://tr.rbxcdn.com/180DAY-b5d99f76ad8a6dc9053e324eb74f5d57/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 4, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:52 PM",
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Mythic Manarium",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:13:54 PM",
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:14:05 PM",
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "24000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:14:07 PM",
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:14:07 PM",
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:14:09 PM",
+          "Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-856f52e6be9b3547a47dbf85acbbb4c7/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 3, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:14:12 PM",
+          "Mythic Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-bd345aad82373740ef6ef23233526f1b/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 6, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:14:59 PM",
+          "Shiny Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 3, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Mythic Manarium",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:00 PM",
+          "Shiny Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 3, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:02 PM",
+          "Shiny Mythic Seraph",
+          "https://tr.rbxcdn.com/180DAY-88f1edff318afeb03c85792ea60f38ae/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 2, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:02 PM",
+          "Shiny Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-081c011820c23d56f28591f479cc4360/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 5, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:02 PM",
+          "Shiny Mythic Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-a3f631bc7aec3b2b76129fc347d981fb/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 4, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:04 PM",
+          "Shiny Mythic Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-48b8174dbf1dbbc4cf3629628b8428fa/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 6, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:04 PM",
+          "Shiny Mythic Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-28fa1229b1c0ba6e90bfd04c5eb14ddc/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 7, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:04 PM",
+          "Shiny Mythic Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-1f7c62eba157b3b5f3ca9e9a76f438a3/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 8, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:04 PM",
+          "Shiny Mythic Ophanim",
+          "https://tr.rbxcdn.com/180DAY-2417e47fb2884703ce344a74a6186db5/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 10, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:05 PM",
+          "Shiny Mythic Moonburst",
+          "https://tr.rbxcdn.com/180DAY-1ec156d8b38726291603b545f569540f/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 11, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:06 PM",
+          "Shiny Mythic Sun Burst",
+          "https://tr.rbxcdn.com/180DAY-8e6cf51a81f5cda12a6d093b28b57153/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "Row 14, Column 3",
+          "Value",
+          "N/A",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:14 PM",
+          "Shiny Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 3, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:16 PM",
+          "Shiny Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 3, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:15:17 PM",
+          "Shiny Mythic Manarium",
+          "https://tr.rbxcdn.com/180DAY-019736f18440afec2163e109964e13a3/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "Row 3, Column 6",
           "Rarity",
           "<Empty>",
           "10",
