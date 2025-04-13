@@ -265,7 +265,7 @@
       ]
     },
     {
-      "range": "Legendary!A1:Z1006",
+      "range": "Legendary!A1:Z1007",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -282,6 +282,14 @@
           "7,000",
           "10",
           "<100",
+          "10"
+        ],
+        [
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "N/A",
+          "10",
+          "0",
           "10"
         ],
         [
@@ -7780,6 +7788,72 @@
           "Rarity",
           "<Empty>",
           "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:36:25 PM",
+          "Demonic Dogcat",
+          "No Image",
+          "Legendary",
+          "Row 3, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Demonic Dogcat",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:36:32 PM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 3, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:36:34 PM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 3, Column 3",
+          "Value",
+          "<Empty>",
+          "N/A",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:36:35 PM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 3, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:36:38 PM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 3, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 10:36:38 PM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 3, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
           "thelolman76@gmail.com"
         ]
       ]
