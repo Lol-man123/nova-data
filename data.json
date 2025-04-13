@@ -265,7 +265,7 @@
       ]
     },
     {
-      "range": "Legendary!A1:Z1004",
+      "range": "Legendary!A1:Z1005",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -300,6 +300,7 @@
           "1,000+",
           "8"
         ],
+        [],
         [
           "NULLVoid",
           "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
