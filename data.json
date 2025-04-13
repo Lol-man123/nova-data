@@ -755,7 +755,7 @@
         [
           "Mythic Hexarium",
           "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
-          "3,000",
+          "1,500",
           "8",
           "<1,000",
           "8"
@@ -763,7 +763,7 @@
         [
           "Mythic Demonic Hydra",
           "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
-          "2,500",
+          "500",
           "5",
           "1,000+",
           "5"
@@ -771,7 +771,7 @@
         [
           "Mythic Sun Burst",
           "https://tr.rbxcdn.com/180DAY-bd73794ab40391faa47530968676ce60/420/420/Image/Png/noFilter",
-          "2,250",
+          "500",
           "5",
           "<1,000",
           "5"
@@ -779,7 +779,7 @@
         [
           "Mythic Virus",
           "https://tr.rbxcdn.com/180DAY-343b0635f454fa7405532edb62c95949/420/420/Image/Png/noFilter",
-          "750",
+          "250",
           "3",
           "1,000+",
           "3"
@@ -8093,6 +8093,50 @@
           "Rarity",
           "<Empty>",
           "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 11:08:11 PM",
+          "Mythic Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 13, Column 3",
+          "Value",
+          "2500",
+          "500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 11:08:17 PM",
+          "Mythic Virus",
+          "https://tr.rbxcdn.com/180DAY-343b0635f454fa7405532edb62c95949/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 15, Column 3",
+          "Value",
+          "750",
+          "250",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 11:08:20 PM",
+          "Mythic Sun Burst",
+          "https://tr.rbxcdn.com/180DAY-bd73794ab40391faa47530968676ce60/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 14, Column 3",
+          "Value",
+          "2250",
+          "500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/13/2025, 11:08:24 PM",
+          "Mythic Hexarium",
+          "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 12, Column 3",
+          "Value",
+          "3000",
+          "1500",
           "thelolman76@gmail.com"
         ]
       ]
