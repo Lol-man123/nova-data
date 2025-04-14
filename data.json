@@ -357,14 +357,6 @@
           "7"
         ],
         [
-          "Rainbow Blitz",
-          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
-          "500",
-          "8",
-          "<1,000",
-          "8"
-        ],
-        [
           "Umbra",
           "https://tr.rbxcdn.com/180DAY-67a447b2acfbe89beb68033939d183b7/420/420/Image/Png/noFilter",
           "500",
@@ -395,6 +387,14 @@
           "6",
           "1,000+",
           "4"
+        ],
+        [
+          "Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
+          "300",
+          "8",
+          "<1,000",
+          "8"
         ],
         [
           "Ophanim",
@@ -563,14 +563,6 @@
           "10"
         ],
         [
-          "Shiny Rainbow Blitz",
-          "https://tr.rbxcdn.com/180DAY-16d64b5d4c257e3837bff15e32d9b0d5/420/420/Image/Png/noFilter",
-          "1,500",
-          "10",
-          "<100",
-          "9"
-        ],
-        [
           "Shiny Umbra",
           "https://tr.rbxcdn.com/180DAY-53d570106642cb5f50e8678093dcbd7a/420/420/Image/Png/noFilter",
           "1,500",
@@ -601,6 +593,14 @@
           "7",
           "100+",
           "6"
+        ],
+        [
+          "Shiny Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-16d64b5d4c257e3837bff15e32d9b0d5/420/420/Image/Png/noFilter",
+          "900",
+          "10",
+          "<100",
+          "9"
         ],
         [
           "Shiny Ophanim",
@@ -9706,6 +9706,28 @@
           "Rarity",
           "<Empty>",
           "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:25:00 PM",
+          "Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 12, Column 3",
+          "Value",
+          "500",
+          "300",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:25:14 PM",
+          "Shiny Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-16d64b5d4c257e3837bff15e32d9b0d5/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 12, Column 3",
+          "Value",
+          "1500",
+          "900",
           "thelolman76@gmail.com"
         ]
       ]
