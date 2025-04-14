@@ -265,7 +265,7 @@
       ]
     },
     {
-      "range": "Legendary!A1:Z1006",
+      "range": "Legendary!A1:Z1007",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -373,6 +373,14 @@
           "6"
         ],
         [
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "450",
+          "7",
+          "1,000+",
+          "5"
+        ],
+        [
           "Holy Shock",
           "https://tr.rbxcdn.com/180DAY-eeb22ee395b18dc3525b73837d6ef6ba/420/420/Image/Webp/noFilter",
           "400",
@@ -463,7 +471,7 @@
       ]
     },
     {
-      "range": "ShinyLegendary!A1:Z1003",
+      "range": "ShinyLegendary!A1:Z1004",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -571,6 +579,14 @@
           "9"
         ],
         [
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "1,350",
+          "6",
+          "<100",
+          "7"
+        ],
+        [
           "Shiny Holy Shock",
           "https://tr.rbxcdn.com/180DAY-2086deb4b85929e7aabc415ecc840491/420/420/Image/Png/noFilter",
           "1,200",
@@ -661,7 +677,7 @@
       ]
     },
     {
-      "range": "MythicLegendary!A1:Z1002",
+      "range": "MythicLegendary!A1:Z1003",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -729,6 +745,14 @@
           "10"
         ],
         [
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "3,000",
+          "7",
+          "<10",
+          "8"
+        ],
+        [
           "Mythic Ophanim",
           "https://tr.rbxcdn.com/180DAY-0727eb86e52da12af7e25e701ce23dcd/420/420/Image/Webp/noFilter",
           "1,800",
@@ -787,7 +811,7 @@
       ]
     },
     {
-      "range": "ShinyMythicLegendary!A1:Z1002",
+      "range": "ShinyMythicLegendary!A1:Z1003",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -851,6 +875,14 @@
           "https://tr.rbxcdn.com/180DAY-28fa1229b1c0ba6e90bfd04c5eb14ddc/420/420/Image/Png/noFilter",
           "12,000",
           "10",
+          "0",
+          "10"
+        ],
+        [
+          "Shiny Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "9,000",
+          "8",
           "0",
           "10"
         ],
@@ -9432,6 +9464,248 @@
           "Value",
           "<Empty>",
           "12000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:10 PM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 14, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Abyssal Dragon",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:11 PM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 14, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:12 PM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 14, Column 3",
+          "Value",
+          "<Empty>",
+          "450",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:15 PM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 14, Column 4",
+          "Demand",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:20 PM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 14, Column 5",
+          "Existing",
+          "<Empty>",
+          "1,000+",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:22 PM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 14, Column 6",
+          "Rarity",
+          "<Empty>",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:39 PM",
+          "Shiny Abyssal Dragon",
+          "No Image",
+          "ShinyLegendary",
+          "Row 14, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Abyssal Dragon",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:57:53 PM",
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 14, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:58:04 PM",
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 14, Column 3",
+          "Value",
+          "<Empty>",
+          "1350",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:58:09 PM",
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 14, Column 4",
+          "Demand",
+          "<Empty>",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:58:10 PM",
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 14, Column 5",
+          "Existing",
+          "<Empty>",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 8:58:15 PM",
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 14, Column 6",
+          "Rarity",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:00:45 PM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Mythic Abyssal Dragon",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:00:47 PM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:00:49 PM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 3",
+          "Value",
+          "<Empty>",
+          "3000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:00:51 PM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 4",
+          "Demand",
+          "<Empty>",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:00:53 PM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 5",
+          "Existing",
+          "<Empty>",
+          "<10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:00:57 PM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 6",
+          "Rarity",
+          "<Empty>",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:02:08 PM",
+          "Shiny Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "Row 9, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Mythic Abyssal Dragon",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:02:08 PM",
+          "Shiny Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "Row 9, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:02:22 PM",
+          "Shiny Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "Row 9, Column 3",
+          "Value",
+          "<Empty>",
+          "9000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/14/2025, 9:02:40 PM",
+          "Shiny Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "Row 9, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
           "thelolman76@gmail.com"
         ]
       ]
