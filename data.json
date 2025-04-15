@@ -325,14 +325,6 @@
           "5"
         ],
         [
-          "NULLVoid",
-          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
-          "750",
-          "9",
-          "1,000+",
-          "8"
-        ],
-        [
           "Sigma Serpent",
           "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
           "600",
@@ -357,6 +349,14 @@
           "6"
         ],
         [
+          "Ophanim",
+          "https://tr.rbxcdn.com/180DAY-9cf935163f60a98a63397c1261642952/420/420/Image/Webp/noFilter",
+          "450",
+          "8",
+          "1,000+",
+          "5"
+        ],
+        [
           "Trio Cube",
           "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
           "400",
@@ -373,20 +373,20 @@
           "4"
         ],
         [
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "350",
+          "9",
+          "1,000+",
+          "8"
+        ],
+        [
           "Evil Shock",
           "https://tr.rbxcdn.com/180DAY-d8a95fec95a6c01bd6226e3748738319/420/420/Image/Webp/noFilter",
           "300",
           "6",
           "1,000+",
           "4"
-        ],
-        [
-          "Ophanim",
-          "https://tr.rbxcdn.com/180DAY-9cf935163f60a98a63397c1261642952/420/420/Image/Webp/noFilter",
-          "300",
-          "8",
-          "1,000+",
-          "5"
         ],
         [
           "Solar Deity",
@@ -10320,6 +10320,28 @@
           "Value",
           "10",
           "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/15/2025, 11:54:10 PM",
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 13, Column 3",
+          "Value",
+          "750",
+          "350",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/15/2025, 11:54:16 PM",
+          "Ophanim",
+          "https://tr.rbxcdn.com/180DAY-9cf935163f60a98a63397c1261642952/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 11, Column 3",
+          "Value",
+          "300",
+          "450",
           "thelolman76@gmail.com"
         ]
       ]
