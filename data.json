@@ -705,14 +705,6 @@
           "10"
         ],
         [
-          "Mythic Nullvoid",
-          "https://tr.rbxcdn.com/180DAY-527b03940954bc5df2f78e11f9de0450/420/420/Image/Png/noFilter",
-          "6,000",
-          "10",
-          "<100",
-          "10"
-        ],
-        [
           "Mythic Hacker Prism",
           "https://tr.rbxcdn.com/180DAY-7f3d6cf83f67f80be428ef53dd3709d8/420/420/Image/Webp/noFilter",
           "4,000",
@@ -723,7 +715,7 @@
         [
           "Mythic Crescent Empress",
           "https://tr.rbxcdn.com/180DAY-b37c45dd64237f630ab34c2cd4f369af/420/420/Image/Png/noFilter",
-          "4,800",
+          "3,500",
           "9",
           "<100",
           "9"
@@ -753,12 +745,12 @@
           "8"
         ],
         [
-          "Mythic Rainbow Shock",
-          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-527b03940954bc5df2f78e11f9de0450/420/420/Image/Png/noFilter",
           "2,500",
-          "8",
-          "<1,000",
-          "7"
+          "10",
+          "<100",
+          "10"
         ],
         [
           "Mythic Moonburst",
@@ -783,6 +775,14 @@
           "8",
           "<1,000",
           "8"
+        ],
+        [
+          "Mythic Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "1,000",
+          "8",
+          "<1,000",
+          "7"
         ],
         [
           "Mythic Hexarium",
@@ -10221,6 +10221,39 @@
           "Existing",
           "0",
           "1",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/15/2025, 11:36:38 PM",
+          "Mythic Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 13, Column 3",
+          "Value",
+          "2500",
+          "1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/15/2025, 11:36:42 PM",
+          "Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-527b03940954bc5df2f78e11f9de0450/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 9, Column 3",
+          "Value",
+          "6000",
+          "2500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/15/2025, 11:36:48 PM",
+          "Mythic Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-b37c45dd64237f630ab34c2cd4f369af/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "Row 5, Column 3",
+          "Value",
+          "4800",
+          "3500",
           "thelolman76@gmail.com"
         ]
       ]
