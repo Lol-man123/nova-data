@@ -587,28 +587,12 @@
           "10"
         ],
         [
-          "Shiny Ophanim",
-          "https://tr.rbxcdn.com/180DAY-12bd0c8c377fdc93873c85ee2a1d8683/420/420/Image/Webp/noFilter",
-          "2,000",
-          "8",
-          "100+",
-          "8"
-        ],
-        [
           "Shiny Sigma Serpent",
           "https://tr.rbxcdn.com/180DAY-ea0082fc13f9de5b21a5f1a719629e23/420/420/Image/Png/noFilter",
           "1,800",
           "10",
           "<100",
           "10"
-        ],
-        [
-          "Shiny Abyssal Dragon",
-          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
-          "1,350",
-          "6",
-          "<100",
-          "7"
         ],
         [
           "Shiny Evil Shock",
@@ -625,6 +609,22 @@
           "10",
           "<100",
           "9"
+        ],
+        [
+          "Shiny Ophanim",
+          "https://tr.rbxcdn.com/180DAY-12bd0c8c377fdc93873c85ee2a1d8683/420/420/Image/Webp/noFilter",
+          "1,750",
+          "8",
+          "100+",
+          "8"
+        ],
+        [
+          "Shiny Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-a0923a41bd2c1423f71e274de1b565ba/420/420/Image/Webp/noFilter",
+          "1,350",
+          "6",
+          "<100",
+          "7"
         ],
         [
           "Shiny Solar Deity",
@@ -747,7 +747,7 @@
         [
           "Mythic Abyssal Dragon",
           "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
-          "3,000",
+          "1,000",
           "7",
           "<10",
           "8"
@@ -11047,6 +11047,28 @@
           "Row 8, Column 3",
           "Value",
           "2500",
+          "1750",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 1:44:41 AM",
+          "Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-8a5785c64fb6dbf6ac7a8392cba37ab2/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "Row 7, Column 3",
+          "Value",
+          "3000",
+          "1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 1:44:47 AM",
+          "Shiny Ophanim",
+          "https://tr.rbxcdn.com/180DAY-12bd0c8c377fdc93873c85ee2a1d8683/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 13, Column 3",
+          "Value",
+          "2000",
           "1750",
           "thelolman76@gmail.com"
         ]
