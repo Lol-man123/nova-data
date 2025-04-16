@@ -311,7 +311,7 @@
         [
           "King Soul",
           "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
-          "4,000",
+          "",
           "10",
           "0",
           "10"
@@ -319,26 +319,26 @@
         [
           "Manarium",
           "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
-          "2,000",
-          "10",
+          "1,500",
+          "3",
           "<100",
           "10"
         ],
         [
-          "Hacker Prism",
-          "https://tr.rbxcdn.com/180DAY-eedc73561dfcd7d7338abcab79090013/420/420/Image/Webp/noFilter",
-          "1,000",
-          "10",
-          "1,000+",
-          "8"
-        ],
-        [
           "Crescent Empress",
           "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
-          "800",
+          "725",
           "8",
           "1,000+",
           "5"
+        ],
+        [
+          "Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-eedc73561dfcd7d7338abcab79090013/420/420/Image/Webp/noFilter",
+          "600",
+          "10",
+          "1,000+",
+          "8"
         ],
         [
           "Sigma Serpent",
@@ -351,7 +351,7 @@
         [
           "Kitsune",
           "https://tr.rbxcdn.com/180DAY-1a7add19ca1aee5a50330603fb8f9abf/420/420/Image/Png/noFilter",
-          "600",
+          "500",
           "8",
           "1,000+",
           "7"
@@ -10611,6 +10611,83 @@
           "Value",
           "18000",
           "23000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:45:27 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 5, Column 3",
+          "Value",
+          "2000",
+          "1500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:45:29 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 5, Column 4",
+          "Demand",
+          "10",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:45:40 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 5, Column 4",
+          "Demand",
+          "6",
+          "3",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:46:58 AM",
+          "Kitsune",
+          "https://tr.rbxcdn.com/180DAY-1a7add19ca1aee5a50330603fb8f9abf/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 9, Column 3",
+          "Value",
+          "600",
+          "500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:47:04 AM",
+          "Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 6, Column 3",
+          "Value",
+          "1000",
+          "600",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:47:09 AM",
+          "King Soul",
+          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 4, Column 3",
+          "Value",
+          "4000",
+          "<Empty>",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/16/2025, 3:49:15 AM",
+          "Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 6, Column 3",
+          "Value",
+          "800",
+          "725",
           "thelolman76@gmail.com"
         ]
       ]
