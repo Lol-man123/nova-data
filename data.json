@@ -19,7 +19,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "3,000",
           "5",
-          "1,027",
+          "1,479",
           "7",
           "No"
         ],
@@ -28,25 +28,25 @@
           "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
           "25,000",
           "8",
-          "<750",
+          "<1000",
           "8",
           "Yes"
         ],
         [
           "King Doggy",
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
-          "12,000",
+          "8,000",
           "6",
-          "294",
+          "425",
           "10",
           "No"
         ],
         [
           "Man Face God",
           "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
-          "350,000",
+          "300,000",
           "10",
-          "3",
+          "4",
           "10",
           "No"
         ]
@@ -68,7 +68,7 @@
         [
           "Shiny The Overlord",
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
-          "45,000",
+          "20,000",
           "10",
           "42",
           "10",
@@ -86,7 +86,7 @@
         [
           "Shiny King Doggy",
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
-          "80,000",
+          "60,000",
           "10",
           "13",
           "10",
@@ -11554,6 +11554,105 @@
           "Value",
           "6000",
           "3000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 5:59:20 PM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 4, Column 3",
+          "Value",
+          "12000",
+          "8000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 5:59:44 PM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 2, Column 5",
+          "Existing",
+          "1027",
+          "1479",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 5:59:48 PM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 3, Column 5",
+          "Existing",
+          "<750",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 5:59:52 PM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 4, Column 5",
+          "Existing",
+          "294",
+          "425",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 6:00:07 PM",
+          "Man Face God",
+          "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 5, Column 5",
+          "Existing",
+          "3",
+          "r",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 6:00:10 PM",
+          "Man Face God",
+          "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 5, Column 5",
+          "Existing",
+          "r",
+          "4",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 6:00:14 PM",
+          "Man Face God",
+          "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 5, Column 3",
+          "Value",
+          "350000",
+          "300000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 6:00:27 PM",
+          "Shiny The Overlord",
+          "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 2, Column 3",
+          "Value",
+          "45000",
+          "20000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/17/2025, 6:00:34 PM",
+          "Shiny King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
+          "ShinySecrets",
+          "Row 4, Column 3",
+          "Value",
+          "80000",
+          "60000",
           "thelolman76@gmail.com"
         ]
       ]
