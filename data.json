@@ -55,7 +55,18 @@
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
           "",
           "10",
-          "18"
+          "20",
+          "10",
+          "Yes"
+        ],
+        [
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "30",
+          "10",
+          "Yes"
         ]
       ]
     },
@@ -107,6 +118,24 @@
           "0",
           "10",
           "No"
+        ],
+        [
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "<10",
+          "10",
+          "Yes"
+        ],
+        [
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "<10",
+          "10",
+          "Yes"
         ]
       ]
     },
@@ -138,7 +167,7 @@
           "10",
           "<50",
           "10",
-          "No"
+          "Yes"
         ],
         [
           "Mythic King Doggy",
@@ -157,6 +186,24 @@
           "0",
           "10",
           "No"
+        ],
+        [
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
+        ],
+        [
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
         ]
       ]
     },
@@ -208,6 +255,14 @@
           "0",
           "10",
           "No"
+        ],
+        [
+          "Shiny Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-4ac0424369d72601fb864bd2b70e9941/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "0",
+          "10"
         ]
       ]
     },
@@ -12649,6 +12704,424 @@
           "Existing",
           "<Empty>",
           "18",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:44:05 AM",
+          "Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 6, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:44:08 AM",
+          "Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 6, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:44:12 AM",
+          "Unknown Pet",
+          "No Image",
+          "NormalSecrets",
+          "Row 7, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:45:01 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Easter Basket",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:45:03 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:45:06 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:45:17 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "<Empty>",
+          "30",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:45:18 AM",
+          "Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "18",
+          "20",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:45:41 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:19 AM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Giant Choco Chicken",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:21 AM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:23 AM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:25 AM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "<Empty>",
+          "<10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:27 AM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:28 AM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:33 AM",
+          "Shiny Easter Basket",
+          "No Image",
+          "ShinySecrets",
+          "Row 7, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Easter Basket",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:51 AM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 7, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:52 AM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 7, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:54 AM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "<Empty>",
+          "<10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:55 AM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 7, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:46:58 AM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 7, Column 7",
+          "Is Limited",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:21 AM",
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 6, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Mythic Giant Choco Chicken",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:22 AM",
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 6, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:25 AM",
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 6, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:26 AM",
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:28 AM",
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 6, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:29 AM",
+          "Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 6, Column 7",
+          "Unknown Column",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:31 AM",
+          "Mythic Avernus",
+          "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 3, Column 7",
+          "Unknown Column",
+          "No",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:56 AM",
+          "Mythic Easter Basket",
+          "No Image",
+          "MythicSecrets",
+          "Row 7, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Mythic Easter Basket",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:47:58 AM",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 7, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:02 AM",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 7, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:03 AM",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "<Empty>",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:05 AM",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 7, Column 6",
+          "Rarity",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:06 AM",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "Row 7, Column 7",
+          "Unknown Column",
+          "<Empty>",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:39 AM",
+          "Shiny Mythic Giant Choco Chicken",
+          "No Image",
+          "ShinyMythicSecrets",
+          "Row 6, Column 1",
+          "Pet Name",
+          "<Empty>",
+          "Shiny Mythic Giant Choco Chicken",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:40 AM",
+          "Shiny Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-4ac0424369d72601fb864bd2b70e9941/420/420/Image/Webp/noFilter",
+          "ShinyMythicSecrets",
+          "Row 6, Column 2",
+          "Pet Image URL",
+          "<Empty>",
+          "https://tr.rbxcdn.com/180DAY-4ac0424369d72601fb864bd2b70e9941/420/420/Image/Webp/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:43 AM",
+          "Shiny Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-4ac0424369d72601fb864bd2b70e9941/420/420/Image/Webp/noFilter",
+          "ShinyMythicSecrets",
+          "Row 6, Column 4",
+          "Demand",
+          "<Empty>",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/19/2025, 1:48:45 AM",
+          "Shiny Mythic Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-4ac0424369d72601fb864bd2b70e9941/420/420/Image/Webp/noFilter",
+          "ShinyMythicSecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "<Empty>",
+          "10",
           "thelolman76@gmail.com"
         ]
       ]
