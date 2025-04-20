@@ -369,7 +369,7 @@
         [
           "Shiny Dark Serpent",
           "https://tr.rbxcdn.com/180DAY-32572ef73ff0906cf2fcb1614276a62e/420/420/Image/Webp/noFilter",
-          "",
+          "2,500",
           "10",
           "<100",
           "9"
@@ -377,7 +377,7 @@
         [
           "Shiny Infernus",
           "https://tr.rbxcdn.com/180DAY-08c06ae21a81bb9d2af106ad21527d80/420/420/Image/Webp/noFilter",
-          "",
+          "3,850",
           "10",
           "<100",
           "9"
@@ -461,12 +461,28 @@
           "5"
         ],
         [
+          "Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
+          "350",
+          "3",
+          "1,000+",
+          "5"
+        ],
+        [
           "Trio Cube",
           "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
           "300",
           "5",
           "<1,000",
           "7"
+        ],
+        [
+          "Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-691b9fbfb3a70a37d613860e929d6afb/420/420/Image/Webp/noFilter",
+          "300",
+          "8",
+          "1,000+",
+          "8"
         ],
         [
           "Holy Shock",
@@ -485,22 +501,6 @@
           "10"
         ],
         [
-          "Crescent Empress",
-          "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
-          "350",
-          "3",
-          "1,000+",
-          "5"
-        ],
-        [
-          "NULLVoid",
-          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
-          "300",
-          "6",
-          "1,000+",
-          "8"
-        ],
-        [
           "Evil Shock",
           "https://tr.rbxcdn.com/180DAY-d8a95fec95a6c01bd6226e3748738319/420/420/Image/Webp/noFilter",
           "250",
@@ -517,6 +517,14 @@
           "5"
         ],
         [
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "200",
+          "6",
+          "1,000+",
+          "8"
+        ],
+        [
           "Moonburst",
           "https://tr.rbxcdn.com/180DAY-c657f5b0b54de20afc965944879d1e71/420/420/Image/Png/noFilter",
           "200",
@@ -531,6 +539,14 @@
           "5",
           "10,000+",
           "3"
+        ],
+        [
+          "Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-ad9091ba80db67fd630f718cccfc2f7b/420/420/Image/Webp/noFilter",
+          "150",
+          "6",
+          "1,000+",
+          "6"
         ],
         [
           "Abyssal Dragon",
@@ -579,22 +595,6 @@
           "1",
           "10,000+",
           "3"
-        ],
-        [
-          "Cardinal Bunny",
-          "https://tr.rbxcdn.com/180DAY-691b9fbfb3a70a37d613860e929d6afb/420/420/Image/Webp/noFilter",
-          "",
-          "8",
-          "1,000+",
-          "8"
-        ],
-        [
-          "Rainbow Marshmellow",
-          "https://tr.rbxcdn.com/180DAY-ad9091ba80db67fd630f718cccfc2f7b/420/420/Image/Webp/noFilter",
-          "",
-          "6",
-          "1,000+",
-          "6"
         ]
       ]
     },
@@ -613,7 +613,7 @@
         [
           "Shiny Seraph",
           "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
-          "21,000",
+          "12,500",
           "7",
           "<50",
           "10"
@@ -707,14 +707,6 @@
           "9"
         ],
         [
-          "Shiny Sigma Serpent",
-          "https://tr.rbxcdn.com/180DAY-ea0082fc13f9de5b21a5f1a719629e23/420/420/Image/Png/noFilter",
-          "1,600",
-          "7",
-          "<100",
-          "10"
-        ],
-        [
           "Shiny Ophanim",
           "https://tr.rbxcdn.com/180DAY-12bd0c8c377fdc93873c85ee2a1d8683/420/420/Image/Webp/noFilter",
           "1,750",
@@ -723,9 +715,25 @@
           "8"
         ],
         [
+          "Shiny Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ea0082fc13f9de5b21a5f1a719629e23/420/420/Image/Png/noFilter",
+          "1,600",
+          "7",
+          "<100",
+          "10"
+        ],
+        [
+          "Shiny Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-090f2908c6c01692bf5d31a262a38ab5/420/420/Image/Webp/noFilter",
+          "750",
+          "10",
+          "<1,000",
+          "7"
+        ],
+        [
           "Shiny Nullvoid",
           "https://tr.rbxcdn.com/180DAY-854099996dc609207d84e5e5c7012880/420/420/Image/Png/noFilter",
-          "1,400",
+          "700",
           "6",
           "<100",
           "10"
@@ -753,6 +761,14 @@
           "5",
           "100+",
           "6"
+        ],
+        [
+          "Shiny Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-e90cbafc94de346a88905c329a565369/420/420/Image/Webp/noFilter",
+          "400",
+          "10",
+          "<1,000",
+          "7"
         ],
         [
           "Shiny Sunburst",
@@ -801,22 +817,6 @@
           "1",
           "1000+",
           "1"
-        ],
-        [
-          "Shiny Cardinal Bunny",
-          "https://tr.rbxcdn.com/180DAY-090f2908c6c01692bf5d31a262a38ab5/420/420/Image/Webp/noFilter",
-          "",
-          "10",
-          "<1,000",
-          "7"
-        ],
-        [
-          "Shiny Rainbow Marshmellow",
-          "https://tr.rbxcdn.com/180DAY-e90cbafc94de346a88905c329a565369/420/420/Image/Webp/noFilter",
-          "",
-          "10",
-          "<1,000",
-          "7"
         ]
       ]
     },
@@ -14409,6 +14409,149 @@
           "Existing",
           "1",
           "2",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:01:37 PM",
+          "Shiny Dark Serpent",
+          "https://tr.rbxcdn.com/180DAY-32572ef73ff0906cf2fcb1614276a62e/420/420/Image/Webp/noFilter",
+          "ShinyRobux",
+          "Row 5, Column 3",
+          "Value",
+          "<Empty>",
+          "2,500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:01:51 PM",
+          "Shiny Infernus",
+          "https://tr.rbxcdn.com/180DAY-08c06ae21a81bb9d2af106ad21527d80/420/420/Image/Webp/noFilter",
+          "ShinyRobux",
+          "Row 6, Column 3",
+          "Value",
+          "<Empty>",
+          "3,850",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:04:24 PM",
+          "Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-691b9fbfb3a70a37d613860e929d6afb/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 25, Column 3",
+          "Value",
+          "<Empty>",
+          "350",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:04:27 PM",
+          "Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-691b9fbfb3a70a37d613860e929d6afb/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 25, Column 3",
+          "Value",
+          "350",
+          "300",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:04:35 PM",
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "Legendary",
+          "Row 14, Column 3",
+          "Value",
+          "300",
+          "200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:05:29 PM",
+          "Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-ad9091ba80db67fd630f718cccfc2f7b/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "Row 26, Column 3",
+          "Value",
+          "<Empty>",
+          "150",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:05:48 PM",
+          "Shiny Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-090f2908c6c01692bf5d31a262a38ab5/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 26, Column 3",
+          "Value",
+          "<Empty>",
+          "700",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:06:23 PM",
+          "Shiny Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-854099996dc609207d84e5e5c7012880/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 16, Column 3",
+          "Value",
+          "1400",
+          "800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:06:41 PM",
+          "Shiny Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-854099996dc609207d84e5e5c7012880/420/420/Image/Png/noFilter",
+          "ShinyLegendary",
+          "Row 16, Column 3",
+          "Value",
+          "800",
+          "700",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:06:42 PM",
+          "Shiny Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-090f2908c6c01692bf5d31a262a38ab5/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 26, Column 3",
+          "Value",
+          "700",
+          "750",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:07:09 PM",
+          "Shiny Seraph",
+          "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 2, Column 3",
+          "Value",
+          "21000",
+          "10500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:07:19 PM",
+          "Shiny Seraph",
+          "https://tr.rbxcdn.com/180DAY-5fe21193570ecd7abae08c8232aff1db/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 2, Column 3",
+          "Value",
+          "10500",
+          "12500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:07:45 PM",
+          "Shiny Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-e90cbafc94de346a88905c329a565369/420/420/Image/Webp/noFilter",
+          "ShinyLegendary",
+          "Row 27, Column 3",
+          "Value",
+          "<Empty>",
+          "400",
           "thelolman76@gmail.com"
         ]
       ]
