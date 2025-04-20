@@ -53,18 +53,18 @@
         [
           "Giant Choco Chicken",
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
-          "8,000",
+          "6,000",
           "10",
-          "325",
+          "674",
           "10",
           "Yes"
         ],
         [
           "Easter Basket",
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
-          "10,000",
+          "8,000",
           "10",
-          "280",
+          "502",
           "10",
           "Yes"
         ]
@@ -14167,6 +14167,50 @@
           "Value",
           "20",
           "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:08:42 AM",
+          "Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 6, Column 3",
+          "Value",
+          "8000",
+          "6000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:08:43 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 3",
+          "Value",
+          "10000",
+          "8000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:09:17 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 7, Column 5",
+          "Existing",
+          "280",
+          "502",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 5:09:18 AM",
+          "Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "Row 6, Column 5",
+          "Existing",
+          "325",
+          "674",
           "thelolman76@gmail.com"
         ]
       ]
