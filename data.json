@@ -86,8 +86,8 @@
         [
           "Shiny The Overlord",
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
-          "20,000",
-          "10",
+          "8,500",
+          "4",
           "111",
           "10",
           "No"
@@ -96,7 +96,7 @@
           "Shiny Avernus",
           "https://tr.rbxcdn.com/180DAY-8a157c2a499987500ea0df6f6cb8bfa1/420/420/Image/Webp/noFilter",
           "30,000",
-          "10",
+          "5",
           "<100",
           "10",
           "Yes"
@@ -105,7 +105,7 @@
           "Shiny King Doggy",
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
           "60,000",
-          "10",
+          "5",
           "28",
           "10",
           "No"
@@ -123,7 +123,7 @@
           "Shiny Giant Choco Chicken",
           "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
           "",
-          "10",
+          "7",
           "26",
           "10",
           "Yes"
@@ -132,7 +132,7 @@
           "Shiny Easter Basket",
           "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
           "",
-          "10",
+          "8",
           "29",
           "10",
           "Yes"
@@ -14552,6 +14552,72 @@
           "Value",
           "<Empty>",
           "400",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 11:47:02 PM",
+          "Shiny The Overlord",
+          "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 2, Column 3",
+          "Value",
+          "20000",
+          "8500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 11:47:37 PM",
+          "Shiny The Overlord",
+          "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 2, Column 4",
+          "Demand",
+          "10",
+          "4",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 11:47:42 PM",
+          "Shiny King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
+          "ShinySecrets",
+          "Row 4, Column 4",
+          "Demand",
+          "10",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 11:47:48 PM",
+          "Shiny Giant Choco Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 6, Column 4",
+          "Demand",
+          "10",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 11:47:48 PM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 7, Column 4",
+          "Demand",
+          "10",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/20/2025, 11:47:58 PM",
+          "Shiny Avernus",
+          "https://tr.rbxcdn.com/180DAY-8a157c2a499987500ea0df6f6cb8bfa1/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "Row 3, Column 4",
+          "Demand",
+          "10",
+          "5",
           "thelolman76@gmail.com"
         ]
       ]
