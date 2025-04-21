@@ -1273,7 +1273,7 @@
       ]
     },
     {
-      "range": "'Change Log'!A1:Z2000",
+      "range": "'Change Log'!A1:Z4000",
       "majorDimension": "ROWS",
       "values": [
         [
