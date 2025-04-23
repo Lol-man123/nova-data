@@ -19,7 +19,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,800",
           "4",
-          "3,500",
+          "3,502",
           "7",
           "No"
         ],
@@ -37,7 +37,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "4,000",
           "5",
-          "1,045",
+          "1,047",
           "10",
           "No"
         ],
@@ -55,7 +55,7 @@
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
           "6,000",
           "10",
-          "3,035",
+          "3,045",
           "6",
           "Yes"
         ],
@@ -64,7 +64,7 @@
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
           "9,000",
           "10",
-          "1,786",
+          "1,788",
           "7",
           "Yes"
         ]
@@ -307,7 +307,7 @@
         [
           "Flying Gem",
           "https://tr.rbxcdn.com/180DAY-a6f523e75a820716ef14936e979862d5/420/420/Image/Webp/noFilter",
-          "1,500",
+          "1,000",
           "3",
           "1,821",
           "6"
@@ -399,17 +399,9 @@
         [
           "Seraph",
           "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
-          "3,500",
+          "2,000",
           "6",
           "<100",
-          "10"
-        ],
-        [
-          "King Soul",
-          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
-          "",
-          "10",
-          "0",
           "10"
         ],
         [
@@ -418,6 +410,14 @@
           "750",
           "3",
           "<100",
+          "10"
+        ],
+        [
+          "King Soul",
+          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
+          "500",
+          "10",
+          "0",
           "10"
         ],
         [
@@ -15575,6 +15575,39 @@
           "Demand",
           "10",
           "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 4:37:09 PM",
+          "Flying Gem",
+          "https://tr.rbxcdn.com/180DAY-a6f523e75a820716ef14936e979862d5/420/420/Image/Webp/noFilter",
+          "Robux",
+          "R4C3",
+          "Value",
+          "1500",
+          "1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 4:48:55 PM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R2C3",
+          "Value",
+          "3500",
+          "2000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 4:49:58 PM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C3",
+          "Value",
+          "",
+          "500",
           "thelolman76@gmail.com"
         ]
       ]
