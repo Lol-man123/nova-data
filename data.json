@@ -23,7 +23,7 @@
           "3,693",
           "7",
           "No",
-          "Falling"
+          "Dropping"
         ],
         [
           "Avernus",
@@ -32,7 +32,8 @@
           "8",
           "2,000+",
           "8",
-          "Yes"
+          "Yes",
+          "Stable"
         ],
         [
           "King Doggy",
@@ -41,7 +42,8 @@
           "5",
           "1,078",
           "10",
-          "No"
+          "No",
+          "Dropping"
         ],
         [
           "Man Face God",
@@ -50,7 +52,8 @@
           "10",
           "134",
           "10",
-          "No"
+          "No",
+          "Dropping"
         ],
         [
           "Giant Chocolate Chicken",
@@ -59,7 +62,8 @@
           "10",
           "3,311",
           "6",
-          "Yes"
+          "Yes",
+          "Stable"
         ],
         [
           "Easter Basket",
@@ -68,25 +72,28 @@
           "10",
           "1,918",
           "7",
-          "Yes"
+          "Yes",
+          "Stable"
         ],
         [
           "Godly Gem",
           "https://i.ibb.co/Y76JL2Qj/image.jpg",
           "",
           "10",
-          "8",
           "10",
-          "Yes"
+          "10",
+          "Yes",
+          "Stable"
         ],
         [
           "Dementor",
           "https://i.ibb.co/Y76JL2Qj/image.jpg",
           "",
           "10",
-          "1",
+          "2",
           "10",
-          "Yes"
+          "Yes",
+          "Stable"
         ]
       ]
     },
@@ -16190,6 +16197,105 @@
           "Trend",
           "",
           "Falling",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:34 AM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R2C8",
+          "Trend",
+          "Falling",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:35 AM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C8",
+          "Trend",
+          "",
+          "Rising",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:42 AM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C8",
+          "Trend",
+          "Rising",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:44 AM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R4C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:45 AM",
+          "Man Face God",
+          "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R5C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:48 AM",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:50 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R7C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:51 AM",
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R8C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:52:53 AM",
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R9C8",
+          "Trend",
+          "",
+          "Stable",
           "thelolman76@gmail.com"
         ]
       ]
