@@ -12,7 +12,8 @@
           "Demand",
           "Existing",
           "Rarity",
-          "Is Limited"
+          "Is Limited",
+          "Trend"
         ],
         [
           "The Overlord",
@@ -21,7 +22,8 @@
           "4",
           "3,693",
           "7",
-          "No"
+          "No",
+          "Falling"
         ],
         [
           "Avernus",
@@ -16155,6 +16157,39 @@
           "Is Limited",
           "",
           "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:41:16 AM",
+          "Pet Name",
+          "Pet Image URL",
+          "NormalSecrets",
+          "R1C8",
+          "Trend",
+          "",
+          "Trend",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:41:23 AM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R2C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 1:41:32 AM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R2C8",
+          "Trend",
+          "",
+          "Falling",
           "thelolman76@gmail.com"
         ]
       ]
