@@ -19,7 +19,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,800",
           "4",
-          "3,646",
+          "3,667",
           "7",
           "No"
         ],
@@ -37,7 +37,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "4,000",
           "5",
-          "1,070",
+          "1,074",
           "10",
           "No"
         ],
@@ -46,7 +46,7 @@
           "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
           "35,000",
           "10",
-          "130",
+          "131",
           "10",
           "No"
         ],
@@ -55,7 +55,7 @@
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
           "6,000",
           "10",
-          "3,232",
+          "3,262",
           "6",
           "Yes"
         ],
@@ -64,7 +64,7 @@
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
           "9,000",
           "10",
-          "1,883",
+          "1,892",
           "7",
           "Yes"
         ]
@@ -88,7 +88,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "5,500",
           "4",
-          "151",
+          "152",
           "7",
           "No"
         ],
@@ -106,7 +106,7 @@
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
           "12,000",
           "5",
-          "45",
+          "46",
           "8",
           "No"
         ],
@@ -124,7 +124,7 @@
           "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
           "18,000",
           "7",
-          "113",
+          "115",
           "8",
           "Yes"
         ],
@@ -192,7 +192,7 @@
           "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
           "40,000",
           "10",
-          "30",
+          "31",
           "10",
           "Yes"
         ],
@@ -929,25 +929,25 @@
           "5"
         ],
         [
-          "Mythic Rainbow Shock",
-          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
-          "700",
-          "4",
-          "<1,000",
-          "7"
-        ],
-        [
           "Mythic Rainbow Marshmellow",
           "https://tr.rbxcdn.com/180DAY-7c34fff08f6d01f4c0672ae57af92003/420/420/Image/Webp/noFilter",
-          "600",
+          "400",
           "5",
           "<1,000",
           "8"
         ],
         [
+          "Mythic Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "300",
+          "4",
+          "<1,000",
+          "7"
+        ],
+        [
           "Mythic Hexarium",
           "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
-          "500",
+          "100",
           "2",
           "<1,000",
           "8"
@@ -955,18 +955,10 @@
         [
           "Mythic Demonic Hydra",
           "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
-          "250",
+          "50",
           "1",
           "1,000+",
           "5"
-        ],
-        [
-          "Mythic Virus",
-          "https://tr.rbxcdn.com/180DAY-343b0635f454fa7405532edb62c95949/420/420/Image/Png/noFilter",
-          "60",
-          "1",
-          "1,000+",
-          "3"
         ]
       ]
     },
@@ -15608,6 +15600,61 @@
           "Value",
           "",
           "500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 11:18:11 PM",
+          "Mythic Sunburst",
+          "https://tr.rbxcdn.com/180DAY-bd73794ab40391faa47530968676ce60/420/420/Image/Png/noFilter",
+          "MythicLegendary",
+          "R13C3",
+          "Value",
+          "750",
+          "",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 11:18:27 PM",
+          "Mythic Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-ae235a167b49a2a76f9d84d5f1cea9a7/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "R14C3",
+          "Value",
+          "700",
+          "300",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 11:18:30 PM",
+          "Mythic Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-7c34fff08f6d01f4c0672ae57af92003/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "R15C3",
+          "Value",
+          "600",
+          "400",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 11:18:35 PM",
+          "Mythic Hexarium",
+          "https://tr.rbxcdn.com/180DAY-4b684648451c6d57e5b710a19f972705/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "R16C3",
+          "Value",
+          "500",
+          "100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/23/2025, 11:18:37 PM",
+          "Mythic Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-404be606ecec041a61d23d53852d8549/420/420/Image/Webp/noFilter",
+          "MythicLegendary",
+          "R17C3",
+          "Value",
+          "250",
+          "50",
           "thelolman76@gmail.com"
         ]
       ]
