@@ -19,7 +19,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,800",
           "4",
-          "3,680",
+          "3,683",
           "7",
           "No"
         ],
@@ -37,7 +37,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "4,000",
           "5",
-          "1,076",
+          "1,077",
           "10",
           "No"
         ],
@@ -55,7 +55,7 @@
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
           "6,000",
           "10",
-          "3,290",
+          "3,293",
           "6",
           "Yes"
         ],
@@ -64,8 +64,26 @@
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
           "9,000",
           "10",
-          "1,907",
+          "1,909",
           "7",
+          "Yes"
+        ],
+        [
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
+        ],
+        [
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "",
+          "10",
+          "0",
+          "10",
           "Yes"
         ]
       ]
@@ -136,6 +154,24 @@
           "90",
           "9",
           "Yes"
+        ],
+        [
+          "Shiny Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
+        ],
+        [
+          "Shiny Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
         ]
       ]
     },
@@ -204,6 +240,12 @@
           "23",
           "10",
           "Yes"
+        ],
+        [
+          "Mythic Godly Gem"
+        ],
+        [
+          "Mythic Dementor"
         ]
       ]
     },
@@ -268,6 +310,24 @@
         [
           "Shiny Mythic Easter Basket",
           "https://tr.rbxcdn.com/180DAY-050470ef1d5fb200541b5c83f256e00a/420/420/Image/Webp/noFilter",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
+        ],
+        [
+          "Shiny Mythic Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "",
+          "10",
+          "0",
+          "10",
+          "Yes"
+        ],
+        [
+          "Shiny Mythic Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
           "",
           "10",
           "0",
@@ -15655,6 +15715,446 @@
           "Value",
           "250",
           "50",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:32:58 AM",
+          "Godly Gem",
+          "",
+          "NormalSecrets",
+          "R8C1",
+          "Pet Name",
+          "",
+          "Godly Gem",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:32:59 AM",
+          "Dementor",
+          "",
+          "NormalSecrets",
+          "R9C1",
+          "Pet Name",
+          "",
+          "Dementor",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:33:03 AM",
+          "Godly Gem",
+          "",
+          "ShinySecrets",
+          "R8C1",
+          "Pet Name",
+          "",
+          "Godly Gem",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:33:08 AM",
+          "Shiny Godly GEm",
+          "",
+          "ShinySecrets",
+          "R8C1",
+          "Pet Name",
+          "Godly Gem",
+          "Shiny Godly GEm",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:33:12 AM",
+          "Shiny Godly Gem",
+          "",
+          "ShinySecrets",
+          "R8C1",
+          "Pet Name",
+          "Shiny Godly GEm",
+          "Shiny Godly Gem",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:33:15 AM",
+          "Shiny Dementor",
+          "",
+          "ShinySecrets",
+          "R9C1",
+          "Pet Name",
+          "",
+          "Shiny Dementor",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:33:40 AM",
+          "Mythic Godly Gem",
+          "",
+          "MythicSecrets",
+          "R8C1",
+          "Pet Name",
+          "",
+          "Mythic Godly Gem",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:33:43 AM",
+          "Mythic Dementor",
+          "",
+          "MythicSecrets",
+          "R9C1",
+          "Pet Name",
+          "",
+          "Mythic Dementor",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:35:10 AM",
+          "Shiny Mythic Godly Gem",
+          "",
+          "ShinyMythicSecrets",
+          "R8C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Godly Gem",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:35:12 AM",
+          "Shiny Mythic Dementor",
+          "",
+          "ShinyMythicSecrets",
+          "R9C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Dementor",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:19 AM",
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R8C2",
+          "Pet Image URL",
+          "",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:21 AM",
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R9C2",
+          "Pet Image URL",
+          "",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:24 AM",
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R8C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:25 AM",
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R9C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:26 AM",
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R9C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:27 AM",
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R8C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:28 AM",
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R8C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:29 AM",
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R9C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:32 AM",
+          "Shiny Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R8C2",
+          "Pet Image URL",
+          "",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:34 AM",
+          "Shiny Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R9C2",
+          "Pet Image URL",
+          "",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:35 AM",
+          "Shiny Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R8C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:37 AM",
+          "Shiny Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R9C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:38 AM",
+          "Shiny Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R8C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:39 AM",
+          "Shiny Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R9C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:41 AM",
+          "Shiny Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R9C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:41 AM",
+          "Shiny Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R8C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:42 AM",
+          "Shiny Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R8C5",
+          "Existing",
+          "",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:43 AM",
+          "Shiny Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinySecrets",
+          "R9C5",
+          "Existing",
+          "",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:44 AM",
+          "Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R8C5",
+          "Existing",
+          "",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:46 AM",
+          "Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "NormalSecrets",
+          "R9C5",
+          "Existing",
+          "",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:48 AM",
+          "Shiny Mythic Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R8C2",
+          "Pet Image URL",
+          "",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:50 AM",
+          "Shiny Mythic Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R9C2",
+          "Pet Image URL",
+          "",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:52 AM",
+          "Shiny Mythic Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R8C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:52 AM",
+          "Shiny Mythic Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R9C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:54 AM",
+          "Shiny Mythic Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R8C5",
+          "Existing",
+          "",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:54 AM",
+          "Shiny Mythic Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R9C5",
+          "Existing",
+          "",
+          "0",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:55 AM",
+          "Shiny Mythic Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R8C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:57 AM",
+          "Shiny Mythic Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R9C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:58 AM",
+          "Shiny Mythic Godly Gem",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R8C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/24/2025, 12:42:59 AM",
+          "Shiny Mythic Dementor",
+          "https://i.ibb.co/Y76JL2Qj/image.jpg",
+          "ShinyMythicSecrets",
+          "R9C7",
+          "Is Limited",
+          "",
+          "Yes",
           "thelolman76@gmail.com"
         ]
       ]
