@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,500",
           "4",
-          "4,407",
+          "4,421",
           "7",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "3,500",
           "5",
-          "1,279",
+          "1,282",
           "10",
           "No",
           "Dropping"
@@ -50,7 +50,7 @@
           "https://tr.rbxcdn.com/180DAY-4a48da43731ca8027448fe11d758a0f1/420/420/Image/Webp/noFilter",
           "7,000",
           "8",
-          "182",
+          "183",
           "9",
           "No",
           "Dropping"
@@ -60,7 +60,7 @@
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
           "3,500",
           "8",
-          "4,577",
+          "4,596",
           "6",
           "Yes",
           "Stable"
@@ -70,7 +70,7 @@
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
           "7,500",
           "9",
-          "2,420",
+          "2,432",
           "7",
           "Yes",
           "Stable"
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "15,000",
           "10",
-          "607",
+          "610",
           "10",
           "Yes",
           "Stable"
@@ -136,7 +136,7 @@
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
           "10,000",
           "5",
-          "53",
+          "54",
           "8",
           "No",
           "Dropping"
@@ -156,7 +156,7 @@
           "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
           "10,500",
           "7",
-          "166",
+          "167",
           "8",
           "Yes",
           "Stable"
@@ -176,7 +176,7 @@
           "https://tr.rbxcdn.com/180DAY-847f01f92b0d0909f4c61dcb6c5946c6/512/512/Image/Png/noFilter",
           "",
           "10",
-          "31",
+          "32",
           "10",
           "Yes",
           "Stable"
@@ -594,7 +594,7 @@
         [
           "Umbra",
           "https://tr.rbxcdn.com/180DAY-67a447b2acfbe89beb68033939d183b7/420/420/Image/Png/noFilter",
-          "250",
+          "150",
           "3",
           "1,000+",
           "6",
@@ -21214,6 +21214,16 @@
           "Value",
           "30000",
           "28500"
+        ],
+        [
+          "4/26/2025, 5:34:26 AM",
+          "Umbra",
+          "https://tr.rbxcdn.com/180DAY-67a447b2acfbe89beb68033939d183b7/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R8C3",
+          "Value",
+          "250",
+          "150"
         ]
       ]
     }
