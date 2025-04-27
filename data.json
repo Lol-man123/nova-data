@@ -20,15 +20,15 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "5,306",
-          "7",
+          "5,344",
+          "2",
           "No",
           "Dropping"
         ],
         [
           "Avernus",
           "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
-          "4,750",
+          "4,500",
           "8",
           "2,000+",
           "8",
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "3,000",
           "5",
-          "1,558",
+          "1,566",
           "10",
           "No",
           "Dropping"
@@ -68,7 +68,7 @@
         [
           "Easter Basket",
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
-          "7,000",
+          "7,500",
           "9",
           "2,796",
           "7",
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "12,000",
           "10",
-          "967",
+          "973",
           "10",
           "Yes",
           "Stable"
@@ -90,7 +90,7 @@
           "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
           "40,000",
           "10",
-          "210",
+          "217",
           "10",
           "Yes",
           "Stable"
@@ -116,7 +116,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "4,500",
           "4",
-          "215",
+          "217",
           "7",
           "No",
           "Dropping"
@@ -136,7 +136,7 @@
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
           "10,000",
           "5",
-          "73",
+          "74",
           "8",
           "No",
           "Dropping"
@@ -21513,6 +21513,36 @@
           "500",
           "2000",
           "thelolman76@gmail.com"
+        ],
+        [
+          "4/27/2025, 9:39:09 AM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C3",
+          "Value",
+          "4750",
+          "4500"
+        ],
+        [
+          "4/27/2025, 9:39:18 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R7C3",
+          "Value",
+          "7000",
+          "7500"
+        ],
+        [
+          "4/27/2025, 9:44:45 AM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R2C6",
+          "Rarity",
+          "7",
+          "2"
         ]
       ]
     }
