@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "5,243",
+          "5,258",
           "7",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "3,000",
           "5",
-          "1,537",
+          "1,541",
           "10",
           "No",
           "Dropping"
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "12,000",
           "10",
-          "948",
+          "952",
           "10",
           "Yes",
           "Stable"
@@ -144,7 +144,7 @@
         [
           "Shiny Man Face God",
           "https://tr.rbxcdn.com/180DAY-4b39edfe87e67a529934780fd5d60d88/420/420/Image/Webp/noFilter",
-          "30,000",
+          "O/C",
           "10",
           "7",
           "10",
@@ -534,12 +534,12 @@
         [
           "Seraph",
           "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
-          "2,000",
+          "1,100",
           "6",
           "<100",
           "10",
           "Yes",
-          "Stable"
+          "Dropping"
         ],
         [
           "Manarium",
@@ -548,7 +548,7 @@
           "3",
           "<100",
           "10",
-          "No",
+          "Yes",
           "Dropping"
         ],
         [
@@ -658,7 +658,7 @@
           "6",
           "<1,000",
           "8",
-          "No",
+          "Yes",
           "Dropping"
         ],
         [
@@ -21442,6 +21442,56 @@
           "Demand",
           "8",
           "7"
+        ],
+        [
+          "4/27/2025, 7:40:23 AM",
+          "Shiny Man Face God",
+          "https://tr.rbxcdn.com/180DAY-4b39edfe87e67a529934780fd5d60d88/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "R5C3",
+          "Value",
+          "30000",
+          "O/C"
+        ],
+        [
+          "4/27/2025, 7:41:22 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R2C3",
+          "Value",
+          "2000",
+          "1100"
+        ],
+        [
+          "4/27/2025, 7:41:29 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R2C8",
+          "Trend",
+          "Stable",
+          "Dropping"
+        ],
+        [
+          "4/27/2025, 7:41:41 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C7",
+          "Is Limited",
+          "No",
+          "Yes"
+        ],
+        [
+          "4/27/2025, 7:41:48 AM",
+          "Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R14C7",
+          "Is Limited",
+          "No",
+          "Yes"
         ]
       ]
     }
