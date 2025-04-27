@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "6,143",
+          "6,153",
           "4",
           "No",
           "Dropping"
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "12,000",
           "10",
-          "1154",
+          "1157",
           "8",
           "Yes",
           "Stable"
@@ -136,7 +136,7 @@
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
           "10,000",
           "5",
-          "82",
+          "83",
           "8",
           "No",
           "Dropping"
@@ -412,7 +412,7 @@
         [
           "Dowodle",
           "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
-          "1,000",
+          "1,500",
           "10",
           "5,893",
           "5",
@@ -21643,6 +21643,16 @@
           "Value",
           "1100",
           "1000"
+        ],
+        [
+          "4/28/2025, 1:47:19 AM",
+          "Dowodle",
+          "https://tr.rbxcdn.com/180DAY-09ad4bcca6a67a78b3102571b9e40332/150/150/Image/Webp/noFilter",
+          "Robux",
+          "R3C3",
+          "Value",
+          "1000",
+          "1500"
         ]
       ]
     }
