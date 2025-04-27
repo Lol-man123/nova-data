@@ -20,8 +20,8 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "5,344",
-          "2",
+          "5,354",
+          "4",
           "No",
           "Dropping"
         ],
@@ -31,7 +31,7 @@
           "4,500",
           "8",
           "2,000+",
-          "8",
+          "6",
           "Yes",
           "Stable"
         ],
@@ -40,8 +40,8 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "3,000",
           "5",
-          "1,566",
-          "10",
+          "1,569",
+          "6",
           "No",
           "Dropping"
         ],
@@ -61,7 +61,7 @@
           "4,000",
           "7",
           "5,349",
-          "6",
+          "4",
           "Yes",
           "Stable"
         ],
@@ -71,7 +71,7 @@
           "7,500",
           "9",
           "2,796",
-          "7",
+          "6",
           "Yes",
           "Stable"
         ],
@@ -80,8 +80,8 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "12,000",
           "10",
-          "973",
-          "10",
+          "975",
+          "8",
           "Yes",
           "Stable"
         ],
@@ -91,7 +91,7 @@
           "40,000",
           "10",
           "217",
-          "10",
+          "9",
           "Yes",
           "Stable"
         ]
@@ -534,7 +534,7 @@
         [
           "Patronus",
           "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
-          "2,000",
+          "1,250",
           "8",
           "<100",
           "10",
@@ -544,7 +544,7 @@
         [
           "Seraph",
           "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
-          "1,100",
+          "1,000",
           "6",
           "<100",
           "10",
@@ -21543,6 +21543,106 @@
           "Rarity",
           "7",
           "2"
+        ],
+        [
+          "4/27/2025, 9:44:48 AM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C6",
+          "Rarity",
+          "8",
+          "6"
+        ],
+        [
+          "4/27/2025, 9:44:54 AM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R4C6",
+          "Rarity",
+          "10",
+          "5"
+        ],
+        [
+          "4/27/2025, 9:44:59 AM",
+          "Godly Gem",
+          "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R8C6",
+          "Rarity",
+          "10",
+          "8"
+        ],
+        [
+          "4/27/2025, 9:45:02 AM",
+          "Dementor",
+          "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R9C6",
+          "Rarity",
+          "10",
+          "9"
+        ],
+        [
+          "4/27/2025, 9:45:27 AM",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R4C6",
+          "Rarity",
+          "5",
+          "6"
+        ],
+        [
+          "4/27/2025, 9:45:38 AM",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C6",
+          "Rarity",
+          "6",
+          "4"
+        ],
+        [
+          "4/27/2025, 9:45:39 AM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R7C6",
+          "Rarity",
+          "7",
+          "6"
+        ],
+        [
+          "4/27/2025, 9:46:46 AM",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R2C6",
+          "Rarity",
+          "2",
+          "4"
+        ],
+        [
+          "4/27/2025, 9:47:34 AM",
+          "Patronus",
+          "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R2C3",
+          "Value",
+          "2000",
+          "1250"
+        ],
+        [
+          "4/27/2025, 9:51:15 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C3",
+          "Value",
+          "1100",
+          "1000"
         ]
       ]
     }
