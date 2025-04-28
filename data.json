@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "6,204",
+          "6,388",
           "4",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "3,000",
           "5",
-          "1,767",
+          "1,798",
           "6",
           "No",
           "Dropping"
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "12,000",
           "10",
-          "1164",
+          "1212",
           "8",
           "Yes",
           "Stable"
@@ -90,7 +90,7 @@
           "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
           "40,000",
           "10",
-          "253",
+          "260",
           "9",
           "Yes",
           "Stable"
@@ -116,7 +116,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "4,500",
           "4",
-          "270",
+          "273",
           "7",
           "No",
           "Dropping"
@@ -176,7 +176,7 @@
           "https://tr.rbxcdn.com/180DAY-847f01f92b0d0909f4c61dcb6c5946c6/512/512/Image/Png/noFilter",
           "",
           "10",
-          "57",
+          "58",
           "10",
           "Yes",
           "Stable"
@@ -186,7 +186,7 @@
           "https://tr.rbxcdn.com/180DAY-77fd3fff8852771e99c4ae7dc9b7f923/512/512/Image/Png/noFilter",
           "",
           "10",
-          "12",
+          "14",
           "10",
           "Yes",
           "Stable"
@@ -212,7 +212,7 @@
           "https://tr.rbxcdn.com/180DAY-b6f3858ad54f466928d5cb3401812ed1/420/420/Image/Webp/noFilter",
           "15,000",
           "5",
-          "58",
+          "61",
           "7",
           "No",
           "Dropping"
@@ -232,7 +232,7 @@
           "https://tr.rbxcdn.com/180DAY-bb243e569064d9b1f46eb00d052500a1/420/420/Image/Webp/noFilter",
           "35,000",
           "6",
-          "22",
+          "23",
           "10",
           "No",
           "Dropping"
@@ -535,86 +535,86 @@
           "Patronus",
           "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
           "1,250",
-          "8",
-          "<100",
-          "10",
+          "6",
+          "1000+",
+          "6",
           "Yes",
-          "Stable"
+          "Dropping"
         ],
         [
           "Seraph",
           "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
           "1,000",
-          "6",
-          "<100",
-          "10",
+          "5",
+          "1000+",
+          "7",
           "Yes",
-          "Dropping"
+          "Stable"
         ],
         [
           "Manarium",
           "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
-          "250",
-          "3",
-          "<100",
-          "10",
+          "50",
+          "5",
+          "1000+",
+          "7",
           "Yes",
-          "Dropping"
+          "Rising"
         ],
         [
           "King Soul",
           "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
-          "500",
-          "7",
-          "0",
-          "10",
+          "100",
+          "4",
+          "500+",
+          "8",
           "No",
           "Dropping"
         ],
         [
           "Demonic Dogcat",
           "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
-          "500",
-          "7",
-          "0",
-          "10",
+          "100",
+          "4",
+          "500+",
+          "8",
           "No",
           "Dropping"
         ],
         [
           "Hacker Prism",
           "https://tr.rbxcdn.com/180DAY-eedc73561dfcd7d7338abcab79090013/420/420/Image/Webp/noFilter",
-          "350",
-          "6",
+          "30",
+          "3",
           "1,000+",
           "8",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Kitsune",
           "https://tr.rbxcdn.com/180DAY-1a7add19ca1aee5a50330603fb8f9abf/420/420/Image/Png/noFilter",
-          "250",
+          "20",
           "2",
           "1,000+",
           "7",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Umbra",
           "https://tr.rbxcdn.com/180DAY-67a447b2acfbe89beb68033939d183b7/420/420/Image/Png/noFilter",
-          "150",
+          "20",
           "3",
           "1,000+",
           "6",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Ophanim",
           "https://tr.rbxcdn.com/180DAY-9cf935163f60a98a63397c1261642952/420/420/Image/Webp/noFilter",
-          "100",
+          "10",
           "2",
           "1,000+",
           "5",
@@ -624,7 +624,7 @@
         [
           "Crescent Empress",
           "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
-          "350",
+          "15",
           "3",
           "1,000+",
           "5",
@@ -634,17 +634,17 @@
         [
           "Trio Cube",
           "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
-          "150",
-          "5",
-          "<1,000",
+          "10",
+          "1",
+          "1000+",
           "7",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Cardinal Bunny",
           "https://tr.rbxcdn.com/180DAY-691b9fbfb3a70a37d613860e929d6afb/420/420/Image/Webp/noFilter",
-          "200",
+          "50",
           "8",
           "1,000+",
           "8",
@@ -654,38 +654,38 @@
         [
           "Holy Shock",
           "https://tr.rbxcdn.com/180DAY-eeb22ee395b18dc3525b73837d6ef6ba/420/420/Image/Webp/noFilter",
-          "150",
+          "5",
           "3",
           "1,000+",
           "4",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Sigma Serpent",
           "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
-          "150",
-          "6",
-          "<1,000",
+          "20",
+          "4",
+          "1000+",
           "8",
           "Yes",
-          "Dropping"
+          "Rising"
         ],
         [
           "Evil Shock",
           "https://tr.rbxcdn.com/180DAY-d8a95fec95a6c01bd6226e3748738319/420/420/Image/Webp/noFilter",
-          "150",
-          "3",
+          "5",
+          "1",
           "1,000+",
           "4",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Solar Deity",
           "https://tr.rbxcdn.com/180DAY-337934e44cae9318cfefbafa78450d95/420/420/Image/Webp/noFilter",
-          "200",
-          "6",
+          "30",
+          "2",
           "1,000+",
           "5",
           "Yes",
@@ -694,38 +694,38 @@
         [
           "NULLVoid",
           "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
-          "100",
-          "6",
+          "10",
+          "4",
           "1,000+",
           "8",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Moonburst",
           "https://tr.rbxcdn.com/180DAY-c657f5b0b54de20afc965944879d1e71/420/420/Image/Png/noFilter",
-          "150",
+          "30",
           "5",
           "1,000+",
           "6",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Sunburst",
           "https://tr.rbxcdn.com/180DAY-b03f29fff9a9f8318a8a8a1047a41aac/420/420/Image/Webp/noFilter",
-          "150",
+          "30",
           "5",
           "10,000+",
           "3",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Rainbow Marshmellow",
           "https://tr.rbxcdn.com/180DAY-ad9091ba80db67fd630f718cccfc2f7b/420/420/Image/Webp/noFilter",
-          "125",
-          "6",
+          "15",
+          "3",
           "1,000+",
           "6",
           "Yes",
@@ -734,28 +734,28 @@
         [
           "Abyssal Dragon",
           "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
-          "100",
+          "25",
           "1",
           "1,000+",
           "5",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Rainbow Blitz",
           "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
-          "100",
-          "4",
-          "<1,000",
+          "5",
+          "3",
+          "1000+",
           "8",
           "No",
-          "Dropping"
+          "Stable"
         ],
         [
           "Lunar Deity",
           "https://tr.rbxcdn.com/180DAY-900ce7364436f2ad2f6f80469d8dccfb/420/420/Image/Webp/noFilter",
-          "100",
-          "5",
+          "10",
+          "2",
           "10,000+",
           "3",
           "Yes",
@@ -764,38 +764,38 @@
         [
           "Rainbow Shock",
           "https://tr.rbxcdn.com/180DAY-da205e4f49c7a00a7f6a2c4ad178c181/420/420/Image/Webp/noFilter",
-          "50",
           "5",
-          "10,000+",
-          "3",
-          "No",
-          "Dropping"
-        ],
-        [
-          "Hexarium",
-          "https://tr.rbxcdn.com/180DAY-aebf74db08b059a8c5be81d709caa87b/420/420/Image/Webp/noFilter",
-          "20",
-          "2",
-          "10,000+",
-          "3",
-          "No",
-          "Dropping"
-        ],
-        [
-          "Demonic Hydra",
-          "https://tr.rbxcdn.com/180DAY-9b0197e2f6847e9c99b12729e4fc7f2b/420/420/Image/Png/noFilter",
-          "10",
           "1",
           "10,000+",
           "3",
           "No",
-          "Dropping"
+          "Stable"
+        ],
+        [
+          "Hexarium",
+          "https://tr.rbxcdn.com/180DAY-aebf74db08b059a8c5be81d709caa87b/420/420/Image/Webp/noFilter",
+          "0",
+          "2",
+          "10,000+",
+          "3",
+          "No",
+          "Stable"
+        ],
+        [
+          "Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-9b0197e2f6847e9c99b12729e4fc7f2b/420/420/Image/Png/noFilter",
+          "0",
+          "1",
+          "10,000+",
+          "3",
+          "No",
+          "Stable"
         ],
         [
           "Holy Egg",
           "https://tr.rbxcdn.com/180DAY-58ee55b81e369c66c32050ae85096880/420/420/Image/Webp/noFilter",
-          "200",
-          "8",
+          "25",
+          "6",
           "1,000+",
           "7",
           "Yes",
@@ -804,7 +804,7 @@
         [
           "Midas",
           "https://tr.rbxcdn.com/180DAY-5f6fd8ffaf9f4a2ff7fdf8fb58b30237/512/512/Image/Png/noFilter",
-          "300",
+          "80",
           "3",
           "1,000+",
           "8",
@@ -21653,6 +21653,775 @@
           "Value",
           "1000",
           "1500"
+        ],
+        [
+          "4/28/2025, 3:36:11 AM",
+          "Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-9b0197e2f6847e9c99b12729e4fc7f2b/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R27C3",
+          "Value",
+          "10",
+          "0"
+        ],
+        [
+          "4/28/2025, 3:36:12 AM",
+          "Hexarium",
+          "https://tr.rbxcdn.com/180DAY-aebf74db08b059a8c5be81d709caa87b/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R26C3",
+          "Value",
+          "20",
+          "0"
+        ],
+        [
+          "4/28/2025, 3:36:39 AM",
+          "Holy Egg",
+          "https://tr.rbxcdn.com/180DAY-58ee55b81e369c66c32050ae85096880/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R28C3",
+          "Value",
+          "200",
+          "25"
+        ],
+        [
+          "4/28/2025, 3:36:47 AM",
+          "Midas",
+          "https://tr.rbxcdn.com/180DAY-5f6fd8ffaf9f4a2ff7fdf8fb58b30237/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R29C3",
+          "Value",
+          "300"
+        ],
+        [
+          "4/28/2025, 3:36:51 AM",
+          "Midas",
+          "https://tr.rbxcdn.com/180DAY-5f6fd8ffaf9f4a2ff7fdf8fb58b30237/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R29C3",
+          "Value",
+          "",
+          "80"
+        ],
+        [
+          "4/28/2025, 3:36:58 AM",
+          "Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-da205e4f49c7a00a7f6a2c4ad178c181/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R25C3",
+          "Value",
+          "50",
+          "5"
+        ],
+        [
+          "4/28/2025, 3:37:01 AM",
+          "Lunar Deity",
+          "https://tr.rbxcdn.com/180DAY-900ce7364436f2ad2f6f80469d8dccfb/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R24C3",
+          "Value",
+          "100",
+          "10"
+        ],
+        [
+          "4/28/2025, 3:37:04 AM",
+          "Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R23C3",
+          "Value",
+          "100",
+          "5"
+        ],
+        [
+          "4/28/2025, 3:37:07 AM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R22C3",
+          "Value",
+          "100",
+          "25"
+        ],
+        [
+          "4/28/2025, 3:37:16 AM",
+          "Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-ad9091ba80db67fd630f718cccfc2f7b/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R21C3",
+          "Value",
+          "125",
+          "15"
+        ],
+        [
+          "4/28/2025, 3:37:20 AM",
+          "Sunburst",
+          "https://tr.rbxcdn.com/180DAY-b03f29fff9a9f8318a8a8a1047a41aac/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R20C3",
+          "Value",
+          "150",
+          "40"
+        ],
+        [
+          "4/28/2025, 3:37:22 AM",
+          "Moonburst",
+          "https://tr.rbxcdn.com/180DAY-c657f5b0b54de20afc965944879d1e71/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R19C3",
+          "Value",
+          "150",
+          "40"
+        ],
+        [
+          "4/28/2025, 3:37:30 AM",
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R18C3",
+          "Value",
+          "100",
+          "10"
+        ],
+        [
+          "4/28/2025, 3:37:50 AM",
+          "Sunburst",
+          "https://tr.rbxcdn.com/180DAY-b03f29fff9a9f8318a8a8a1047a41aac/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R20C3",
+          "Value",
+          "40",
+          "30"
+        ],
+        [
+          "4/28/2025, 3:37:53 AM",
+          "Moonburst",
+          "https://tr.rbxcdn.com/180DAY-c657f5b0b54de20afc965944879d1e71/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R19C3",
+          "Value",
+          "40",
+          "30"
+        ],
+        [
+          "4/28/2025, 3:37:57 AM",
+          "Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R23C5",
+          "Existing",
+          "<1,000",
+          "1000+"
+        ],
+        [
+          "4/28/2025, 3:38:01 AM",
+          "Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R15C5",
+          "Existing",
+          "<1,000",
+          "1000+"
+        ],
+        [
+          "4/28/2025, 3:38:06 AM",
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R12C5",
+          "Existing",
+          "<1,000",
+          "1000+"
+        ],
+        [
+          "4/28/2025, 3:38:10 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R4C5",
+          "Existing",
+          "<100",
+          "1000+"
+        ],
+        [
+          "4/28/2025, 3:38:12 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C5",
+          "Existing",
+          "<100",
+          "1000+"
+        ],
+        [
+          "4/28/2025, 3:38:20 AM",
+          "Patronus",
+          "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R2C5",
+          "Existing",
+          "<100",
+          "1000+"
+        ],
+        [
+          "4/28/2025, 3:38:22 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R4C3",
+          "Value",
+          "250",
+          "50"
+        ],
+        [
+          "4/28/2025, 3:38:31 AM",
+          "King Soul",
+          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R5C3",
+          "Value",
+          "500",
+          "100"
+        ],
+        [
+          "4/28/2025, 3:38:35 AM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R6C3",
+          "Value",
+          "500",
+          "100"
+        ],
+        [
+          "4/28/2025, 3:38:48 AM",
+          "Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-eedc73561dfcd7d7338abcab79090013/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R7C3",
+          "Value",
+          "350",
+          "30"
+        ],
+        [
+          "4/28/2025, 3:38:50 AM",
+          "Kitsune",
+          "https://tr.rbxcdn.com/180DAY-1a7add19ca1aee5a50330603fb8f9abf/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R8C3",
+          "Value",
+          "250",
+          "20"
+        ],
+        [
+          "4/28/2025, 3:38:55 AM",
+          "Umbra",
+          "https://tr.rbxcdn.com/180DAY-67a447b2acfbe89beb68033939d183b7/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R9C3",
+          "Value",
+          "150",
+          "20"
+        ],
+        [
+          "4/28/2025, 3:38:59 AM",
+          "Ophanim",
+          "https://tr.rbxcdn.com/180DAY-9cf935163f60a98a63397c1261642952/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R10C3",
+          "Value",
+          "100",
+          "10"
+        ],
+        [
+          "4/28/2025, 3:39:02 AM",
+          "Crescent Empress",
+          "https://tr.rbxcdn.com/180DAY-74651e1eab76b97fa1689a7a54e8936e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R11C3",
+          "Value",
+          "350",
+          "15"
+        ],
+        [
+          "4/28/2025, 3:39:10 AM",
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R12C3",
+          "Value",
+          "150",
+          "10"
+        ],
+        [
+          "4/28/2025, 3:39:14 AM",
+          "Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-691b9fbfb3a70a37d613860e929d6afb/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R13C3",
+          "Value",
+          "200",
+          "50"
+        ],
+        [
+          "4/28/2025, 3:39:19 AM",
+          "Holy Shock",
+          "https://tr.rbxcdn.com/180DAY-eeb22ee395b18dc3525b73837d6ef6ba/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R14C3",
+          "Value",
+          "150",
+          "5"
+        ],
+        [
+          "4/28/2025, 3:39:21 AM",
+          "Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R15C3",
+          "Value",
+          "150",
+          "10"
+        ],
+        [
+          "4/28/2025, 3:39:23 AM",
+          "Evil Shock",
+          "https://tr.rbxcdn.com/180DAY-d8a95fec95a6c01bd6226e3748738319/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R16C3",
+          "Value",
+          "150",
+          "5"
+        ],
+        [
+          "4/28/2025, 3:39:26 AM",
+          "Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R15C3",
+          "Value",
+          "10",
+          "20"
+        ],
+        [
+          "4/28/2025, 3:39:40 AM",
+          "Solar Deity",
+          "https://tr.rbxcdn.com/180DAY-337934e44cae9318cfefbafa78450d95/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R17C3",
+          "Value",
+          "200",
+          "30"
+        ],
+        [
+          "4/28/2025, 3:39:46 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C4",
+          "Demand",
+          "6",
+          "5"
+        ],
+        [
+          "4/28/2025, 3:39:50 AM",
+          "Patronus",
+          "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R2C4",
+          "Demand",
+          "8",
+          "6"
+        ],
+        [
+          "4/28/2025, 3:39:56 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R4C4",
+          "Demand",
+          "3",
+          "5"
+        ],
+        [
+          "4/28/2025, 3:39:59 AM",
+          "King Soul",
+          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R5C4",
+          "Demand",
+          "7",
+          "4"
+        ],
+        [
+          "4/28/2025, 3:40:00 AM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R6C4",
+          "Demand",
+          "7",
+          "4"
+        ],
+        [
+          "4/28/2025, 3:40:03 AM",
+          "Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-eedc73561dfcd7d7338abcab79090013/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R7C4",
+          "Demand",
+          "6",
+          "3"
+        ],
+        [
+          "4/28/2025, 3:40:11 AM",
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R12C4",
+          "Demand",
+          "5",
+          "1"
+        ],
+        [
+          "4/28/2025, 3:40:21 AM",
+          "Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R15C4",
+          "Demand",
+          "6",
+          "4"
+        ],
+        [
+          "4/28/2025, 3:40:24 AM",
+          "Evil Shock",
+          "https://tr.rbxcdn.com/180DAY-d8a95fec95a6c01bd6226e3748738319/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R16C4",
+          "Demand",
+          "3",
+          "1"
+        ],
+        [
+          "4/28/2025, 3:40:25 AM",
+          "Solar Deity",
+          "https://tr.rbxcdn.com/180DAY-337934e44cae9318cfefbafa78450d95/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R17C4",
+          "Demand",
+          "6",
+          "2"
+        ],
+        [
+          "4/28/2025, 3:40:29 AM",
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R18C4",
+          "Demand",
+          "6",
+          "4"
+        ],
+        [
+          "4/28/2025, 3:40:35 AM",
+          "Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-ad9091ba80db67fd630f718cccfc2f7b/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R21C4",
+          "Demand",
+          "6",
+          "3"
+        ],
+        [
+          "4/28/2025, 3:40:38 AM",
+          "Lunar Deity",
+          "https://tr.rbxcdn.com/180DAY-900ce7364436f2ad2f6f80469d8dccfb/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R24C4",
+          "Demand",
+          "5",
+          "2"
+        ],
+        [
+          "4/28/2025, 3:40:39 AM",
+          "Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-da205e4f49c7a00a7f6a2c4ad178c181/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R25C4",
+          "Demand",
+          "5",
+          "1"
+        ],
+        [
+          "4/28/2025, 3:40:43 AM",
+          "Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R23C4",
+          "Demand",
+          "4",
+          "3"
+        ],
+        [
+          "4/28/2025, 3:40:47 AM",
+          "Holy Egg",
+          "https://tr.rbxcdn.com/180DAY-58ee55b81e369c66c32050ae85096880/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R28C4",
+          "Demand",
+          "8",
+          "6"
+        ],
+        [
+          "4/28/2025, 3:40:57 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:03 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R4C8",
+          "Trend",
+          "Dropping",
+          "Rising"
+        ],
+        [
+          "4/28/2025, 3:41:14 AM",
+          "Hacker Prism",
+          "https://tr.rbxcdn.com/180DAY-eedc73561dfcd7d7338abcab79090013/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R7C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:18 AM",
+          "Kitsune",
+          "https://tr.rbxcdn.com/180DAY-1a7add19ca1aee5a50330603fb8f9abf/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R8C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:24 AM",
+          "Umbra",
+          "https://tr.rbxcdn.com/180DAY-67a447b2acfbe89beb68033939d183b7/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R9C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:29 AM",
+          "Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-91c47e8487ccf46a576612c52e406e14/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R12C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:33 AM",
+          "Holy Shock",
+          "https://tr.rbxcdn.com/180DAY-eeb22ee395b18dc3525b73837d6ef6ba/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R14C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:36 AM",
+          "Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-ba731e78f57c162f4c0444ad39929346/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R15C8",
+          "Trend",
+          "Dropping",
+          "Rising"
+        ],
+        [
+          "4/28/2025, 3:41:41 AM",
+          "Evil Shock",
+          "https://tr.rbxcdn.com/180DAY-d8a95fec95a6c01bd6226e3748738319/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R16C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:45 AM",
+          "NULLVoid",
+          "https://tr.rbxcdn.com/180DAY-964de69d80ac38c9f6f4409d5e2f5ba8/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R18C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:47 AM",
+          "Moonburst",
+          "https://tr.rbxcdn.com/180DAY-c657f5b0b54de20afc965944879d1e71/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R19C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:52 AM",
+          "Sunburst",
+          "https://tr.rbxcdn.com/180DAY-b03f29fff9a9f8318a8a8a1047a41aac/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R20C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:56 AM",
+          "Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-ab42836cb7a7d240dfa3087476245214/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R22C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:41:59 AM",
+          "Rainbow Blitz",
+          "https://tr.rbxcdn.com/180DAY-70652f8860c80c22dac0a2030a5e1a73/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R23C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:42:03 AM",
+          "Rainbow Shock",
+          "https://tr.rbxcdn.com/180DAY-da205e4f49c7a00a7f6a2c4ad178c181/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R25C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:42:07 AM",
+          "Hexarium",
+          "https://tr.rbxcdn.com/180DAY-aebf74db08b059a8c5be81d709caa87b/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R26C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:42:12 AM",
+          "Demonic Hydra",
+          "https://tr.rbxcdn.com/180DAY-9b0197e2f6847e9c99b12729e4fc7f2b/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R27C8",
+          "Trend",
+          "Dropping",
+          "Stable"
+        ],
+        [
+          "4/28/2025, 3:42:16 AM",
+          "Patronus",
+          "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R2C8",
+          "Trend",
+          "Stable",
+          "Dropping"
+        ],
+        [
+          "4/28/2025, 3:42:35 AM",
+          "King Soul",
+          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R5C5",
+          "Existing",
+          "0",
+          "500+"
+        ],
+        [
+          "4/28/2025, 3:42:38 AM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R6C5",
+          "Existing",
+          "0",
+          "500+"
+        ],
+        [
+          "4/28/2025, 4:06:29 AM",
+          "Demonic Dogcat",
+          "https://tr.rbxcdn.com/180DAY-5c281222ef6e9b2be9e186f8a6fd963e/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R6C6",
+          "Rarity",
+          "10",
+          "8"
+        ],
+        [
+          "4/28/2025, 4:06:31 AM",
+          "King Soul",
+          "https://tr.rbxcdn.com/180DAY-f3cd575eb93ca522456adeb4cd41f189/420/420/Image/Webp/noFilter",
+          "Legendary",
+          "R5C6",
+          "Rarity",
+          "10",
+          "8"
+        ],
+        [
+          "4/28/2025, 4:06:36 AM",
+          "Manarium",
+          "https://tr.rbxcdn.com/180DAY-c482a29630d2adacf05385afa50ccf2c/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R4C6",
+          "Rarity",
+          "10",
+          "7"
+        ],
+        [
+          "4/28/2025, 4:06:38 AM",
+          "Seraph",
+          "https://tr.rbxcdn.com/180DAY-7deafa43ef443544e6e067936d8bdb44/420/420/Image/Png/noFilter",
+          "Legendary",
+          "R3C6",
+          "Rarity",
+          "10",
+          "7"
+        ],
+        [
+          "4/28/2025, 4:20:57 AM",
+          "Patronus",
+          "https://tr.rbxcdn.com/180DAY-beaa3f0dc03bc0762bf49814b803cb0d/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R2C6",
+          "Rarity",
+          "10",
+          "6"
         ]
       ]
     }
