@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "7,323",
+          "7,333",
           "4",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
           "5",
-          "1,963",
+          "1,965",
           "6",
           "No",
           "Dropping"
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "10,000",
           "10",
-          "1395",
+          "1396",
           "8",
           "Yes",
           "Stable"
@@ -90,7 +90,7 @@
           "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
           "30,000",
           "10",
-          "319",
+          "320",
           "9",
           "Yes",
           "Stable"
@@ -116,7 +116,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "4,500",
           "4",
-          "313",
+          "314",
           "7",
           "No",
           "Dropping"
@@ -223,7 +223,7 @@
           "23,000",
           "7",
           "<100",
-          "10",
+          "9",
           "Yes",
           "Stable"
         ],
@@ -1445,7 +1445,7 @@
           "2,000",
           "10",
           "<100",
-          "10",
+          "9",
           "No",
           "Dropping"
         ],
@@ -23051,6 +23051,26 @@
           "Value",
           "40000",
           "30000"
+        ],
+        [
+          "4/28/2025, 11:45:55 PM",
+          "Mythic Avernus",
+          "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R3C6",
+          "Rarity",
+          "10",
+          "9"
+        ],
+        [
+          "4/28/2025, 11:48:03 PM",
+          "Shiny Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-081c011820c23d56f28591f479cc4360/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R15C6",
+          "Rarity",
+          "10",
+          "9"
         ]
       ]
     }
