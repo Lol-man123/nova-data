@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,200",
           "4",
-          "8,217",
+          "8,243",
           "4",
           "No",
           "Dropping"
@@ -28,19 +28,19 @@
         [
           "Avernus",
           "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
-          "4,000",
+          "3,800",
           "8",
           "2,000+",
           "6",
           "Yes",
-          "Stable"
+          "Dropping"
         ],
         [
           "King Doggy",
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
           "5",
-          "2,105",
+          "2,107",
           "6",
           "No",
           "Dropping"
@@ -58,17 +58,17 @@
         [
           "Giant Chocolate Chicken",
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
-          "4,000",
-          "7",
+          "4,500",
+          "8",
           "5,349",
           "4",
           "Yes",
-          "Stable"
+          "Rising"
         ],
         [
           "Easter Basket",
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
-          "7,500",
+          "8,000",
           "9",
           "2,796",
           "6",
@@ -80,7 +80,7 @@
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
           "10,000",
           "10",
-          "1624",
+          "1636",
           "8",
           "Yes",
           "Stable"
@@ -90,7 +90,7 @@
           "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
           "28,500",
           "10",
-          "377",
+          "378",
           "9",
           "Yes",
           "Stable"
@@ -116,7 +116,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "4,500",
           "4",
-          "355",
+          "356",
           "7",
           "No",
           "Dropping"
@@ -154,7 +154,7 @@
         [
           "Shiny Giant Chocolate Chicken",
           "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
-          "10,500",
+          "11,500",
           "7",
           "208",
           "8",
@@ -164,7 +164,7 @@
         [
           "Shiny Easter Basket",
           "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
-          "25,000",
+          "23,000",
           "8",
           "123",
           "9",
@@ -250,7 +250,7 @@
         [
           "Mythic Giant Chocolate Chicken",
           "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
-          "29,000",
+          "30,000",
           "8",
           "50",
           "7",
@@ -260,7 +260,7 @@
         [
           "Mythic Easter Basket",
           "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
-          "45,000",
+          "48,000",
           "8",
           "33",
           "10",
@@ -422,7 +422,7 @@
         [
           "Flying Gem",
           "https://tr.rbxcdn.com/180DAY-a6f523e75a820716ef14936e979862d5/420/420/Image/Webp/noFilter",
-          "200",
+          "50",
           "3",
           "1,821",
           "7",
@@ -488,7 +488,7 @@
         [
           "Shiny Flying Gem",
           "https://tr.rbxcdn.com/180DAY-7b960020f09473945e4b6a8c0e7aba59/420/420/Image/Png/noFilter",
-          "1,400",
+          "250",
           "5",
           "<100",
           "9",
@@ -23135,6 +23135,179 @@
           "Value",
           "30000",
           "28500"
+        ],
+        [
+          "4/29/2025, 5:29:41 PM",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C3",
+          "Value",
+          "4000",
+          "4500"
+        ],
+        [
+          "4/29/2025, 5:29:51 PM",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C4",
+          "Demand",
+          "7",
+          "8"
+        ],
+        [
+          "4/29/2025, 5:29:58 PM",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R7C3",
+          "Value",
+          "7500",
+          "8000"
+        ],
+        [
+          "4/29/2025, 5:30:32 PM",
+          "Flying Gem",
+          "https://tr.rbxcdn.com/180DAY-a6f523e75a820716ef14936e979862d5/420/420/Image/Webp/noFilter",
+          "Robux",
+          "R4C3",
+          "Value",
+          "200",
+          "50"
+        ],
+        [
+          "4/29/2025, 5:30:52 PM",
+          "Shiny Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-c0d03b427272766cf5b3eff1b835a639/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "R6C3",
+          "Value",
+          "10500",
+          "11500"
+        ],
+        [
+          "4/29/2025, 5:31:01 PM",
+          "Shiny Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-522bc5af95ee1a2bc9f4d437703cb893/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "R7C3",
+          "Value",
+          "25000",
+          "23000"
+        ],
+        [
+          "4/29/2025, 5:31:20 PM",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R7C3",
+          "Value",
+          "45000",
+          "48000"
+        ],
+        [
+          "4/29/2025, 5:31:26 PM",
+          "Mythic Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R6C3",
+          "Value",
+          "29000",
+          "30000"
+        ],
+        [
+          "4/29/2025, 5:31:56 PM",
+          "Shiny Flying Gem",
+          "https://tr.rbxcdn.com/180DAY-7b960020f09473945e4b6a8c0e7aba59/420/420/Image/Png/noFilter",
+          "ShinyRobux",
+          "R4C3",
+          "Value",
+          "1400",
+          "250"
+        ],
+        [
+          "4/29/2025, 5:38:51 PM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C8",
+          "Trend",
+          "Stable",
+          "Dropping"
+        ],
+        [
+          "4/29/2025, 5:38:55 PM",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C3",
+          "Value",
+          "4000",
+          "3800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/29/2025, 5:39:02 PM",
+          "Unknown",
+          "",
+          "NormalSecrets",
+          "R12C8",
+          "Trend",
+          "",
+          "hi uwu",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "4/29/2025, 5:39:10 PM",
+          "Unknown",
+          "",
+          "NormalSecrets",
+          "R13C8",
+          "Trend",
+          "",
+          "hi uwu meow prrow uwu meow"
+        ],
+        [
+          "4/29/2025, 5:39:17 PM",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C8",
+          "Trend",
+          "Stable",
+          "rising"
+        ],
+        [
+          "4/29/2025, 5:39:20 PM",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C8",
+          "Trend",
+          "rising",
+          "Rising"
+        ],
+        [
+          "4/29/2025, 5:39:40 PM",
+          "Unknown",
+          "",
+          "NormalSecrets",
+          "R13C5",
+          "Existing",
+          "",
+          "we need new website"
+        ],
+        [
+          "4/29/2025, 5:40:29 PM",
+          "Unknown",
+          "",
+          "NormalSecrets",
+          "R13C5",
+          "Existing",
+          "we need new website",
+          "",
+          "thelolman76@gmail.com"
         ]
       ]
     }
