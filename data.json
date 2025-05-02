@@ -19,8 +19,8 @@
           "The Overlord",
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,000",
-          "4",
-          "11,192",
+          "3",
+          "11,205",
           "2",
           "No",
           "Dropping"
@@ -39,8 +39,8 @@
           "King Doggy",
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
-          "5",
-          "2,628",
+          "4",
+          "2,630",
           "6",
           "No",
           "Dropping"
@@ -68,7 +68,7 @@
         [
           "Easter Basket",
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
-          "9,000",
+          "9,500",
           "9",
           "2,796",
           "6",
@@ -98,9 +98,9 @@
         [
           "Royal Trophy",
           "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
-          "3,500",
+          "3,200",
           "8",
-          "8064",
+          "8076",
           "3",
           "Yes",
           "Dropping"
@@ -124,7 +124,7 @@
         [
           "Shiny The Overlord",
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
-          "4,500",
+          "3,000",
           "4",
           "489",
           "7",
@@ -136,7 +136,7 @@
           "https://tr.rbxcdn.com/180DAY-8a157c2a499987500ea0df6f6cb8bfa1/420/420/Image/Webp/noFilter",
           "11,500",
           "5",
-          "<100",
+          "100+",
           "7",
           "Yes",
           "Stable"
@@ -206,7 +206,7 @@
           "https://tr.rbxcdn.com/180DAY-777d02fe158dc7e0e41779574f707a13/512/512/Image/Png/noFilter",
           "11,000",
           "9",
-          "337",
+          "338",
           "9",
           "Yes",
           "Stable"
@@ -240,9 +240,9 @@
         [
           "Mythic Avernus",
           "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
-          "25,000",
+          "35,000",
           "7",
-          "<100",
+          "50+",
           "9",
           "Yes",
           "Stable"
@@ -270,7 +270,7 @@
         [
           "Mythic Giant Chocolate Chicken",
           "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
-          "30,000",
+          "50,000",
           "10",
           "50",
           "7",
@@ -280,7 +280,7 @@
         [
           "Mythic Easter Basket",
           "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
-          "48,000",
+          "65,000",
           "9",
           "33",
           "10",
@@ -290,7 +290,7 @@
         [
           "Mythic Godly Gem",
           "https://tr.rbxcdn.com/180DAY-267de60ed91197c96aba0021b8a7e90e/512/512/Image/Png/noFilter",
-          "60,000",
+          "80,000",
           "10",
           "21",
           "10",
@@ -346,7 +346,7 @@
         [
           "Shiny Mythic Avernus",
           "https://tr.rbxcdn.com/180DAY-ff5ddf04113a3eb28994e26f978e70fe/420/420/Image/Png/noFilter",
-          "350,000",
+          "",
           "10",
           "<10",
           "10",
@@ -24567,6 +24567,125 @@
           "Value",
           "28500",
           "32000"
+        ],
+        [
+          "5/2/2025, 18:36:48",
+          "Royal Trophy",
+          "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R10C3",
+          "Value",
+          "3500",
+          "3200"
+        ],
+        [
+          "5/2/2025, 18:36:52",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R7C3",
+          "Value",
+          "9000",
+          "9500"
+        ],
+        [
+          "5/2/2025, 18:37:34",
+          "The Overlord",
+          "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R2C4",
+          "Demand",
+          "4",
+          "3"
+        ],
+        [
+          "5/2/2025, 18:37:41",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R4C4",
+          "Demand",
+          "5",
+          "4"
+        ],
+        [
+          "5/2/2025, 18:37:55",
+          "Shiny The Overlord",
+          "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "R2C3",
+          "Value",
+          "4500",
+          "3000"
+        ],
+        [
+          "5/2/2025, 18:38:34",
+          "Shiny Avernus",
+          "https://tr.rbxcdn.com/180DAY-8a157c2a499987500ea0df6f6cb8bfa1/420/420/Image/Webp/noFilter",
+          "ShinySecrets",
+          "R3C5",
+          "Existing",
+          "<100",
+          "100+"
+        ],
+        [
+          "5/2/2025, 18:38:56",
+          "Mythic Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-2d6c3fe230b38e9c4faa7d09ce97d2e5/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R7C3",
+          "Value",
+          "48000",
+          "65000"
+        ],
+        [
+          "5/2/2025, 18:39:05",
+          "Mythic Godly Gem",
+          "https://tr.rbxcdn.com/180DAY-267de60ed91197c96aba0021b8a7e90e/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R8C3",
+          "Value",
+          "60000",
+          "80000"
+        ],
+        [
+          "5/2/2025, 18:39:12",
+          "Mythic Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-fcbe81275db18326c68d856edf510838/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R6C3",
+          "Value",
+          "30000",
+          "50000"
+        ],
+        [
+          "5/2/2025, 18:39:54",
+          "Mythic Avernus",
+          "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R3C5",
+          "Existing",
+          "<100",
+          "50+"
+        ],
+        [
+          "5/2/2025, 18:40:21",
+          "Mythic Avernus",
+          "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R3C3",
+          "Value",
+          "25000",
+          "35000"
+        ],
+        [
+          "5/2/2025, 18:40:32",
+          "Shiny Mythic Avernus",
+          "https://tr.rbxcdn.com/180DAY-ff5ddf04113a3eb28994e26f978e70fe/420/420/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R3C3",
+          "Value",
+          "350000"
         ]
       ]
     }
