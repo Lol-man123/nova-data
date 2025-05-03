@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,000",
           "3",
-          "12,077",
+          "12,090",
           "2",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
           "4",
-          "2,729",
+          "2,732",
           "6",
           "No",
           "Dropping"
@@ -100,7 +100,7 @@
           "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
           "3,200",
           "8",
-          "9371",
+          "9394",
           "3",
           "Yes",
           "Dropping"
@@ -206,7 +206,7 @@
           "https://tr.rbxcdn.com/180DAY-777d02fe158dc7e0e41779574f707a13/512/512/Image/Png/noFilter",
           "11,000",
           "9",
-          "385",
+          "386",
           "9",
           "Yes",
           "Stable"
@@ -240,7 +240,7 @@
         [
           "Mythic Avernus",
           "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
-          "35,000",
+          "25,000",
           "7",
           "50+",
           "9",
@@ -24686,6 +24686,16 @@
           "R3C3",
           "Value",
           "350000"
+        ],
+        [
+          "5/3/2025, 10:36:52",
+          "Mythic Avernus",
+          "https://tr.rbxcdn.com/180DAY-862352088b7159d76dd6b06bba65e9ac/420/420/Image/Webp/noFilter",
+          "MythicSecrets",
+          "R3C3",
+          "Value",
+          "35000",
+          "25000"
         ]
       ]
     }
