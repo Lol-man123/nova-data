@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "1,000",
           "3",
-          "12,830",
+          "12,904",
           "2",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
           "4",
-          "2,869",
+          "2,884",
           "6",
           "No",
           "Dropping"
@@ -58,7 +58,7 @@
         [
           "Giant Chocolate Chicken",
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
-          "4,500",
+          "6,000",
           "8",
           "5,349",
           "4",
@@ -93,15 +93,15 @@
           "510",
           "9",
           "Yes",
-          "Stable"
+          "Rising"
         ],
         [
           "Royal Trophy",
           "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
-          "3,200",
+          "3,000",
           "8",
-          "11064",
-          "3",
+          "11230",
+          "2",
           "Yes",
           "Dropping"
         ]
@@ -126,7 +126,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "3,000",
           "4",
-          "560",
+          "562",
           "7",
           "No",
           "Dropping"
@@ -206,7 +206,7 @@
           "https://tr.rbxcdn.com/180DAY-777d02fe158dc7e0e41779574f707a13/512/512/Image/Png/noFilter",
           "11,000",
           "9",
-          "441",
+          "446",
           "9",
           "Yes",
           "Stable"
@@ -312,7 +312,7 @@
           "https://tr.rbxcdn.com/180DAY-579f83651f8cb43fffb40e92bf88d9a4/512/512/Image/Png/noFilter",
           "30,000",
           "9",
-          "125",
+          "127",
           "10",
           "Yes",
           "Stable"
@@ -24696,6 +24696,46 @@
           "Value",
           "35000",
           "25000"
+        ],
+        [
+          "5/3/2025, 19:57:19",
+          "Giant Chocolate Chicken",
+          "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R6C3",
+          "Value",
+          "4500",
+          "6000"
+        ],
+        [
+          "5/3/2025, 19:57:33",
+          "Royal Trophy",
+          "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R10C3",
+          "Value",
+          "3200",
+          "3000"
+        ],
+        [
+          "5/3/2025, 19:57:46",
+          "Dementor",
+          "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R9C8",
+          "Trend",
+          "Stable",
+          "Rising"
+        ],
+        [
+          "5/3/2025, 19:58:02",
+          "Royal Trophy",
+          "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R10C6",
+          "Rarity",
+          "3",
+          "2"
         ]
       ]
     }
