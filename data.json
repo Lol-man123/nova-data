@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "750",
           "3",
-          "18,204",
+          "18,216",
           "2",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
           "4",
-          "3,630",
+          "3,631",
           "6",
           "No",
           "Dropping"
@@ -107,10 +107,23 @@
         ],
         [
           "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
           "",
+          "6",
+          "5226",
+          "6",
+          "No",
+          "Dropping"
+        ],
+        [
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
           "",
+          "8",
           "",
-          "5185"
+          "7",
+          "Yes",
+          "Stable"
         ]
       ]
     },
@@ -215,6 +228,26 @@
           "9",
           "634",
           "9",
+          "Yes",
+          "Stable"
+        ],
+        [
+          "Shiny Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "",
+          "6",
+          "",
+          "8",
+          "No",
+          "Dropping"
+        ],
+        [
+          "Shiny Luminosity",
+          "https://tr.rbxcdn.com/180DAY-12ea827ca67bf00fc278d35b783fcb87/512/512/Image/Png/noFilter",
+          "",
+          "8",
+          "",
+          "7",
           "Yes",
           "Stable"
         ]
@@ -323,6 +356,26 @@
           "10",
           "Yes",
           "Stable"
+        ],
+        [
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "",
+          "8",
+          "",
+          "9",
+          "No",
+          "Dropping"
+        ],
+        [
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "",
+          "9",
+          "",
+          "9",
+          "Yes",
+          "Stable"
         ]
       ]
     },
@@ -426,6 +479,26 @@
           "",
           "10",
           "6",
+          "10",
+          "Yes",
+          "Stable"
+        ],
+        [
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "",
+          "9",
+          "",
+          "10",
+          "No",
+          "Dropping"
+        ],
+        [
+          "Shiny Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "",
+          "10",
+          "",
           "10",
           "Yes",
           "Stable"
@@ -25045,6 +25118,534 @@
           "Pet Name",
           "",
           "Mech Robot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:24:37",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:24:45",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C4",
+          "Demand",
+          "",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:24:47",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C6",
+          "Rarity",
+          "",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:24:50",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:24:51",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:24:58",
+          "Shiny Mech Robot",
+          "",
+          "ShinySecrets",
+          "R11C1",
+          "Pet Name",
+          "",
+          "Shiny Mech Robot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:03",
+          "Shiny Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R11C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:09",
+          "Shiny Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R11C4",
+          "Demand",
+          "",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:14",
+          "Shiny Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R11C6",
+          "Rarity",
+          "",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:16",
+          "Shiny Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R11C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:19",
+          "Shiny Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R11C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:26",
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R11C1",
+          "Pet Name",
+          "",
+          "Mythic Mech Robot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:27",
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R11C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:30",
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R11C4",
+          "Demand",
+          "",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:35",
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R11C6",
+          "Rarity",
+          "",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:37",
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R11C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:39",
+          "Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R11C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:53",
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R11C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Mech Robot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:53",
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R11C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:55",
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R11C4",
+          "Demand",
+          "",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:25:58",
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R11C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:01",
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R11C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:03",
+          "Shiny Mythic Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-bda7145c1107a8e3a894d08558639236/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R11C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:24",
+          "Luminosity",
+          "",
+          "NormalSecrets",
+          "R12C1",
+          "Pet Name",
+          "",
+          "Luminosity",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:31",
+          "Shiny Luminosity",
+          "",
+          "ShinySecrets",
+          "R12C1",
+          "Pet Name",
+          "",
+          "Shiny Luminosity",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:35",
+          "Mythic Luminosity",
+          "",
+          "MythicSecrets",
+          "R12C1",
+          "Pet Name",
+          "",
+          "Mythic Luminosity",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:41",
+          "Shiny Mythic Luminosity",
+          "",
+          "ShinyMythicSecrets",
+          "R12C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Luminosity",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:45",
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R12C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:48",
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R12C4",
+          "Demand",
+          "",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:52",
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R12C6",
+          "Rarity",
+          "",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:55",
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R12C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:26:59",
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R12C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:06",
+          "Shiny Luminosity",
+          "",
+          "ShinySecrets",
+          "R12C4",
+          "Demand",
+          "",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:11",
+          "Shiny Luminosity",
+          "",
+          "ShinySecrets",
+          "R12C6",
+          "Rarity",
+          "",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:12",
+          "Shiny Luminosity",
+          "",
+          "ShinySecrets",
+          "R12C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:13",
+          "Shiny Luminosity",
+          "",
+          "ShinySecrets",
+          "R12C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:21",
+          "Shiny Luminosity",
+          "https://tr.rbxcdn.com/180DAY-12ea827ca67bf00fc278d35b783fcb87/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R12C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-12ea827ca67bf00fc278d35b783fcb87/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:30",
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R12C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:32",
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R12C4",
+          "Demand",
+          "",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:36",
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R12C4",
+          "Demand",
+          "7",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:40",
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R12C6",
+          "Rarity",
+          "",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:42",
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R12C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:43",
+          "Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-71ca6f710e23bb7d2d92e11f8c3c877d/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R12C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:50",
+          "Shiny Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R12C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:55",
+          "Shiny Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R12C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:27:58",
+          "Shiny Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R12C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:28:01",
+          "Shiny Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R12C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/6/2025, 20:28:03",
+          "Shiny Mythic Luminosity",
+          "https://tr.rbxcdn.com/180DAY-16d8b64f5acb40226203ef9822330da7/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R12C8",
+          "Trend",
+          "",
+          "Stable",
           "thelolman76@gmail.com"
         ]
       ]
