@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "700",
           "3",
-          "20,467",
+          "20,473",
           "2",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "1,750",
           "4",
-          "3,854",
+          "3,855",
           "6",
           "No",
           "Dropping"
@@ -110,7 +110,7 @@
           "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
           "750",
           "6",
-          "12,713",
+          "12,730",
           "6",
           "No",
           "Dropping"
@@ -120,7 +120,7 @@
           "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
           "3,750",
           "8",
-          "1157",
+          "1159",
           "7",
           "Yes",
           "Stable"
@@ -246,7 +246,7 @@
           "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
           "2,500",
           "6",
-          "793",
+          "794",
           "8",
           "No",
           "Dropping"
@@ -382,7 +382,7 @@
           "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
           "9,000",
           "8",
-          "129",
+          "130",
           "9",
           "No",
           "Dropping"
@@ -1796,7 +1796,7 @@
       ]
     },
     {
-      "range": "ShinyMythicLegendary!A1:Z1001",
+      "range": "ShinyMythicLegendary!A1:Z999",
       "majorDimension": "ROWS",
       "values": [
         [
@@ -1872,7 +1872,7 @@
         [
           "Shiny Mythic Holy Egg",
           "https://tr.rbxcdn.com/180DAY-434c6a10f818a35c45bf8eb2ffc2c22b/420/420/Image/Webp/noFilter",
-          "6,000",
+          "1,250",
           "10",
           "<50",
           "10",
@@ -1882,7 +1882,7 @@
         [
           "Shiny Mythic Trio Cube",
           "https://tr.rbxcdn.com/180DAY-28fa1229b1c0ba6e90bfd04c5eb14ddc/420/420/Image/Png/noFilter",
-          "4,200",
+          "1,000",
           "10",
           "<10",
           "10",
@@ -1892,7 +1892,7 @@
         [
           "Shiny Mythic Cardinal Bunny",
           "https://tr.rbxcdn.com/180DAY-dae79ab3453d3d1fee335f357642b2cd/420/420/Image/Png/noFilter",
-          "2,750",
+          "3,000",
           "10",
           "<100",
           "9",
@@ -1902,7 +1902,7 @@
         [
           "Shiny Mythic Sigma Serpent",
           "https://tr.rbxcdn.com/180DAY-48b8174dbf1dbbc4cf3629628b8428fa/420/420/Image/Png/noFilter",
-          "2,400",
+          "1,800",
           "10",
           "<100",
           "9",
@@ -1912,7 +1912,7 @@
         [
           "Shiny Mythic Ophanim",
           "https://tr.rbxcdn.com/180DAY-2417e47fb2884703ce344a74a6186db5/420/420/Image/Png/noFilter",
-          "2,400",
+          "1,000",
           "10",
           "<100",
           "",
@@ -1922,7 +1922,7 @@
         [
           "Shiny Mythic Abyssal Dragon",
           "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
-          "2,100",
+          "300",
           "8",
           "<10",
           "10",
@@ -1932,7 +1932,7 @@
         [
           "Shiny Mythic Rainbow Marshmellow",
           "https://tr.rbxcdn.com/180DAY-4cbae2536363f51c3ac962465e7bc49f/420/420/Image/Webp/noFilter",
-          "2,100",
+          "400",
           "10",
           "<100",
           "10",
@@ -1942,7 +1942,7 @@
         [
           "Shiny Mythic Nullvoid",
           "https://tr.rbxcdn.com/180DAY-081c011820c23d56f28591f479cc4360/420/420/Image/Png/noFilter",
-          "2,000",
+          "1,500",
           "10",
           "<100",
           "9",
@@ -1952,7 +1952,7 @@
         [
           "Shiny Mythic Moonburst",
           "https://tr.rbxcdn.com/180DAY-1ec156d8b38726291603b545f569540f/420/420/Image/Png/noFilter",
-          "1,800",
+          "400",
           "10",
           "<100",
           "9",
@@ -1962,7 +1962,7 @@
         [
           "Shiny Mythic Sunburst",
           "https://tr.rbxcdn.com/180DAY-8e6cf51a81f5cda12a6d093b28b57153/420/420/Image/Webp/noFilter",
-          "1,800",
+          "200",
           "10",
           "<100",
           "9",
@@ -1970,68 +1970,114 @@
           "Dropping"
         ],
         [
-          "Shiny Mythic Rainbow Shock",
-          "https://tr.rbxcdn.com/180DAY-145986d2006eab091e6e43dd313db1df/420/420/Image/Webp/noFilter",
-          "800",
-          "7",
-          "<10",
-          "10",
-          "No",
-          "Dropping"
-        ],
-        [
-          "Shiny Mythic Hexarium",
-          "https://tr.rbxcdn.com/180DAY-2cfc2a8ce5eac2fec90a62d5bfc810c8/420/420/Image/Webp/noFilter",
-          "300",
-          "5",
-          "<500",
-          "8",
-          "No",
-          "Dropping"
-        ],
-        [
           "Shiny Mythic Elite Soul",
-          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "",
+          "10",
+          "<5",
+          "10",
+          "Yes",
+          "Stable"
         ],
         [
           "Shiny Mythic Doof",
-          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "800",
+          "10",
+          "<1000",
+          "8",
+          "Yes",
+          "Stable"
         ],
         [
           "Shiny Mythic Round",
-          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "8,000",
+          "10",
+          "<100",
+          "9",
+          "Yes",
+          "Stable"
         ],
         [
           "Shiny Mythic Jackpot",
-          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "11,000",
+          "10",
+          "<100",
+          "10",
+          "Yes",
+          "Stable"
         ],
         [
           "Shiny Mythic Moonlight",
-          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "200",
+          "7",
+          "<1000",
+          "5",
+          "No",
+          "Dropping"
         ],
         [
           "Shiny Mythic Magmas",
-          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "800",
+          "6",
+          "<1000",
+          "6",
+          "No",
+          "Dropping"
         ],
         [
           "Shiny Mythic Nebula",
-          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "40,000",
+          "10",
+          "<100",
+          "10",
+          "Yes",
+          "Stable"
         ],
         [
           "Shiny Mythic Bionic Shard",
-          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "500",
+          "7",
+          "<1000",
+          "5",
+          "No",
+          "Dropping"
         ],
         [
           "Shiny Mythic Dice Split",
-          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "600",
+          "5",
+          "<1000",
+          "5",
+          "No",
+          "Dropping"
         ],
         [
           "Shiny Mythic Dragon Plushie",
-          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "1,200",
+          "6",
+          "<1000",
+          "5",
+          "No",
+          "Dropping"
         ],
         [
           "Shiny Mythic Game Master",
-          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter"
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "200",
+          "8",
+          "<1000",
+          "4",
+          "Yes",
+          "Stable"
         ]
       ]
     },
@@ -31637,6 +31683,787 @@
           "https://tr.rbxcdn.com/180DAY-6bf9316b3f4750e831ea7f2ddf7dac5d/512/512/Image/Png/noFilter",
           "MythicLegendary",
           "R25C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:42:15",
+          "Shiny Mythic Holy Egg",
+          "https://tr.rbxcdn.com/180DAY-434c6a10f818a35c45bf8eb2ffc2c22b/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "R8C3",
+          "Value",
+          "6000",
+          "1250",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:42:20",
+          "Shiny Mythic Trio Cube",
+          "https://tr.rbxcdn.com/180DAY-28fa1229b1c0ba6e90bfd04c5eb14ddc/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R9C3",
+          "Value",
+          "4200",
+          "1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:42:26",
+          "Shiny Mythic Cardinal Bunny",
+          "https://tr.rbxcdn.com/180DAY-dae79ab3453d3d1fee335f357642b2cd/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R10C3",
+          "Value",
+          "2750",
+          "3000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:42:32",
+          "Shiny Mythic Sigma Serpent",
+          "https://tr.rbxcdn.com/180DAY-48b8174dbf1dbbc4cf3629628b8428fa/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R11C3",
+          "Value",
+          "2400",
+          "1800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:42:38",
+          "Shiny Mythic Ophanim",
+          "https://tr.rbxcdn.com/180DAY-2417e47fb2884703ce344a74a6186db5/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R12C3",
+          "Value",
+          "2400",
+          "1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:42:46",
+          "Shiny Mythic Abyssal Dragon",
+          "https://tr.rbxcdn.com/180DAY-951d51c1c48f12c3a04cfd7b62eed366/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "R13C3",
+          "Value",
+          "2100",
+          "300",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:43:00",
+          "Shiny Mythic Rainbow Marshmellow",
+          "https://tr.rbxcdn.com/180DAY-4cbae2536363f51c3ac962465e7bc49f/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "R14C3",
+          "Value",
+          "2100",
+          "400",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:43:06",
+          "Shiny Mythic Nullvoid",
+          "https://tr.rbxcdn.com/180DAY-081c011820c23d56f28591f479cc4360/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R15C3",
+          "Value",
+          "2000",
+          "1500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:43:21",
+          "Shiny Mythic Moonburst",
+          "https://tr.rbxcdn.com/180DAY-1ec156d8b38726291603b545f569540f/420/420/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R16C3",
+          "Value",
+          "1800",
+          "400",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:43:22",
+          "Shiny Mythic Sunburst",
+          "https://tr.rbxcdn.com/180DAY-8e6cf51a81f5cda12a6d093b28b57153/420/420/Image/Webp/noFilter",
+          "ShinyMythicLegendary",
+          "R17C3",
+          "Value",
+          "1800",
+          "200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:43:46",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C3",
+          "Value",
+          "",
+          "750",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:44:06",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C3",
+          "Value",
+          "",
+          "16,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:44:07",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C3",
+          "Value",
+          "750",
+          "800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:44:31",
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R21C3",
+          "Value",
+          "",
+          "22,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:44:42",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C3",
+          "Value",
+          "16000",
+          "8000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:44:46",
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R21C3",
+          "Value",
+          "22000",
+          "11000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:44:54",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C3",
+          "Value",
+          "",
+          "200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:02",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C3",
+          "Value",
+          "",
+          "800",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:07",
+          "Shiny Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R24C3",
+          "Value",
+          "",
+          "40,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:12",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C3",
+          "Value",
+          "",
+          "500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:18",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C3",
+          "Value",
+          "",
+          "600",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:25",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C3",
+          "Value",
+          "",
+          "1,200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:32",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C3",
+          "Value",
+          "",
+          "200",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:41",
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R18C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:42",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:43",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:44",
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R21C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:44",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:47",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C4",
+          "Demand",
+          "10",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:50",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C4",
+          "Demand",
+          "",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:51",
+          "Shiny Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R24C4",
+          "Demand",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:58",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C4",
+          "Demand",
+          "",
+          "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:58",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C4",
+          "Demand",
+          "",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:45:59",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C4",
+          "Demand",
+          "",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:46:01",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C4",
+          "Demand",
+          "",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:46:07",
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R18C5",
+          "Existing",
+          "",
+          "<5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:46:55",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C5",
+          "Existing",
+          "",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:46:56",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C5",
+          "Existing",
+          "",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:46:57",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C5",
+          "Existing",
+          "",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:46:58",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C5",
+          "Existing",
+          "",
+          "<100",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:00",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C5",
+          "Existing",
+          "",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:02",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C5",
+          "Existing",
+          "<100",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:03",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C5",
+          "Existing",
+          "<100",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:05",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C5",
+          "Existing",
+          "<100",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:09",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C5",
+          "Existing",
+          "<100",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:13",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C5",
+          "Existing",
+          "<100",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:14",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C5",
+          "Existing",
+          "<100",
+          "<1000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:16",
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R18C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:19",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C6",
+          "Rarity",
+          "",
+          "8",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:19",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C6",
+          "Rarity",
+          "",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:22",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C6",
+          "Rarity",
+          "",
+          "9",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:25",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C6",
+          "Rarity",
+          "9",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:30",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C6",
+          "Rarity",
+          "",
+          "6",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:31",
+          "Shiny Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R24C6",
+          "Rarity",
+          "",
+          "10",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:32",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C6",
+          "Rarity",
+          "",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:33",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C6",
+          "Rarity",
+          "",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:34",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C6",
+          "Rarity",
+          "",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:46",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C6",
+          "Rarity",
+          "",
+          "4",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:50",
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R18C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:52",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R19C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:53",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:55",
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R21C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:59",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:59",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:47:59",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:48:05",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C7",
+          "Is Limited",
+          "",
+          "No",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:48:09",
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R18C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:48:12",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C7",
+          "Is Limited",
+          "",
+          "Yes",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:48:12",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C8",
+          "Trend",
+          "",
+          "Dropping",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:48:15",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C8",
+          "Trend",
+          "",
+          "Stable",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 13:48:15",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C8",
           "Trend",
           "",
           "Dropping",
