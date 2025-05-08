@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "750",
           "3",
-          "20,410",
+          "20,426",
           "2",
           "No",
           "Dropping"
@@ -40,7 +40,7 @@
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
           "2,500",
           "4",
-          "3,846",
+          "3,849",
           "6",
           "No",
           "Dropping"
@@ -58,7 +58,7 @@
         [
           "Giant Chocolate Chicken",
           "https://tr.rbxcdn.com/180DAY-5ebc0017b3de954da560e4c1ac12243d/420/420/Image/Webp/noFilter",
-          "6,000",
+          "6,500",
           "8",
           "5,349",
           "4",
@@ -68,7 +68,7 @@
         [
           "Easter Basket",
           "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
-          "9,500",
+          "10,000",
           "9",
           "2,796",
           "6",
@@ -78,7 +78,7 @@
         [
           "Godly Gem",
           "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
-          "12,000",
+          "13,500",
           "10",
           "2,122",
           "8",
@@ -88,7 +88,7 @@
         [
           "Dementor",
           "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
-          "32,000",
+          "38,000",
           "10",
           "510",
           "9",
@@ -108,9 +108,9 @@
         [
           "Mech Robot",
           "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
-          "",
+          "750",
           "6",
-          "12,516",
+          "12,575",
           "6",
           "No",
           "Dropping"
@@ -118,12 +118,17 @@
         [
           "Luminosity",
           "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
-          "",
+          "3,750",
           "8",
-          "1130",
+          "1135",
           "7",
           "Yes",
           "Stable"
+        ],
+        [
+          "Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-fa16895b44cb18dc0a908bea30b70994/512/512/Image/Png/noFilter",
+          "14,000"
         ]
       ]
     },
@@ -236,7 +241,7 @@
           "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
           "",
           "6",
-          "774",
+          "780",
           "8",
           "No",
           "Dropping"
@@ -250,6 +255,10 @@
           "7",
           "Yes",
           "Stable"
+        ],
+        [
+          "Shiny Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-31c635be89ec03daab628ddb409ab9d7/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -376,6 +385,10 @@
           "9",
           "Yes",
           "Stable"
+        ],
+        [
+          "Mythic Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-3bd8de9f3a86f2747094f3261c90b79e/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -502,6 +515,10 @@
           "10",
           "Yes",
           "Stable"
+        ],
+        [
+          "Shiny Mythic Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-8b60a034144bacdfba4a631caebc36d9/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -970,6 +987,62 @@
           "8",
           "Yes",
           "Stable"
+        ],
+        [
+          "Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-86c71dd4eca2e6e4205f7d5caf3bd965/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Elite Challenger",
+          "https://tr.rbxcdn.com/180DAY-26061a1c53377c64cbd73ba11a2b1740/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Doof",
+          "https://tr.rbxcdn.com/180DAY-34b3ab6bcc2c3fc249b2f93dfd2a95bd/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Round",
+          "https://tr.rbxcdn.com/180DAY-048798a43876bd23861886d80d5b6b92/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Jackpot",
+          "https://tr.rbxcdn.com/180DAY-8da068fc55e3be2cc1aac240bffb9326/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Dawn",
+          "https://tr.rbxcdn.com/180DAY-2f642613056a61bc00252a118bdf1033/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Dusk",
+          "https://tr.rbxcdn.com/180DAY-19630eb6dec60de5d28584859afb7347/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Moonlight",
+          "https://tr.rbxcdn.com/180DAY-d8abad3e9462616e26f2e68400b848be/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Magmas",
+          "https://tr.rbxcdn.com/180DAY-ecdcf2dc97d7744cb85901c1e597ee78/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Nebula",
+          "https://tr.rbxcdn.com/180DAY-0de8ba074983bd35babb6692836811c5/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-44f484482d0ca209667fad89a0a3a2b4/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Dice Split",
+          "https://tr.rbxcdn.com/180DAY-f51ff505ba1f178de8b6ba92efc1d454/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-7c1d7e76f92bf25a6c33f5efb86a3489/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Game Master",
+          "https://tr.rbxcdn.com/180DAY-6e3a43e7101407e7e96ab2cb8195d2e2/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -1256,6 +1329,62 @@
           "5",
           "No",
           "Dropping"
+        ],
+        [
+          "Shiny Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-11307e3650d3dbcc5027150ff6ef172a/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Elite Challenger",
+          "https://tr.rbxcdn.com/180DAY-a9b0c45f7899fb1b227c430939fdc8d1/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Doof",
+          "https://tr.rbxcdn.com/180DAY-fe21c03aaf96931b2d620739e640085e/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Round",
+          "https://tr.rbxcdn.com/180DAY-3432f34a104121ac988bc32c5434d5d1/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Jackpot",
+          "https://tr.rbxcdn.com/180DAY-35d4a7d407526e5c9eda88035dd3037f/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Dawn",
+          "https://tr.rbxcdn.com/180DAY-5a75349a321358a00f19b45894d7ff69/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Dusk",
+          "https://tr.rbxcdn.com/180DAY-00dcd9e8b981018e92aa4d789a706010/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Moonlight",
+          "https://tr.rbxcdn.com/180DAY-157ad188c10e84ffeef120ec6bf5b37e/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Magmas",
+          "https://tr.rbxcdn.com/180DAY-7d87a13aaf6f27b76c6c13d44ac23f8d/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Nebula",
+          "https://tr.rbxcdn.com/180DAY-f073509d2e9fd189fc17b8fae8978636/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-76380f9b85464c0c258750c4ee5351d3/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Dice Split",
+          "https://tr.rbxcdn.com/180DAY-594800eb0285b0381c850e9d66c9fe4f/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-690636d36ff1b3fc4593968129049379/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Game Master",
+          "https://tr.rbxcdn.com/180DAY-74170e3037c1ec8ac8b54b8cac075a38/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -1452,6 +1581,50 @@
           "8",
           "No",
           "Dropping"
+        ],
+        [
+          "Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-e9244c30f93f3958a0ac2f7e2342a9b2/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-f0b088b9f1fae77ba35048161223b645/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-8c85c79b7e903c9796da1409198ade86/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-83f89819ef233c7a828f65121a1b6958/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-fa0af2f5a4d17948ce1e95e0d6261f19/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-4d45daf33c284119277e3504c575029f/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9b686b6826a536ae3111b9a58532221c/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-6bf9316b3f4750e831ea7f2ddf7dac5d/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-5070b52f43396754e493319f15332bfa/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-02008cf3da82dfd28d5e7037e0a6a65d/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -1648,6 +1821,50 @@
           "8",
           "No",
           "Dropping"
+        ],
+        [
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter"
+        ],
+        [
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter"
         ]
       ]
     },
@@ -25679,6 +25896,1271 @@
           "Existing",
           "2122",
           "2,122",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:13",
+          "Elite Soul",
+          "",
+          "Legendary",
+          "R30C1",
+          "Pet Name",
+          "",
+          "Elite Soul",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:15",
+          "Elite Challenger",
+          "",
+          "Legendary",
+          "R31C1",
+          "Pet Name",
+          "",
+          "Elite Challenger",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:21",
+          "Elite Challenger",
+          "https://tr.rbxcdn.com/180DAY-26061a1c53377c64cbd73ba11a2b1740/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R31C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-26061a1c53377c64cbd73ba11a2b1740/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:37",
+          "Shiny Elite Soul",
+          "",
+          "ShinyLegendary",
+          "R29C1",
+          "Pet Name",
+          "",
+          "Shiny Elite Soul",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:39",
+          "Shiny Elite Challenger",
+          "",
+          "ShinyLegendary",
+          "R30C1",
+          "Pet Name",
+          "",
+          "Shiny Elite Challenger",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:43",
+          "Mythic Elite Soul",
+          "",
+          "MythicLegendary",
+          "R20C1",
+          "Pet Name",
+          "",
+          "Mythic Elite Soul",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:50",
+          "Shiny Mythic Elite Soul",
+          "",
+          "ShinyMythicLegendary",
+          "R20C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Elite Soul",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:56",
+          "Doof",
+          "",
+          "Legendary",
+          "R32C1",
+          "Pet Name",
+          "",
+          "Doof",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:04:57",
+          "Round",
+          "",
+          "Legendary",
+          "R33C1",
+          "Pet Name",
+          "",
+          "Round",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:01",
+          "Round",
+          "",
+          "ShinyLegendary",
+          "R32C1",
+          "Pet Name",
+          "",
+          "Round",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:02",
+          "Doof",
+          "",
+          "ShinyLegendary",
+          "R31C1",
+          "Pet Name",
+          "",
+          "Doof",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:06",
+          "Mythic ROund",
+          "",
+          "MythicLegendary",
+          "R22C1",
+          "Pet Name",
+          "",
+          "Mythic ROund",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:10",
+          "Mythic Round",
+          "",
+          "MythicLegendary",
+          "R22C1",
+          "Pet Name",
+          "Mythic ROund",
+          "Mythic Round",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:14",
+          "Shiny Round",
+          "",
+          "ShinyLegendary",
+          "R32C1",
+          "Pet Name",
+          "Round",
+          "Shiny Round",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:18",
+          "Shiny Doof",
+          "",
+          "ShinyLegendary",
+          "R31C1",
+          "Pet Name",
+          "Doof",
+          "Shiny Doof",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:21",
+          "Shiny Mythic Round",
+          "",
+          "ShinyMythicLegendary",
+          "R21C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Round",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:25",
+          "Shiny Mythic Round",
+          "",
+          "ShinyMythicLegendary",
+          "R22C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Doof",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:38",
+          "Shiny Elite Challenger",
+          "https://tr.rbxcdn.com/180DAY-a9b0c45f7899fb1b227c430939fdc8d1/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R30C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-a9b0c45f7899fb1b227c430939fdc8d1/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:05:41",
+          "Shiny Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-11307e3650d3dbcc5027150ff6ef172a/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R29C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-11307e3650d3dbcc5027150ff6ef172a/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:02",
+          "Shiny Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R20C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-ed8b5706c496874ad5eb30f4d804f606/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:07",
+          "Mythic Elite Soul",
+          "https://tr.rbxcdn.com/180DAY-e9244c30f93f3958a0ac2f7e2342a9b2/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R20C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-e9244c30f93f3958a0ac2f7e2342a9b2/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:49",
+          "Jackpot",
+          "",
+          "Legendary",
+          "R34C1",
+          "Pet Name",
+          "",
+          "Jackpot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:50",
+          "Dawn",
+          "",
+          "Legendary",
+          "R35C1",
+          "Pet Name",
+          "",
+          "Dawn",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:53",
+          "Moonlight",
+          "",
+          "Legendary",
+          "R37C1",
+          "Pet Name",
+          "",
+          "Moonlight",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:53",
+          "Dusk",
+          "",
+          "Legendary",
+          "R36C1",
+          "Pet Name",
+          "",
+          "Dusk",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:06:59",
+          "Magmas",
+          "",
+          "Legendary",
+          "R38C1",
+          "Pet Name",
+          "",
+          "Magmas",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:07:02",
+          "Nebula",
+          "",
+          "Legendary",
+          "R39C1",
+          "Pet Name",
+          "",
+          "Nebula",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:08:55",
+          "Doof",
+          "https://tr.rbxcdn.com/180DAY-34b3ab6bcc2c3fc249b2f93dfd2a95bd/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R32C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-34b3ab6bcc2c3fc249b2f93dfd2a95bd/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:09:01",
+          "Shiny Doof",
+          "https://tr.rbxcdn.com/180DAY-fe21c03aaf96931b2d620739e640085e/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R31C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-fe21c03aaf96931b2d620739e640085e/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:09:09",
+          "Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-f0b088b9f1fae77ba35048161223b645/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R21C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-f0b088b9f1fae77ba35048161223b645/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:13:56",
+          "Round",
+          "https://tr.rbxcdn.com/180DAY-048798a43876bd23861886d80d5b6b92/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R33C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-048798a43876bd23861886d80d5b6b92/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:10",
+          "Shiny Round",
+          "https://tr.rbxcdn.com/180DAY-3432f34a104121ac988bc32c5434d5d1/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R32C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-3432f34a104121ac988bc32c5434d5d1/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:15",
+          "Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-8c85c79b7e903c9796da1409198ade86/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R22C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-8c85c79b7e903c9796da1409198ade86/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:21",
+          "Shiny Mythic Round",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R22C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-ba8bbac01fd7603eac9d7b2fd29d1437/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:28",
+          "Shiny Mythic Doof",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R21C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-b53b82ae68f92306023027ce02d6a6ac/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:43",
+          "Jackpot",
+          "https://tr.rbxcdn.com/180DAY-8da068fc55e3be2cc1aac240bffb9326/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R34C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-8da068fc55e3be2cc1aac240bffb9326/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:56",
+          "Shiny Jackpot",
+          "https://tr.rbxcdn.com/180DAY-35d4a7d407526e5c9eda88035dd3037f/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R33C1",
+          "Pet Name",
+          "",
+          "Shiny Jackpot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:14:58",
+          "Shiny Jackpot",
+          "https://tr.rbxcdn.com/180DAY-35d4a7d407526e5c9eda88035dd3037f/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R33C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-35d4a7d407526e5c9eda88035dd3037f/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:07",
+          "Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-83f89819ef233c7a828f65121a1b6958/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R23C1",
+          "Pet Name",
+          "",
+          "Mythic Jackpot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:22",
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:23",
+          "Shiny Mythic Jackpot",
+          "https://tr.rbxcdn.com/180DAY-f6a38c042fff8c3ee7fc2cb6cb60a964/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R23C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Jackpot",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:41",
+          "Dawn",
+          "https://tr.rbxcdn.com/180DAY-2f642613056a61bc00252a118bdf1033/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R35C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-2f642613056a61bc00252a118bdf1033/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:51",
+          "Shiny Dawn",
+          "",
+          "ShinyLegendary",
+          "R34C1",
+          "Pet Name",
+          "",
+          "Shiny Dawn",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:54",
+          "Shiny Dusk",
+          "",
+          "ShinyLegendary",
+          "R35C1",
+          "Pet Name",
+          "",
+          "Shiny Dusk",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:15:59",
+          "Shiny Dawn",
+          "https://tr.rbxcdn.com/180DAY-5a75349a321358a00f19b45894d7ff69/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R34C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-5a75349a321358a00f19b45894d7ff69/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:16:05",
+          "Shiny Dusk",
+          "https://tr.rbxcdn.com/180DAY-00dcd9e8b981018e92aa4d789a706010/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R35C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-00dcd9e8b981018e92aa4d789a706010/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:16:10",
+          "Dusk",
+          "https://tr.rbxcdn.com/180DAY-19630eb6dec60de5d28584859afb7347/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R36C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-19630eb6dec60de5d28584859afb7347/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:10",
+          "Moonlight",
+          "https://tr.rbxcdn.com/180DAY-d8abad3e9462616e26f2e68400b848be/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R37C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-d8abad3e9462616e26f2e68400b848be/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:19",
+          "Shiny Moonlight",
+          "https://tr.rbxcdn.com/180DAY-157ad188c10e84ffeef120ec6bf5b37e/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R36C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-157ad188c10e84ffeef120ec6bf5b37e/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:20",
+          "Shiny Moonlight",
+          "https://tr.rbxcdn.com/180DAY-157ad188c10e84ffeef120ec6bf5b37e/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R36C1",
+          "Pet Name",
+          "",
+          "Shiny Moonlight",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:23",
+          "Mythic Moonlight",
+          "",
+          "MythicLegendary",
+          "R24C1",
+          "Pet Name",
+          "",
+          "Mythic Moonlight",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:31",
+          "Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-fa0af2f5a4d17948ce1e95e0d6261f19/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R24C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-fa0af2f5a4d17948ce1e95e0d6261f19/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:40",
+          "Shiny Mythic Moonlight",
+          "",
+          "ShinyMythicLegendary",
+          "R24C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Moonlight",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:18:41",
+          "Shiny Mythic Moonlight",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R24C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-6b45af8721bf7a72f41cda03825d1ef1/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:05",
+          "Magmas",
+          "https://tr.rbxcdn.com/180DAY-ecdcf2dc97d7744cb85901c1e597ee78/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R38C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-ecdcf2dc97d7744cb85901c1e597ee78/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:13",
+          "Shiny Magmas",
+          "https://tr.rbxcdn.com/180DAY-7d87a13aaf6f27b76c6c13d44ac23f8d/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R37C1",
+          "Pet Name",
+          "",
+          "Shiny Magmas",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:14",
+          "Shiny Magmas",
+          "https://tr.rbxcdn.com/180DAY-7d87a13aaf6f27b76c6c13d44ac23f8d/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R37C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-7d87a13aaf6f27b76c6c13d44ac23f8d/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:22",
+          "Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-4d45daf33c284119277e3504c575029f/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R25C1",
+          "Pet Name",
+          "",
+          "Mythic Magmas",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:23",
+          "Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-4d45daf33c284119277e3504c575029f/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R25C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-4d45daf33c284119277e3504c575029f/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:34",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Magmas",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:35",
+          "Shiny Mythic Magmas",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R25C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-489823d2ae7021f20d6265b64516aa94/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:50",
+          "Nebula",
+          "https://tr.rbxcdn.com/180DAY-0de8ba074983bd35babb6692836811c5/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R39C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-0de8ba074983bd35babb6692836811c5/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:58",
+          "Shiny Nebula",
+          "https://tr.rbxcdn.com/180DAY-f073509d2e9fd189fc17b8fae8978636/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R38C1",
+          "Pet Name",
+          "",
+          "Shiny Nebula",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:19:58",
+          "Shiny Nebula",
+          "https://tr.rbxcdn.com/180DAY-f073509d2e9fd189fc17b8fae8978636/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R38C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-f073509d2e9fd189fc17b8fae8978636/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:06",
+          "Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9b686b6826a536ae3111b9a58532221c/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R26C1",
+          "Pet Name",
+          "",
+          "Mythic Nebula",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:08",
+          "Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9b686b6826a536ae3111b9a58532221c/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R26C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-9b686b6826a536ae3111b9a58532221c/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:15",
+          "Shiny Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Nebula",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:17",
+          "Shiny Mythic Nebula",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R26C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-9e5867b7393818aaeeda489059f75818/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:29",
+          "Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-44f484482d0ca209667fad89a0a3a2b4/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R40C1",
+          "Pet Name",
+          "",
+          "Bionic Shard",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:31",
+          "Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-44f484482d0ca209667fad89a0a3a2b4/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R40C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-44f484482d0ca209667fad89a0a3a2b4/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:41",
+          "Shiny Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-76380f9b85464c0c258750c4ee5351d3/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R39C1",
+          "Pet Name",
+          "",
+          "Shiny Bionic Shard",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:41",
+          "Shiny Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-76380f9b85464c0c258750c4ee5351d3/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R39C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-76380f9b85464c0c258750c4ee5351d3/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:51",
+          "Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-6bf9316b3f4750e831ea7f2ddf7dac5d/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R27C1",
+          "Pet Name",
+          "",
+          "Mythic Bionic Shard",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:20:52",
+          "Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-6bf9316b3f4750e831ea7f2ddf7dac5d/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R27C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-6bf9316b3f4750e831ea7f2ddf7dac5d/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:21:01",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Bionic Shard",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:21:05",
+          "Shiny Mythic Bionic Shard",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R27C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-a93ba625016bc42d60701b6747cd5d65/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:21:47",
+          "Dice Split",
+          "https://tr.rbxcdn.com/180DAY-f51ff505ba1f178de8b6ba92efc1d454/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R41C1",
+          "Pet Name",
+          "",
+          "Dice Split",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:21:49",
+          "Dice Split",
+          "https://tr.rbxcdn.com/180DAY-f51ff505ba1f178de8b6ba92efc1d454/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R41C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-f51ff505ba1f178de8b6ba92efc1d454/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:21:56",
+          "Shiny Dice Split",
+          "https://tr.rbxcdn.com/180DAY-594800eb0285b0381c850e9d66c9fe4f/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R40C1",
+          "Pet Name",
+          "",
+          "Shiny Dice Split",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:21:58",
+          "Shiny Dice Split",
+          "https://tr.rbxcdn.com/180DAY-594800eb0285b0381c850e9d66c9fe4f/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R40C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-594800eb0285b0381c850e9d66c9fe4f/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:07",
+          "Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R28C1",
+          "Pet Name",
+          "",
+          "Mythic Dice Split",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:09",
+          "Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R28C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:21",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Dice Split",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:22",
+          "Shiny Mythic Dice Split",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R28C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-cb1beac5cb03d6bd4692b73e21465c84/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:37",
+          "Dragon Plushie",
+          "",
+          "Legendary",
+          "R42C1",
+          "Pet Name",
+          "",
+          "Dragon Plushie",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:43",
+          "Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-7c1d7e76f92bf25a6c33f5efb86a3489/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R42C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-7c1d7e76f92bf25a6c33f5efb86a3489/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:52",
+          "Shiny Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-690636d36ff1b3fc4593968129049379/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R41C1",
+          "Pet Name",
+          "",
+          "Shiny Dragon Plushie",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:54",
+          "Shiny Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-690636d36ff1b3fc4593968129049379/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R41C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-690636d36ff1b3fc4593968129049379/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:22:58",
+          "Mythic Dragon Plushie",
+          "",
+          "MythicLegendary",
+          "R29C1",
+          "Pet Name",
+          "",
+          "Mythic Dragon Plushie",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:23:02",
+          "Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-5070b52f43396754e493319f15332bfa/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R29C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-5070b52f43396754e493319f15332bfa/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:23:13",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R29C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Dragon Plushie",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:23:15",
+          "Shiny Mythic Dragon Plushie",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R29C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-0340242ff33be3d2c2e1c1830d735b8d/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:00",
+          "Game Master",
+          "https://tr.rbxcdn.com/180DAY-6e3a43e7101407e7e96ab2cb8195d2e2/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R43C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-6e3a43e7101407e7e96ab2cb8195d2e2/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:01",
+          "Game Master",
+          "https://tr.rbxcdn.com/180DAY-6e3a43e7101407e7e96ab2cb8195d2e2/512/512/Image/Png/noFilter",
+          "Legendary",
+          "R43C1",
+          "Pet Name",
+          "",
+          "Game Master",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:09",
+          "Shiny Game Master",
+          "https://tr.rbxcdn.com/180DAY-74170e3037c1ec8ac8b54b8cac075a38/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R42C1",
+          "Pet Name",
+          "",
+          "Shiny Game Master",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:10",
+          "Shiny Game Master",
+          "https://tr.rbxcdn.com/180DAY-74170e3037c1ec8ac8b54b8cac075a38/512/512/Image/Png/noFilter",
+          "ShinyLegendary",
+          "R42C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-74170e3037c1ec8ac8b54b8cac075a38/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:19",
+          "Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R30C1",
+          "Pet Name",
+          "",
+          "Mythic Game Master",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:31",
+          "Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-02008cf3da82dfd28d5e7037e0a6a65d/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R30C2",
+          "Pet Image URL",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "https://tr.rbxcdn.com/180DAY-02008cf3da82dfd28d5e7037e0a6a65d/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:38",
+          "Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-02008cf3da82dfd28d5e7037e0a6a65d/512/512/Image/Png/noFilter",
+          "MythicLegendary",
+          "R30C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:40",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R30C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Game Master",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:41",
+          "Shiny Mythic Game Master",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "ShinyMythicLegendary",
+          "R30C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-f18e2642f24e0fffc6c171288267b711/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:24:56",
+          "Silly Doggy",
+          "",
+          "NormalSecrets",
+          "R13C1",
+          "Pet Name",
+          "",
+          "Silly Doggy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:03",
+          "Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-fa16895b44cb18dc0a908bea30b70994/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R13C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-fa16895b44cb18dc0a908bea30b70994/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:11",
+          "Shiny Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-31c635be89ec03daab628ddb409ab9d7/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R13C1",
+          "Pet Name",
+          "",
+          "Shiny Silly Doggy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:11",
+          "Shiny Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-31c635be89ec03daab628ddb409ab9d7/512/512/Image/Png/noFilter",
+          "ShinySecrets",
+          "R13C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-31c635be89ec03daab628ddb409ab9d7/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:25",
+          "Mythic Silly Doggy",
+          "",
+          "MythicSecrets",
+          "R13C1",
+          "Pet Name",
+          "",
+          "Mythic Silly Doggy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:29",
+          "Shiny Mythic Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-8b60a034144bacdfba4a631caebc36d9/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R13C1",
+          "Pet Name",
+          "",
+          "Shiny Mythic Silly Doggy",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:30",
+          "Shiny Mythic Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-8b60a034144bacdfba4a631caebc36d9/512/512/Image/Png/noFilter",
+          "ShinyMythicSecrets",
+          "R13C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-8b60a034144bacdfba4a631caebc36d9/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:25:31",
+          "Mythic Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-3bd8de9f3a86f2747094f3261c90b79e/512/512/Image/Png/noFilter",
+          "MythicSecrets",
+          "R13C2",
+          "Pet Image URL",
+          "",
+          "https://tr.rbxcdn.com/180DAY-3bd8de9f3a86f2747094f3261c90b79e/512/512/Image/Png/noFilter",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:26:18",
+          "Dementor",
+          "https://tr.rbxcdn.com/180DAY-5007b63b0d39105024de88f553bb2ce7/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R9C3",
+          "Value",
+          "32000",
+          "38000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:26:41",
+          "Godly Gem",
+          "https://tr.rbxcdn.com/180DAY-71f311797f43aea273dbadbb3ea7f6c8/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R8C3",
+          "Value",
+          "12000",
+          "13500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:26:55",
+          "Silly Doggy",
+          "https://tr.rbxcdn.com/180DAY-fa16895b44cb18dc0a908bea30b70994/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R13C3",
+          "Value",
+          "",
+          "14,000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:27:07",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C3",
+          "Value",
+          "",
+          "750",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:27:19",
+          "Luminosity",
+          "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R12C3",
+          "Value",
+          "",
+          "3750",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/8/2025, 12:27:30",
+          "Easter Basket",
+          "https://tr.rbxcdn.com/180DAY-b88a9e2d636b1067043aa9197b85a3b3/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R7C3",
+          "Value",
+          "9500",
+          "10000",
           "thelolman76@gmail.com"
         ]
       ]
