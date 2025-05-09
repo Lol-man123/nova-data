@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "700",
           "3",
-          "21,135",
+          "21,139",
           "2",
           "No",
           "Dropping"
@@ -28,7 +28,7 @@
         [
           "Avernus",
           "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
-          "2,750",
+          "2,500",
           "6",
           "5,000+",
           "4",
@@ -38,9 +38,9 @@
         [
           "King Doggy",
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
-          "1,750",
+          "1,600",
           "4",
-          "3,976",
+          "3,977",
           "6",
           "No",
           "Dropping"
@@ -98,19 +98,19 @@
         [
           "Royal Trophy",
           "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
-          "1,900",
+          "2,000",
           "6",
           "15,926",
           "2",
           "Yes",
-          "Dropping"
+          "Rising"
         ],
         [
           "Mech Robot",
           "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
-          "750",
-          "6",
-          "15,481",
+          "700",
+          "5",
+          "15,503",
           "6",
           "No",
           "Dropping"
@@ -120,7 +120,7 @@
           "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
           "3,750",
           "8",
-          "1494",
+          "1496",
           "7",
           "Yes",
           "Stable"
@@ -246,7 +246,7 @@
           "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
           "2,500",
           "6",
-          "1039",
+          "1041",
           "8",
           "No",
           "Dropping"
@@ -32489,6 +32489,72 @@
           "Demand",
           "9",
           "7",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/9/2025, 08:55:25",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R4C3",
+          "Value",
+          "1750",
+          "1600",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/9/2025, 08:55:35",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C3",
+          "Value",
+          "750",
+          "700",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/9/2025, 08:55:38",
+          "Mech Robot",
+          "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R11C4",
+          "Demand",
+          "6",
+          "5",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/9/2025, 08:57:33",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C3",
+          "Value",
+          "2750",
+          "2500",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/9/2025, 08:57:39",
+          "Royal Trophy",
+          "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R10C3",
+          "Value",
+          "1900",
+          "2000",
+          "thelolman76@gmail.com"
+        ],
+        [
+          "5/9/2025, 08:57:43",
+          "Royal Trophy",
+          "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R10C8",
+          "Trend",
+          "Dropping",
+          "Rising",
           "thelolman76@gmail.com"
         ]
       ]
