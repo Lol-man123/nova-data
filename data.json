@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "700",
           "3",
-          "24,484",
+          "24,492",
           "2",
           "No",
           "Dropping"
@@ -28,7 +28,7 @@
         [
           "Avernus",
           "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
-          "1,200",
+          "1,500",
           "6",
           "10,000+",
           "4",
@@ -38,7 +38,7 @@
         [
           "King Doggy",
           "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
-          "1,600",
+          "1,200",
           "4",
           "4,490",
           "6",
@@ -98,7 +98,7 @@
         [
           "Royal Trophy",
           "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
-          "2,000",
+          "2,750",
           "6",
           "15,926",
           "2",
@@ -110,7 +110,7 @@
           "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
           "700",
           "5",
-          "23,869",
+          "23,872",
           "6",
           "No",
           "Dropping"
@@ -120,7 +120,7 @@
           "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
           "3,750",
           "8",
-          "4383",
+          "4389",
           "7",
           "Yes",
           "Stable"
@@ -140,7 +140,7 @@
           "https://i.ibb.co/Y76JL2Qj/image.jpg",
           "13,000",
           "8",
-          "934",
+          "937",
           "6",
           "Yes",
           "Stable"
@@ -266,7 +266,7 @@
           "https://tr.rbxcdn.com/180DAY-12ea827ca67bf00fc278d35b783fcb87/512/512/Image/Png/noFilter",
           "12,500",
           "8",
-          "221",
+          "222",
           "7",
           "Yes",
           "Stable"
@@ -32724,6 +32724,36 @@
           "Trend",
           "Dropping",
           "Stable"
+        ],
+        [
+          "5/12/2025, 23:33:50",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C3",
+          "Value",
+          "1200",
+          "1500"
+        ],
+        [
+          "5/12/2025, 23:34:05",
+          "King Doggy",
+          "https://tr.rbxcdn.com/180DAY-d346b55eb5983cb3e565be8eb5f0ee7b/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R4C3",
+          "Value",
+          "1600",
+          "1200"
+        ],
+        [
+          "5/12/2025, 23:34:27",
+          "Royal Trophy",
+          "https://tr.rbxcdn.com/180DAY-a1f7d5afeb5e8335de67ae2b69b45a93/512/512/Image/Png/noFilter",
+          "NormalSecrets",
+          "R10C3",
+          "Value",
+          "2000",
+          "2750"
         ]
       ]
     }
