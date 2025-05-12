@@ -20,7 +20,7 @@
           "https://tr.rbxcdn.com/180DAY-6e202c9c2c51913ede74c01157a59853/420/420/Image/Webp/noFilter",
           "700",
           "3",
-          "24,130",
+          "24,145",
           "2",
           "No",
           "Dropping"
@@ -28,9 +28,9 @@
         [
           "Avernus",
           "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
-          "2,500",
+          "1,200",
           "6",
-          "5,000+",
+          "10,000+",
           "4",
           "Yes",
           "Dropping"
@@ -110,7 +110,7 @@
           "https://tr.rbxcdn.com/180DAY-463e4a86fbdea6ba317cb5e4dfd3b4ba/512/512/Image/Png/noFilter",
           "700",
           "5",
-          "23,552",
+          "23,565",
           "6",
           "No",
           "Dropping"
@@ -120,7 +120,7 @@
           "https://tr.rbxcdn.com/180DAY-a13aaef965eb473b5dd07431aa75fc66/512/512/Image/Png/noFilter",
           "3,750",
           "8",
-          "3801",
+          "3825",
           "7",
           "Yes",
           "Stable"
@@ -140,7 +140,7 @@
           "https://i.ibb.co/Y76JL2Qj/image.jpg",
           "13,000",
           "8",
-          "596",
+          "611",
           "6",
           "Yes",
           "Stable"
@@ -166,7 +166,7 @@
           "https://tr.rbxcdn.com/180DAY-d026c6a4e12e91425b259270c9a6e81a/420/420/Image/Webp/noFilter",
           "2,000",
           "4",
-          "1245",
+          "1247",
           "7",
           "No",
           "Dropping"
@@ -186,7 +186,7 @@
           "https://tr.rbxcdn.com/180DAY-d9cb148bf6ee3fb939689213bc108083/420/420/Image/Png/noFilter",
           "5,000",
           "5",
-          "187",
+          "188",
           "9",
           "No",
           "Dropping"
@@ -256,7 +256,7 @@
           "https://tr.rbxcdn.com/180DAY-5d27079101275d55ee87ea38c756d096/512/512/Image/Png/noFilter",
           "2,500",
           "6",
-          "1628",
+          "1629",
           "8",
           "No",
           "Dropping"
@@ -266,7 +266,7 @@
           "https://tr.rbxcdn.com/180DAY-12ea827ca67bf00fc278d35b783fcb87/512/512/Image/Png/noFilter",
           "12,500",
           "8",
-          "189",
+          "190",
           "7",
           "Yes",
           "Stable"
@@ -302,7 +302,7 @@
           "https://tr.rbxcdn.com/180DAY-b6f3858ad54f466928d5cb3401812ed1/420/420/Image/Webp/noFilter",
           "6,000",
           "4",
-          "229",
+          "230",
           "7",
           "No",
           "Dropping"
@@ -392,7 +392,7 @@
           "https://tr.rbxcdn.com/180DAY-1224509d74ac852741d963114d812904/512/512/Image/Png/noFilter",
           "9,000",
           "8",
-          "246",
+          "247",
           "9",
           "No",
           "Dropping"
@@ -438,7 +438,7 @@
           "https://tr.rbxcdn.com/180DAY-2656a4d4dac82beef7b998d8060002f3/420/420/Image/Webp/noFilter",
           "",
           "10",
-          "13",
+          "14",
           "10",
           "No",
           "Dropping"
@@ -32665,6 +32665,35 @@
           "",
           "Stable",
           "thelolman76@gmail.com"
+        ],
+        [
+          "5/12/2025, 06:03:23",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C3",
+          "Value",
+          "2500",
+          "1200"
+        ],
+        [
+          "5/12/2025, 06:03:28",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C5",
+          "Existing",
+          "5,000+"
+        ],
+        [
+          "5/12/2025, 06:03:32",
+          "Avernus",
+          "https://tr.rbxcdn.com/180DAY-f20834c30208287c8b1288e2817d7fdf/420/420/Image/Webp/noFilter",
+          "NormalSecrets",
+          "R3C5",
+          "Existing",
+          "",
+          "10,000+"
         ]
       ]
     }
